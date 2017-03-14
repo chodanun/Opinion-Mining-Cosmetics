@@ -19,7 +19,6 @@ def opinion(csvfile):
 		wordcut = Wordcut(word_list)
 		for row in spamreader:
 			if (int(row[1]) <= 209 ) : # lip-209 
-				# print ("title : %s , item_id : %s\n"%(row[2],row[1]))
 				com = row[3].replace(' ','')
 				token = wordcut.tokenize(com)
 				try:
@@ -32,13 +31,14 @@ def opinion(csvfile):
 							dict_words[i] = 1
 				except Exception as e:
 					pass
-				
-				# print (dict_words)
-				# input()
+			break
 		sorted_words = sorted(dict_words.items(), key=operator.itemgetter(1),reverse=True)
 		print (sorted_words)
 
 def main():
+	features_lip = {'สี','ติด','เนื้อ','กลิ่น'}
+	positive_sentiments_lip = {'สวย','แน่น','ทน','คม','ดี','ชัด','หอม','ปัง','ถูกใจ','ชอบ','เจิด'}
+	negative_sentiments_lip = {'แห้ง','เป็นก้อน'}
 	comments = readFile('../data/comments-removing-redundant.csv')
 	opinion(comments)
 	# test()
