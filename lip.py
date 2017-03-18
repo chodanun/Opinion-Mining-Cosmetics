@@ -23,33 +23,77 @@ def matchItemIdToType():
 		typeOfItem[row_item[0]] = row_item[5]
 	return typeOfItem
 
+def report(token,feature,case,pos_sentiment,neg_sentiment,inv_sentiment):
+	if case == 1:
+		print (token)
+		print ("case 1 (Feature : %s)\npos : %s\nneg : %s\ninv = %s\n"%(feature,pos_sentiment,neg_sentiment,inv_sentiment))
+	elif case == 2:
+		pass
+	elif case == 3:
+		pass
+	elif case == -3:
+		pass
 def pattern_lipstick(row):
 	with open('bigthai.txt', encoding="UTF-8") as dict_file:
 		word_list = list(set([w.rstrip() for w in dict_file.readlines()]))
 		wordcut = Wordcut(word_list)
-		comment = row[3].split(' ')
+		comment = row[3].replace('ๆ','').split(' ')
 		for part in comment:
 			token = wordcut.tokenize(part)
-			for i in range(len(token)):
-				if token[i] in features_lip: # 1,2
-					try:
-						if token[i-1] in positive_sentiments_lip or token[i-1] in negative_sentiments_lip: # type 2
-							pass
+			try:
+				for i in range(len(token)):
+					pos_sentiment = Fa lse
+					neg_sentiment = False
+					inv_sentiment = False
+					case = 0
+					if token[i] in features_lip: # 1,2
+						if (i-1 >= 0 and i-1 <len(token))  and (token[i-1] in positive_sentiments_lip or token[i-1] in negative_sentiments_lip) : # type 2
+							case = 2
+							if token[i-1] in positive_sentiments_lip :
+								pos_sentiment = True
+							elif token[i-1] in negative_sentiments_lip:
+								neg_sentiment = True
+							for a in range(2):
+								if token[i-2-a] in inverse_sentiments_lip:
+									inv_sentiment = True
+
 						else: #1
-							pass 
-					except Exception as e:
-						raise e
-				else: #3
-					pass
+							case = 1
+							for b in range(2):
+								if (i-1-b >= 0 and i-1-b <len(token)) and token[i-1-b] in inverse_sentiments_lip :
+									inv_sentiment = True
+							for c in range(4):
+								if (i+1+c >= 0 and i+1+c <len(token)) and token[i+1+c] in inverse_sentiments_lip:
+									inv_sentiment = True
+							for d in range(5):
+								if (i+1+d >= 0 and i+1+d <len(token)) and  token[i+1+d]	in positive_sentiments_lip :
+									pos_sentiment = True
+								elif (i+1+d >= 0 and i+1+d <len(token)) and token[i+1+d] in negative_sentiments_lip :
+									neg_sentiment = True
+						report(token,token[i],case,pos_sentiment,neg_sentiment,inv_sentiment)
+
+					else: #3
+						if token[i] in alone_positive_sentiment_lip:
+							case = 3
+							print ("case 3")
+						elif token[i] in alone_negative_sentiment_lip:
+							case = -3
+							print ("case -3")
+			except (TypeError):
+				pass
+			
 	
 # comments => 0:comment_id,1:item_id,2:coment_title,3:comment_com,4:age,5:rate
 def opinion(csvfile):
 	spamreader = csv.reader(csvfile, delimiter=',')
 	typeOfItem = matchItemIdToType()
+	start = 0
 	for row in spamreader:
 		if (typeOfItem[row[1]] == "lipstick" ): # lip-209 
 			pattern_lipstick(row)
-		break
+		if start == 100:
+			break
+		start+=1
 	# sorted_words = sorted(dict_words.items(), key=operator.itemgetter(1),reverse=True)
 	# print (sorted_words)
 
