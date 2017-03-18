@@ -42,7 +42,7 @@ def pattern_lipstick(row):
 			token = wordcut.tokenize(part)
 			try:
 				for i in range(len(token)):
-					pos_sentiment = Fa lse
+					pos_sentiment = False
 					neg_sentiment = False
 					inv_sentiment = False
 					case = 0
@@ -59,17 +59,18 @@ def pattern_lipstick(row):
 
 						else: #1
 							case = 1
-							for b in range(2):
-								if (i-1-b >= 0 and i-1-b <len(token)) and token[i-1-b] in inverse_sentiments_lip :
-									inv_sentiment = True
-							for c in range(4):
-								if (i+1+c >= 0 and i+1+c <len(token)) and token[i+1+c] in inverse_sentiments_lip:
-									inv_sentiment = True
 							for d in range(5):
-								if (i+1+d >= 0 and i+1+d <len(token)) and  token[i+1+d]	in positive_sentiments_lip :
-									pos_sentiment = True
-								elif (i+1+d >= 0 and i+1+d <len(token)) and token[i+1+d] in negative_sentiments_lip :
-									neg_sentiment = True
+								if d < 2 :
+									if (i-1-d >= 0 and i-1-d <len(token)) and token[i-1-d] in inverse_sentiments_lip :
+										inv_sentiment = True
+								if d < 4 :
+									if (i+1+d >= 0 and i+1+d <len(token)) and token[i+1+d] in inverse_sentiments_lip:
+										inv_sentiment = True
+								if d < 5 :
+									if (i+1+d >= 0 and i+1+d <len(token)) and  token[i+1+d]	in positive_sentiments_lip :
+										pos_sentiment = True
+									elif (i+1+d >= 0 and i+1+d <len(token)) and token[i+1+d] in negative_sentiments_lip :
+										neg_sentiment = True
 						report(token,token[i],case,pos_sentiment,neg_sentiment,inv_sentiment)
 
 					else: #3
