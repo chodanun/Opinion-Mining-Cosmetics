@@ -104,24 +104,18 @@ def pattern_lipstick(row,f):
 							print ("case -3")
 			except (TypeError):
 				pass
-		# f.write("%s,%d,%d,%d\n"%(row[0],color,smell,durable))		
+		f.write("%s,%d,%d,%d\n"%(row[0],color,smell,durable))		
 		print("%s,%d,%d,%d\n"%(row[0],color,smell,durable))
 
 # comments => 0:comment_id,1:item_id,2:coment_title,3:comment_com,4:age,5:rate
 def opinion(csvfile):
 	spamreader = csv.reader(csvfile, delimiter=',')
 	typeOfItem = matchItemIdToType()
-	start = 0
-	f = writeFile('./data/opinion_lip.csv')
+	f_lip = writeFile('./data/opinion_lip.csv')
 	for row in spamreader:
 		if (typeOfItem[row[1]] == "lipstick" ): # lip-209 
-			pattern_lipstick(row,f)
-		# if start == 10:
-		# 	break
-		# start+=1
-	f.close()
-	# sorted_words = sorted(dict_words.items(), key=operator.itemgetter(1),reverse=True)
-	# print (sorted_words)
+			pattern_lipstick(row,f_lip)
+	f_lip.close()
 
 def main():
 	comments = readFile('./data/comments-removing-redundant.csv')
