@@ -35,16 +35,12 @@ def opinionScore(csvfile,scorefile,item_type):
 				elif int(row[1]) < 0:
 					score_lip[itemIdOf[int(row[0])]]['color_neg'] += -int(row[1])
 				if int(row[2]) > 0: # smell
-					pass
 					score_lip[itemIdOf[int(row[0])]]['smell_pos'] += int(row[2])
 				elif int(row[2]) < 0:
-					pass
 					score_lip[itemIdOf[int(row[0])]]['smell_neg'] += -int(row[2])
 				if int(row[3]) > 0: # durable
-					pass
 					score_lip[itemIdOf[int(row[0])]]['durable_pos'] += int(row[3])
 				elif int(row[3]) < 0:
-					pass
 					score_lip[itemIdOf[int(row[0])]]['durable_neg'] += -int(row[3])
 			else:
 				score_lip[itemIdOf[int(row[0])]] = {'color_pos':0,'smell_pos':0,'durable_pos':0,'color_neg':0,'smell_neg':0,'durable_neg':0,'reviews':1}
