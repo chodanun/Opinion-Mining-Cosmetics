@@ -13,8 +13,13 @@ def matchCommentIDtoItemID():
 	spamreader = csv.reader(comments, delimiter=',')
 	# comments => 0:comment_id,1:item_id,2:coment_title,3:comment_com,4:age,5:rate
 	for i in spamreader:
-		itemIdOf[i[0]] = i[1]
+		itemIdOf[int(i[0])] = int(i[1])
 	return itemIdOf
+
+def writeScoreDictInFile(score_dict,scorefile):
+	for key,val in score_dict.items():
+		scorefile.write("%d,%d,%d,%d,%d,%d,%d\n"%(key,val['color_pos'],val['smell_pos'],val['durable_pos'],val['color_neg'],val['smell_neg'],val['durable_neg']))
+	scorefile.close()
 
 def opinionScore(csvfile,scorefile,item_type):
 	itemIdOf = matchCommentIDtoItemID()
@@ -23,9 +28,27 @@ def opinionScore(csvfile,scorefile,item_type):
 	if item_type == "lipstick":	
 		score_lip = {}
 		for row in spamreader:
-			pass
-			# print  itemIdOf[row[0]]
-
+			if itemIdOf[int(row[0])] in score_lip:
+				if int(row[1]) > 0: # color
+					score_lip[itemIdOf[int(row[0])]]['color_pos'] += int(row[1])
+				elif int(row[1]) < 0:
+					score_lip[itemIdOf[int(row[0])]]['color_neg'] += -int(row[1])
+				if int(row[2]) > 0: # smell
+					pass
+					score_lip[itemIdOf[int(row[0])]]['smell_pos'] += int(row[2])
+				elif int(row[2]) < 0:
+					pass
+					score_lip[itemIdOf[int(row[0])]]['smell_neg'] += -int(row[2])
+				if int(row[3]) > 0: # durable
+					pass
+					score_lip[itemIdOf[int(row[0])]]['durable_pos'] += int(row[3])
+				elif int(row[3]) < 0:
+					pass
+					score_lip[itemIdOf[int(row[0])]]['durable_neg'] += -int(row[3])
+			else:
+				score_lip[itemIdOf[int(row[0])]] = {'color_pos':0,'smell_pos':0,'durable_pos':0,'color_neg':0,'smell_neg':0,'durable_neg':0}
+		writeScoreDictInFile(score_lip,scorefile)
+		
 	# add others type here
 
 def main():
