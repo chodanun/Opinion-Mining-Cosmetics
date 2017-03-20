@@ -18,7 +18,7 @@ def matchCommentIDtoItemID():
 
 def writeScoreDictInFile(score_dict,scorefile):
 	for key,val in score_dict.items():
-		scorefile.write("%d,%d,%d,%d,%d,%d,%d\n"%(key,val['color_pos'],val['smell_pos'],val['durable_pos'],val['color_neg'],val['smell_neg'],val['durable_neg']))
+		scorefile.write("%d,%d,%d,%d,%d,%d,%d,%d\n"%(key,val['color_pos'],val['smell_pos'],val['durable_pos'],val['color_neg'],val['smell_neg'],val['durable_neg'],val['reviews']))
 	scorefile.close()
 
 def opinionScore(csvfile,scorefile,item_type):
