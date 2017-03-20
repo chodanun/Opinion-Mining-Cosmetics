@@ -115,6 +115,7 @@ def opinion(csvfile):
 	for row in spamreader:
 		if (typeOfItem[row[1]] == "lipstick" ): # lip-209 
 			pattern_lipstick(row,f_lip)
+		# add others type here
 	f_lip.close()
 
 def main():
