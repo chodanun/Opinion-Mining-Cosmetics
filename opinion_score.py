@@ -29,6 +29,7 @@ def opinionScore(csvfile,scorefile,item_type):
 		score_lip = {}
 		for row in spamreader:
 			if itemIdOf[int(row[0])] in score_lip:
+				score_lip[itemIdOf[int(row[0])]]['reviews'] += 1
 				if int(row[1]) > 0: # color
 					score_lip[itemIdOf[int(row[0])]]['color_pos'] += int(row[1])
 				elif int(row[1]) < 0:
@@ -46,7 +47,7 @@ def opinionScore(csvfile,scorefile,item_type):
 					pass
 					score_lip[itemIdOf[int(row[0])]]['durable_neg'] += -int(row[3])
 			else:
-				score_lip[itemIdOf[int(row[0])]] = {'color_pos':0,'smell_pos':0,'durable_pos':0,'color_neg':0,'smell_neg':0,'durable_neg':0}
+				score_lip[itemIdOf[int(row[0])]] = {'color_pos':0,'smell_pos':0,'durable_pos':0,'color_neg':0,'smell_neg':0,'durable_neg':0,'reviews':1}
 		writeScoreDictInFile(score_lip,scorefile)
 		
 	# add others type here
