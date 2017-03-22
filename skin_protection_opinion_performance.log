@@ -1,3 +1,11 @@
+['แต่', 'ต้อง', 'ใช้', 'อย่างสม่ำเสมอ', 'ถึง', 'เห็น', 'ผล', 'ใน', 'การปกป้อง', 'แสงแดด']
+case 2 (Feature : แสงแดด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['กลิ่น', 'ไม่', 'แรง']
 case 1 (Feature : กลิ่น)
 pos : False
@@ -120,6 +128,14 @@ ANS : POSITIVE
 
 ['กันแดด', 'ดี']
 case 1 (Feature : กันแดด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
 pos : True
 neg : False
 inv = False
@@ -286,6 +302,14 @@ inv = False
 ANS : NEGATIVE
 
 
+['คุณภาพ', 'การ', 'กันแดด', 'ยัง', 'ไม่แน่ใจ']
+case 2 (Feature : กันแดด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['กันแดด', 'ได้', 'ดี', 'เลย', 'ครับ']
 case 1 (Feature : กันแดด)
 pos : True
@@ -296,6 +320,14 @@ ANS : POSITIVE
 
 ['ซึม', 'เร็ว']
 case 1 (Feature : ซึม)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'อ่อน']
+case 1 (Feature : กลิ่น)
 pos : True
 neg : False
 inv = False
@@ -454,7 +486,7 @@ inv = False
 ANS : NEGATIVE
 
 
-['กลิ่น', 'แรง', 'ไป', 'นิด']
+['กลิ่น', 'แรง', 'ไปนิด']
 case 1 (Feature : กลิ่น)
 pos : False
 neg : True
@@ -502,7 +534,7 @@ inv = False
 ANS : POSITIVE
 
 
-['เหนียว', 'ไป', 'นิด']
+['เหนียว', 'ไปนิด']
 case 2 (Feature : เหนียว)
 pos : False
 neg : True
@@ -571,6 +603,14 @@ case 2 (Feature : เหนียว)
 pos : False
 neg : True
 inv = True
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
 ANS : POSITIVE
 
 
@@ -654,6 +694,14 @@ inv = True
 ANS : POSITIVE
 
 
+['ใช่', 'ดี', 'ค่ะ', 'กลิ่น', 'หอม']
+case 2 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ไม่', 'เหนียว']
 case 2 (Feature : เหนียว)
 pos : False
@@ -702,11 +750,27 @@ inv = False
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ไม่', 'เหนียวเหนอะหนะ']
 case 2 (Feature : เหนียวเหนอะหนะ)
 pos : False
 neg : True
 inv = True
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
 ANS : POSITIVE
 
 
@@ -756,6 +820,14 @@ pos : False
 neg : True
 inv = False
 ANS : NEGATIVE
+
+
+['กลิ่น', 'หอม', 'อ่อน']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
 
 
 ['เหนียวเหนอะหนะ', 'มาก', 'ค่ะ']
@@ -974,7 +1046,7 @@ inv = False
 ANS : NEGATIVE
 
 
-['แอบ', 'หนืด', 'ไป', 'นิด']
+['แอบ', 'หนืด', 'ไปนิด']
 case 2 (Feature : หนืด)
 pos : False
 neg : True
@@ -1008,6 +1080,14 @@ ANS : NEGATIVE
 
 ['กันแดด', 'ได้', 'ดี', 'มาก', 'ยอมรับ', 'เลย', 'ยี่ห้อ', 'นี้']
 case 1 (Feature : กันแดด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'ทา', 'แล้ว']
+case 1 (Feature : กลิ่น)
 pos : True
 neg : False
 inv = False
@@ -1080,6 +1160,14 @@ ANS : NEGATIVE
 
 ['ซึม', 'ดี']
 case 1 (Feature : ซึม)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
 pos : True
 neg : False
 inv = False
@@ -1366,7 +1454,7 @@ inv = True
 ANS : NEGATIVE
 
 
-['เหนียว', 'ไป', 'นิด', 'นึง']
+['เหนียว', 'ไปนิด', 'นึง']
 case 2 (Feature : เหนียว)
 pos : False
 neg : True
@@ -1734,7 +1822,7 @@ inv = True
 ANS : POSITIVE
 
 
-['เนื้อ', 'ครีม', 'ทา', 'ง่าย', 'ไม่', 'เหนียวเหนอะหนะ']
+['เนื้อ', 'ครีม', 'ทาง่าย', 'ไม่', 'เหนียวเหนอะหนะ']
 case 2 (Feature : เหนียวเหนอะหนะ)
 pos : False
 neg : True
@@ -2374,20 +2462,12 @@ inv = False
 ANS : POSITIVE
 
 
-['แต', '่เนืื้อ', 'เหนียว', 'ไป', 'นิด', 'แต่', 'ซึม', 'เร็ว', 'ดี']
+['แต', '่เนืื้อ', 'เหนียว', 'ไปนิด', 'แต่', 'ซึม', 'เร็ว', 'ดี']
 case 2 (Feature : เหนียว)
 pos : False
 neg : True
 inv = False
 ANS : NEGATIVE
-
-
-['แต', '่เนืื้อ', 'เหนียว', 'ไป', 'นิด', 'แต่', 'ซึม', 'เร็ว', 'ดี']
-case 1 (Feature : ซึม)
-pos : True
-neg : False
-inv = False
-ANS : POSITIVE
 
 
 ['ค่อนข้าง', 'หนืด']
@@ -2550,6 +2630,14 @@ inv = False
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม', 'มาก', 'ค่ะ']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ไม่', 'เหนียว', 'เกินไป']
 case 2 (Feature : เหนียว)
 pos : False
@@ -2598,6 +2686,14 @@ inv = True
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม', 'ดี']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['แต่', 'ค่อนข้าง', 'เหนอะ']
 case 2 (Feature : เหนอะ)
 pos : False
@@ -2622,20 +2718,12 @@ inv = False
 ANS : NEGATIVE
 
 
-['ทา', 'ง่าย', 'ค่ะ', 'แต่', 'ก็', 'ยัง', 'เหนอะ', 'หน่อย', 'แต่', 'ก็', 'ทา', 'ง่าย', 'กว่า', 'กันแดด', 'ตัว', 'อื่น', 'เลย']
+['ทาง่าย', 'ค่ะ', 'แต่', 'ก็', 'ยัง', 'เหนอะ', 'หน่อย', 'แต่', 'ก็', 'ทาง่าย', 'กว่า', 'กันแดด', 'ตัว', 'อื่น', 'เลย']
 case 2 (Feature : เหนอะ)
 pos : False
 neg : True
 inv = False
 ANS : NEGATIVE
-
-
-['ทา', 'ง่าย', 'ค่ะ', 'แต่', 'ก็', 'ยัง', 'เหนอะ', 'หน่อย', 'แต่', 'ก็', 'ทา', 'ง่าย', 'กว่า', 'กันแดด', 'ตัว', 'อื่น', 'เลย']
-case 2 (Feature : กันแดด)
-pos : True
-neg : False
-inv = False
-ANS : POSITIVE
 
 
 ['กันแดด', 'ดี', 'ค่ะ']
@@ -2707,6 +2795,14 @@ case 2 (Feature : เหนียว)
 pos : False
 neg : True
 inv = True
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'มาก']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
 ANS : POSITIVE
 
 
@@ -2790,7 +2886,7 @@ inv = True
 ANS : POSITIVE
 
 
-['เหนียว', 'ไป', 'นิด', 'สำหรับ', 'สูตร', 'นี้']
+['เหนียว', 'ไปนิด', 'สำหรับ', 'สูตร', 'นี้']
 case 2 (Feature : เหนียว)
 pos : False
 neg : True
@@ -2918,6 +3014,14 @@ inv = False
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['กันแดด', 'ดี', 'ยุ', 'แล้ว']
 case 1 (Feature : กันแดด)
 pos : True
@@ -2958,6 +3062,14 @@ inv = False
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม', 'อ่อน']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ซึม', 'เร็ว']
 case 1 (Feature : ซึม)
 pos : True
@@ -2971,6 +3083,14 @@ case 2 (Feature : เหนอะ)
 pos : False
 neg : True
 inv = True
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
 ANS : POSITIVE
 
 
@@ -3134,7 +3254,7 @@ inv = True
 ANS : POSITIVE
 
 
-['เหนอะ', 'ไป', 'นิด']
+['เหนอะ', 'ไปนิด']
 case 2 (Feature : เหนอะ)
 pos : False
 neg : True
@@ -3222,6 +3342,14 @@ inv = True
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม', 'อ่อน']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ซึม', 'ง่าย']
 case 1 (Feature : ซึม)
 pos : True
@@ -3243,6 +3371,14 @@ case 2 (Feature : เหนียว)
 pos : False
 neg : True
 inv = True
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
 ANS : POSITIVE
 
 
@@ -3366,6 +3502,14 @@ inv = True
 ANS : NEGATIVE
 
 
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ไม่', 'เหนียว', 'เนอ', 'ะห', 'นะ']
 case 2 (Feature : เหนียว)
 pos : False
@@ -3390,7 +3534,7 @@ inv = True
 ANS : POSITIVE
 
 
-['แต่', 'บางครั้ง', 'ขึ้น', 'คราบ', 'ขาว', 'ไป', 'นิด']
+['แต่', 'บางครั้ง', 'ขึ้น', 'คราบ', 'ขาว', 'ไปนิด']
 case 2 (Feature : คราบ)
 pos : False
 neg : True
@@ -3406,7 +3550,7 @@ inv = True
 ANS : POSITIVE
 
 
-['กลิ่น', 'น้ำหอม', 'แรง', 'ไป', 'นิด']
+['กลิ่น', 'น้ำหอม', 'แรง', 'ไปนิด']
 case 1 (Feature : กลิ่น)
 pos : False
 neg : True
@@ -3427,6 +3571,14 @@ case 2 (Feature : เหนียวเหนอะหนะ)
 pos : False
 neg : True
 inv = True
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
 ANS : POSITIVE
 
 
@@ -4046,6 +4198,14 @@ inv = False
 ANS : POSITIVE
 
 
+['เพราะ', 'เรา', 'ไม่ชอบ', 'กันแดด', 'ที่', 'ผสม', 'รอง', 'พื้น']
+case 2 (Feature : กันแดด)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
 ['ไม่', 'เหนอะ']
 case 2 (Feature : เหนอะ)
 pos : False
@@ -4206,6 +4366,14 @@ inv = False
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ซึม', 'ไว', 'ดี']
 case 1 (Feature : ซึม)
 pos : True
@@ -4246,7 +4414,7 @@ inv = False
 ANS : POSITIVE
 
 
-['เป็น', 'กันแดด', 'ที', '่ซึบซ', 'าบ', 'เร็ว', 'ทา', 'ง่าย']
+['เป็น', 'กันแดด', 'ที', '่ซึบซ', 'าบ', 'เร็ว', 'ทาง่าย']
 case 1 (Feature : กันแดด)
 pos : True
 neg : False
@@ -4526,12 +4694,28 @@ inv = True
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม', 'อ่อน']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ซึม', 'ไว', 'ดี']
 case 1 (Feature : ซึม)
 pos : True
 neg : False
 inv = False
 ANS : POSITIVE
+
+
+['แต่', 'ไม่ชอบ', 'กลิ่น', 'เลย', 'ค่ะ']
+case 2 (Feature : กลิ่น)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
 
 
 ['กลิ่น', 'แปลก']
@@ -4604,6 +4788,14 @@ pos : False
 neg : True
 inv = False
 ANS : NEGATIVE
+
+
+['แต่', 'พอ', 'ดี', 'เรา', 'ไม่ชอบ', 'ทา', 'กันแดด', 'เพราะ', 'เวลา', 'ทา', 'มัน', 'เหนียว']
+case 2 (Feature : กันแดด)
+pos : True
+neg : True
+inv = False
+ANS : POSITIVE
 
 
 ['แต่', 'พอ', 'ดี', 'เรา', 'ไม่ชอบ', 'ทา', 'กันแดด', 'เพราะ', 'เวลา', 'ทา', 'มัน', 'เหนียว']
@@ -4718,7 +4910,7 @@ inv = True
 ANS : POSITIVE
 
 
-['เหนอะ', 'ไป', 'นิด', 'นึง']
+['เหนอะ', 'ไปนิด', 'นึง']
 case 2 (Feature : เหนอะ)
 pos : False
 neg : True
@@ -4750,6 +4942,14 @@ inv = False
 ANS : NEGATIVE
 
 
+['โดยส่วนตัว', 'สีฟ้า', 'กลิ่น', 'หอม', 'กว่า']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ไม่', 'เหนียว', 'เท่า', 'กันแดด', 'ตัว', 'อื่น']
 case 2 (Feature : เหนียว)
 pos : False
@@ -4768,6 +4968,14 @@ ANS : POSITIVE
 
 ['ซึม', 'เร็ว']
 case 1 (Feature : ซึม)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'นิด']
+case 1 (Feature : กลิ่น)
 pos : True
 neg : False
 inv = False
@@ -4918,7 +5126,15 @@ inv = True
 ANS : POSITIVE
 
 
-['ไม่', 'เหนียว', 'เลย', 'ทา', 'ง่าย', 'มาก']
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ไม่', 'เหนียว', 'เลย', 'ทาง่าย', 'มาก']
 case 2 (Feature : เหนียว)
 pos : False
 neg : True
@@ -4984,6 +5200,14 @@ ANS : POSITIVE
 
 ['เนื้อ', 'ครีม', 'ซึม', 'เร็ว']
 case 1 (Feature : ซึม)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'ดี', 'ค่ะ']
+case 1 (Feature : กลิ่น)
 pos : True
 neg : False
 inv = False
@@ -5158,6 +5382,14 @@ inv = True
 ANS : POSITIVE
 
 
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
 ['ไม่มี', 'คราบ', 'เนอ', 'ะห', 'นะ']
 case 2 (Feature : คราบ)
 pos : False
@@ -5231,6 +5463,14 @@ ANS : POSITIVE
 
 
 ['กันแดด', 'ดี', 'มาก']
+case 1 (Feature : กันแดด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กันแดด', 'คุณภาพ', 'ค่ะ']
 case 1 (Feature : กันแดด)
 pos : True
 neg : False
@@ -5392,6 +5632,14 @@ ANS : POSITIVE
 
 ['เช็ด', 'เครื่อง', 'สำ', 'อา', 'งค์', 'กันน้ำ', 'ออก', 'ดี', 'มาก']
 case 2 (Feature : กันน้ำ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'แล้ว', 'ผิว', 'เนียน', 'กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
 pos : True
 neg : False
 inv = False
