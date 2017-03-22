@@ -1,0 +1,7386 @@
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แนะนำ', 'สี', 'นี้', 'เลย']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทา', 'ชั้น', 'เดียว', 'ก็', 'ให้', 'สี', 'คม', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ไม่', 'แห้ง', 'มาก']
+case 1 (Feature : เนื้อ)
+pos : False
+neg : True
+inv = True
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'เนื้อ', 'นาง', 'มาก']
+case 2 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ผสม', 'กับ', 'ลิป', 'สี', 'ชม', 'ตัว', 'อื่น', 'คือ', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'ทั้งวัน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สี', 'สวย', 'แต่', 'รอบ', 'นี้', 'แอบ', 'เป็นก้อน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สี', 'สวย', 'แต่', 'รอบ', 'นี้', 'แอบ', 'เป็นก้อน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', 'ดี', 'ค่ะ', 'เกลี่ย', 'ง่าย', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'แล้', 'วสี', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้', 'อแมต', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'คะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'ไปนิด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ปาก', 'ปัง', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แร', 'งไ', 'ป555']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ติด', 'ทน', 'กลาง', 'แต่', 'เรื่อง', 'สี', 'สวย', 'สี', 'ชัด', 'นี่', 'ดี', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ติด', 'ทน', 'กลาง', 'แต่', 'เรื่อง', 'สี', 'สวย', 'สี', 'ชัด', 'นี่', 'ดี', 'มาก']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ติด', 'ทน', 'กลาง', 'แต่', 'เรื่อง', 'สี', 'สวย', 'สี', 'ชัด', 'นี่', 'ดี', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ติด', 'ทน', 'กลาง', 'แต่', 'เรื่อง', 'สี', 'สวย', 'สี', 'ชัด', 'นี่', 'ดี', 'มาก']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'แน่น']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ระดับ', 'นึง', 'เลย', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'พอ', 'สม', 'ควร']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เนื้อ', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แจ่ม', 'แน่น', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', 'ติด', 'ทน']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'กลบ', 'ปาก', 'คล้ำ', 'ได้', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'แต่', 'จืด', 'นิด', 'หนึ่ง']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ครับ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ไม่', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'คือ', 'ดี', 'งาม']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ปาก', 'เจิด', 'แล้ว', 'จบ', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เหลว', 'เกินไป']
+case 1 (Feature : เนื้อ)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['แต่', 'สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่า']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'คน', 'ชอบ', 'สี', 'เข้ม', 'ตุ่น']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'อ่อน']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ไม่ชอบ', 'กลิ่น', 'ลิป']
+case 2 (Feature : กลิ่น)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['ชอบ', 'สี', 'มาก']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เพียง', 'แต่ว่า', 'ถ้า', 'มี', 'ทาน', 'อาหาร', 'ตัว', 'เนื้อ', 'ลิป', 'จะ', 'จาง', 'ลง']
+case 1 (Feature : เนื้อ)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['เม็ด', 'สี', 'คม', 'ชัด', 'ชอบ', 'ตรงนี้']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'น่า', 'กิน']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ด้วย']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+case 3
+['เนื้อ', 'นุ่ม', 'ลื่น']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรา', 'ซื้อ', 'มา', 'สอง', 'สี', 'เพราะ', 'เป็น', 'คน', 'ชอบ', 'โทน', 'สีชมพู', 'คือ', 'สี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ยุ', 'นะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ต้อง', 'ทา', 'ซ้ำ', 'ถึง', 'จะ', 'กลบ', 'สี', 'ปาก', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เนื้อ', 'เนียน']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', 'ดี', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ถ้า', 'ไม่', 'ทาน', 'ไร', 'จะ', 'ติด', 'ดี', 'มาก', 'เลย']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลบ', 'สี', 'ปาก', 'ได้', 'ดี', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ชอบ', 'สี', 'นี้', 'มาก', 'ค่ะ']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัดเจน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ค่อย', 'ข้าง', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['คล้าย', 'สี', 'เบอร์', 'กัน', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'สวย', 'เด่น', 'ชอบ', 'มากมาย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'เลย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ไม่ค่อย', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['เนื้อ', 'นุ่ม', 'ลื่น']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรา', 'ซื้อ', 'มา', 'สอง', 'สี', 'เพราะ', 'เป็น', 'คน', 'ชอบ', 'โทน', 'สีชมพู', 'คือ', 'สี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['แต่', 'ไม่', 'ติด', 'ทน', 'เลย']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แจ่ม', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'ดี', 'คะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'ดี', 'ค่ะ']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'คะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ไม่ค่อย', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'อยู่']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เหมือน', 'ใน', 'รูป', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ติด', 'นาน', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ติด', 'นาน', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ไม่ค่อย', 'ชอบ', 'สี', 'นี้']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'สี', 'สวย', 'ใช้ได้']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'งาม', 'ตาม', 'ท้อง', 'เรื่อง']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เกลี่ย', 'ง่าย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['แท่ง', 'นี้', 'ต้อง', 'ซื้อ', 'ซ้ำ', 'ค่ะ', 'ชอบ', 'สี', 'มาก']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'ไม่ค่อย', 'ติด', 'ทน', 'เท่าไหร่']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรา', 'ให้', 'สี', 'นี้', 'เป็น', 'สี', 'ที่', 'สวย', 'ที่สุด', 'ใน', 'บรรดา', 'ลิป', 'ทน', 'นู้ด', 'น้ำตาล', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรา', 'ให้', 'สี', 'นี้', 'เป็น', 'สี', 'ที่', 'สวย', 'ที่สุด', 'ใน', 'บรรดา', 'ลิป', 'ทน', 'นู้ด', 'น้ำตาล', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ติด', 'ทน', 'และ', 'สวย', 'สุด', 'เหมา', 'ะกั', 'บเ', 'ทร', 'นด์', 'ช่วง', 'นี้', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['แต่', 'ไม่', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'เนื้อ', 'แห้ง', 'ไปนิด']
+case 1 (Feature : เนื้อ)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['สี', 'นี้', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'ด้วย']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ปิด', 'สี', 'ปาก', 'คล้ำ', 'ได้', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ทั้งวัน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เม็ด', 'สี', 'ชัด', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'สด', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'เขียน', 'ง่าย', 'สี', 'สวย']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'เขียน', 'ง่าย', 'สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'มาก', 'เลย']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'เนื้อ']
+case 2 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['และ', 'ความ', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'มาก']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'ดี']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', 'และ', 'แน่น']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', 'และ', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'เหมือน', 'ขนม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'นิ่ม', 'ทาง่าย']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'เนียน']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัดเจน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'กำลัง', 'ดี', 'เลย', 'ครับ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['คือ', 'ชอบ', 'มาก', 'เนื้อ', 'แน่น', 'มาก']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'เหมือน', 'ลูก', 'อม', 'ค่ะ', 'สี', 'อ่อน', 'น่ารัก']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลื่น']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทา', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['แต่', 'สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลื่น', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'สุภาพ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ปิด', 'สี', 'ปาก', 'สนิท', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'เนื้อ', 'ทาง่าย', 'กลบ', 'สี', 'ปาก']
+case 2 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เรียบร้อย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'มาก', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สุภาพ', 'ทาง่าย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ติด', 'ทน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'ใส', 'อย่าง', 'กะ', 'วัย', 'แรก', 'สาว']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'คม', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'มาก']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'จ้า']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'วานิลลา', 'หอม', 'อ่อน']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เม็ด', 'สี', 'ค่อนข้าง', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'พอ', 'สม', 'ควร']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลบ', 'สี', 'ปาก', 'ได้', 'ดี', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ทั้งวัน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ถูกใจ', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ต้อง', 'ทา', 'สอง', 'รอบ', 'ถึง', 'จะ', 'ได้', 'สี', 'ที่', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ค่า']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ทุก', 'เฉด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['แต่', 'ไม่ค่อย', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'นะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ดี', 'คะ', 'แต่', 'ไม่', 'ทั้งวัน', 'นะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ดี', 'คะ', 'แต่', 'ไม่', 'ทั้งวัน', 'นะ']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'เสีย', 'ที่', 'สี', 'ไม่', 'ติด', 'ทน', 'กิน', 'อะไร', 'นิดหน่อย', 'ก็', 'หลุด', 'แล้ว']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['แต่', 'เสีย', 'ที่', 'สี', 'ไม่', 'ติด', 'ทน', 'กิน', 'อะไร', 'นิดหน่อย', 'ก็', 'หลุด', 'แล้ว']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ราคา', 'ไม่แพง']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ราคา', 'ไม่แพง']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'มัน', 'แจ่ม', 'ไป', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เกลี่ย', 'สี', 'ได้', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดู', 'ธรรมชาติ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้', 'อแมท', 'แห้ง', 'ติด', 'ทน', 'มาก', 'กิน', 'ข้าว', 'ก็', 'ไม่ค่อย', 'หลุด', 'เลย']
+case 2 (Feature : ติด)
+pos : True
+neg : True
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มา', 'กก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'มาก']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'มาก']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'ก><']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'สี', 'นี้', 'ก็', 'สวย', 'ค่อนข้าง', 'เรียบร้อย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'แซ', '่บ', 'มาก', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'แซ', '่บ', 'มาก', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ทั้งวัน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ทั้งวัน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'อ่อน', 'กว่า', 'ที่', 'คิด', 'ไปนิด', 'แต่', 'ทา', 'ทับ', 'สัก', 'สอง', 'รอบ', 'ก็ได้', 'สี', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'คือ', 'ไม่', 'โอเค']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['เอา', 'จริง', 'นาง', 'สี', 'สวย', 'นะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เสีย', 'ดาย', 'สี', 'สวย', 'ของ', 'นาง']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ทาน', 'มาก', 'ดื่น', 'น้ำ', 'ลิป', 'ไม่', 'ติด', 'แก้']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ทน', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'ดี', 'คะ']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'ชัด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ด้วย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ไม่ชอบ', 'กลิ่น', 'ลิป']
+case 2 (Feature : กลิ่น)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ถ้า', 'ใคร', 'ชอบ', 'สี', 'เข้ม']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สวย', 'ทุก', 'สี', 'เม็ด', 'สี', 'ดี', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สวย', 'ทุก', 'สี', 'เม็ด', 'สี', 'ดี', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สวย', 'ทุก', 'สี', 'เม็ด', 'สี', 'ดี', 'ติด', 'ทน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'แน่น', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'นะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี', 'คะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'ลิป', 'ก็', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ติด', 'ทน', 'กลิ่น', 'หอม', 'ด้วย', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'กลิ่น', 'หอม', 'ด้วย', 'ค่ะ']
+case 2 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'ก็', 'สวย', 'นะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'แน่น', 'สี', 'สวย', 'ติ', 'ดท', 'นค']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'แน่น', 'สี', 'สวย', 'ติ', 'ดท', 'นค']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'เลิฟ', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'ตุ๊กตา', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'มา', 'กก']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ปาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ติด', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ติด', 'นาน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'มาก', 'คะ']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'สด', 'ใส']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['-', 'สี', 'ไม่ค่อย', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ลิป', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'ค่ะ']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีสัน', 'ติด', 'ทน', 'คะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เจิด', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ดี', 'มาก', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ได้', 'ใจ', 'เลย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'สุด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'สุด']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ชุ่ม', 'ชื้น', 'กำลัง', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติ', 'ดท', 'นพ', 'อคว', 'รให', '้8.5เต็', 'ม10', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'สี', 'สวย', 'มาก', 'ค่ะ']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'แนะนำ', 'เลย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'ด้วย']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส', 'ีสว', 'ยค่', 'ะ..', 'ติด', 'ทน', 'นาน', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ชมพู', 'นู้ด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'นาน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'ไม่', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+case 3
+['สี', 'หวาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ดิด', 'ทน', 'ดี', 'มา', 'กก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'ดี', 'ค่ะ']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'สี', 'สวย', 'โดน', 'ใจ', 'มาก', 'ค่ะ']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'ชัดเจน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'น่ารัก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', 'กลบ', 'สี', 'ปาก', 'มิด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'อ่อน', 'ชอบ']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'น่ารัก', 'มาก', 'ราคาถูก', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เนื้อ', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เนื้อ', 'ดี']
+case 2 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เป็นธรรมชาติ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เป็นธรรมชาติ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เอ๊', 'ะ!', 'สี', 'สวย', 'สี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เอ๊', 'ะ!', 'สี', 'สวย', 'สี']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'สวย']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ซื้อ', 'มาก', 'ใช้ได้', 'หลาย', 'เดือน', 'แล้ว', 'แต่', 'ยัง', 'ไม่', 'ได', '้ร', 'ีว', 'ิว', 'แต่', 'บอก', 'เลย', 'ขอ', 'งเค้', 'าด', 'ีจ', 'ิง', 'สี', 'สวย', 'คม', 'ชัด', 'ติด', 'ทน', 'แต่', 'ติ', 'นิด', 'เดียว', 'ตรง', 'ที่', 'ทา', 'แล้ว', 'มัน', 'เห็น', 'ร่อง', 'ปา', 'กท', 'ีไม', '่เง', 'าค่', 'ะ^^']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ซื้อ', 'มาก', 'ใช้ได้', 'หลาย', 'เดือน', 'แล้ว', 'แต่', 'ยัง', 'ไม่', 'ได', '้ร', 'ีว', 'ิว', 'แต่', 'บอก', 'เลย', 'ขอ', 'งเค้', 'าด', 'ีจ', 'ิง', 'สี', 'สวย', 'คม', 'ชัด', 'ติด', 'ทน', 'แต่', 'ติ', 'นิด', 'เดียว', 'ตรง', 'ที่', 'ทา', 'แล้ว', 'มัน', 'เห็น', 'ร่อง', 'ปา', 'กท', 'ีไม', '่เง', 'าค่', 'ะ^^']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แล้วก็', 'ติด', 'ทน', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ทา', 'แล้ว', 'ไม่', 'แห้ง', 'มาก']
+case 1 (Feature : เนื้อ)
+pos : False
+neg : True
+inv = True
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เหมาะกับ', 'สี', 'ปาก', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เหมาะกับ', 'สี', 'ปาก', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'แห้ง', 'ไป']
+case 1 (Feature : เนื้อ)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ใน', 'ตำนาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'สี', 'สวย', 'หวาน', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['น่ารัก', 'ดี', 'แบบ', 'ใส', 'กลบ', 'สี', 'ปาก', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ติด', 'ไม่', 'ทน', 'เพราะ', 'เป็น', 'เนื้อ', 'ครีม']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ใส']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'อ่อน']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['แต่', 'เนื้อ', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กคร่', 'าา']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ติด', 'ไม่ค่อย', 'ทน', 'ต้อง', 'เติม', 'บ่อย']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ลิปสติก', 'สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'ชอบ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรื่อง', 'สี', 'สวย', 'นะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'สด', 'ใส', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เนื้อ', 'ลิป', 'เนียม', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เนื้อ', 'ลิป', 'เนียม', 'ค่ะ']
+case 2 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ครับ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โดน', 'ใจ', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โอเค', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โดน', 'ใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แต่', 'ไม่ค่อย', 'ถูก', 'กับ', 'รุ่น', 'นี้', 'เท่าไหร่']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ละเอียด']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ติด', 'ไม่ค่อย', 'ทน', 'เท่', 'าเนื้', 'อแมต', 'เลย', 'อ่า']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'ด้วย', 'คะ']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'มาก']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ต้อง', 'ผสม', 'สี', 'อื่น', 'จึง', 'จะ', 'ออกมา', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'สุด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'หวาน', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชมพู', 'สวย', 'สี', 'ติด', 'ดี', 'นะ', 'ถ้า', 'ล้าง', 'ต้อง', 'ใช้', 'ที่', 'เช็ด', 'สำหรับ', 'ปาก', 'นะ', 'ไม่', 'งั้น', 'ออก', 'ยาก', 'ค่ะ']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชมพู', 'สวย', 'สี', 'ติด', 'ดี', 'นะ', 'ถ้า', 'ล้าง', 'ต้อง', 'ใช้', 'ที่', 'เช็ด', 'สำหรับ', 'ปาก', 'นะ', 'ไม่', 'งั้น', 'ออก', 'ยาก', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ไม่', 'ติด', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'ติด', 'ทน', 'ทาน', 'มาก', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ทาน', 'มาก', 'คะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'นุ่ม', 'ลื่น', 'ให้', 'ความ', 'ชุ่ม', 'ชื้น', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ติด', 'ทน', 'น้อย', 'กิน', 'ข้าว', 'ครั้ง', 'เดียว', 'ก็', 'หลุด', 'แล้ว']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'นาน', 'ดี', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'นาน', 'ดี', 'คะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'จี๊ด', 'ถูกใจ', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มากมาย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ดี']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ด้วย', 'ได้', 'ใจ', 'ไป', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'ชัด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ตลอด', 'ทั้งวัน', 'เลย', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'อีก', 'ด้วย']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แจ่ม']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ละเอียด']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เนื้อ', 'สี', 'ชัด']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'ติด', 'ทน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัดเจน', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน', 'สู้']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดู', 'เนียน', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดู', 'เนียน', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['จะ', 'ดู', 'ว่า', 'ติด', 'ทน', 'นาน', 'แค่', 'ไหน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ระดับ', 'นึง', 'เลย']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ชัด']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', 'ชอบ', 'สุด', 'ซื้อ', 'เป็น', 'แท่ง', 'ที', '่2', 'ละ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กค่', 'า.']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ออก', 'ส้ม', 'นม']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โดน', 'ใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กค', 'ะ.', 'ได้รับ', 'สินค้า', 'รวด', 'เร็ว']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส', 'ิป', 'สี', 'สวย', 'มาก', 'เลย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'เลย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มว๊าก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แต่', 'ปิด', 'สี', 'ปาก', 'ไม่', 'มิด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ปาก', 'สวย', 'และ', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['แต่', 'ติด', 'ไม่', 'ทน', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'ติด', 'ทน', 'นาน', 'ค่ะ']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'ติด', 'ทน', 'นาน', 'ค่ะ']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ได้', 'ของ', 'เร็ว', 'กว่า', 'ที่', 'คิด', 'ไว', '้.', 'ลิป', 'สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', 'ติด', 'ทน', 'ทั้งวัน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', 'ติด', 'ทน', 'ทั้งวัน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แรง', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ติด', 'ไม่', 'ทน', 'เท่าไร']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'หวาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'งาม']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'ไม่', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ถ้า', 'ใคร', 'ชอบ', 'สี', 'ลิป', 'แบบ', 'สุภาพ']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แมค', 'สี', 'นี้', 'ถือ', 'ว่า', 'โอเค', 'เลย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โดน', 'ใจ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แตะ', 'นิด', 'เดียว', 'แต่', 'สี', 'ชัด']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ปิด', 'สี', 'ปาก', 'เดิม', 'ได้', 'ค่อนข้าง', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัดเจน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'จัง']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ไม่', 'สวย', 'แบบ', 'ใน', 'รูป']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['เนื้อ', 'เนียน', 'นุ่ม', 'ดี']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ได้รับ', 'ของ', 'แล้', 'วค', 'ะ.', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'มาก']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'เบา']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'จะ', 'จาง', 'ไปนิด', 'เดียว']
+case 1 (Feature : สี)
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['หนืด', 'สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มี', 'ประ', 'กา', 'ยว', 'ิบ', 'วับ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็', 'นก', 'ลอส', 'ที่', 'สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'นะ', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ธรรมชาติ', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'เลย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', 'มาก']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'เลย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'เนียน', 'นุ่ม', 'ไม่', 'เป็น', 'ขุย']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สุภาพ', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก', 'ค่ะ']
+case 2 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ม้', 'วก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สุภาพ', 'กลิ่น', 'หอม']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สุภาพ', 'กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'ค่า']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'นิ่ม']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ใช้ได้', 'กับ', 'ทุกวัน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แต่', 'สี', 'สวย', 'ดี']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'ก(']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี่', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'แน่น', 'มาก', 'ค่ะ']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'แน่น', 'มาก', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ชอบ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ชอบ']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ให้', 'สี', 'ที่', 'ชัดเจน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', 'มาก', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', 'มาก', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'เข้มข้น']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'เข้มข้น']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทา', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ละเอียด', 'ดี', 'ค่ะ']
+case 1 (Feature : เนื้อ)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'นาน']
+case 2 (Feature : ติด)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี)
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
