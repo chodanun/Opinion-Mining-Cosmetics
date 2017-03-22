@@ -38,7 +38,7 @@ def preprocessing(file,func_write=False):
 def main():
 	# 1: preprocessing step
 	comments = readFile('./data/comments.csv')
-	comments = preprocessing(comments,func_write=False)
+	preprocessing(comments,func_write=False)
 
 
 if __name__ == '__main__' :
