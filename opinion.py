@@ -5,7 +5,7 @@ import operator
 
 # lipstick
 features_lip = {'สี':0,'ติด':0,'เนื้อ':0,'กลิ่น':0}
-positive_sentiments_lip = {'แนะนำ':0,'สวย':0,'แน่น':0,'ทน':0,'คม':0,'ดี':0,'ชัด':0,'หอม':0,'ปัง':0,'ถูกใจ':0,'ชอบ':0,'เจิด':0,'สด':0,'นุ่ม':0,'ลื่น':0,'ชัดเจน':0,'นาน':0,'เนียน':0,'โอเค':0,'หวาน':0,'แจ่ม':0,'นิ่ม':0,'ทาง่าย':0,'ละเอียด':0,'ติด':0,'นิ่ม':0,'เข้มข้น':0}
+positive_sentiments_lip = {'แนะนำ':0,'สวย':0,'แน่น':0,'ทน':0,'คม':0,'ดี':0,'ชัด':0,'หอม':0,'หอมหวาน':0,'ปัง':0,'ถูกใจ':0,'ชอบ':0,'เจิด':0,'สด':0,'นุ่ม':0,'ลื่น':0,'ชัดเจน':0,'นาน':0,'เนียน':0,'โอเค':0,'หวาน':0,'แจ่ม':0,'นิ่ม':0,'ทาง่าย':0,'ละเอียด':0,'ติด':0,'นิ่ม':0,'เข้มข้น':0}
 negative_sentiments_lip = {'แห้ง':0,'เป็นก้อน':0,'เป็นคราบ':0,'เหลว':0,'จาง':0,'ผิดหวัง':0,'ไม่ชอบ':0}
 inverse_sentiments_lip = {'ไม่':0,'ไม่ค่อย':0,'ไปนิด':0}
 alone_positive_sentiment_lip = {'หอม':0}
@@ -49,10 +49,10 @@ def report(token,comment_id,feature,case,pos_sentiment,neg_sentiment,inv_sentime
 					ans = 'POSITIVE'
 			if case == 1:
 				print (token)
-				print ("case 1 (Feature : %s)\npos : %s\nneg : %s\ninv = %s\nANS : %s\n\n"%(feature,pos_sentiment,neg_sentiment,inv_sentiment,ans))
+				print ("case 1 (Feature : %s) - comment_id : %s\npos : %s\nneg : %s\ninv = %s\nANS : %s\n\n"%(feature,comment_id,pos_sentiment,neg_sentiment,inv_sentiment,ans))
 			elif case == 2:
 				print (token)
-				print ("case 2 (Feature : %s)\npos : %s\nneg : %s\ninv = %s\nANS : %s\n\n"%(feature,pos_sentiment,neg_sentiment,inv_sentiment,ans))
+				print ("case 2 (Feature : %s) - comment_id : %s\npos : %s\nneg : %s\ninv = %s\nANS : %s\n\n"%(feature,comment_id,pos_sentiment,neg_sentiment,inv_sentiment,ans))
 			elif case == 3:
 				pass
 			elif case == -3:
@@ -65,72 +65,71 @@ def pattern_lipstick(row,f,debugMode):
 	with open('bigthai.txt', encoding="UTF-8") as dict_file:
 		word_list = list(set([w.rstrip() for w in dict_file.readlines()]))
 		wordcut = Wordcut(word_list)
-		comment = row[3].replace('ๆ','').split(' ') 
-		for part in comment:
-			token = wordcut.tokenize(part)
-			try:
-				for i in range(len(token)):
-					pos_sentiment = False
-					neg_sentiment = False
-					inv_sentiment = False
-					check_case_two = False
-					case = 0
-					if token[i] in features_lip: # 1,2
-						for a in range(2):
-							check_case_two = (i-a >= 0) and (token[i-a] in positive_sentiments_lip or token[i-a] in negative_sentiments_lip)
-						if check_case_two : # 2
-							case = 2
-							for b in range(4):
-								if b < 3 and  i-b >= 0 and token[i-b] in positive_sentiments_lip :
-									pos_sentiment = True
-								if b < 3 and i-b >= 0 and token[i-b] in negative_sentiments_lip :
-									neg_sentiment = True
-								if i-b >=0 and token[i-b] in inverse_sentiments_lip:
+		comment = row[3].replace('ๆ','')
+		token = wordcut.tokenize(comment)
+		try:
+			for i in range(len(token)):
+				pos_sentiment = False
+				neg_sentiment = False
+				inv_sentiment = False
+				check_case_two = False
+				case = 0
+				if token[i] in features_lip: # 1,2
+					for a in range(2):
+						check_case_two = (i-a >= 0) and (token[i-a] in positive_sentiments_lip or token[i-a] in negative_sentiments_lip)
+					if check_case_two : # 2
+						case = 2
+						for b in range(4):
+							if b < 3 and  i-b >= 0 and token[i-b] in positive_sentiments_lip :
+								pos_sentiment = True
+							if b < 3 and i-b >= 0 and token[i-b] in negative_sentiments_lip :
+								neg_sentiment = True
+							if i-b >=0 and token[i-b] in inverse_sentiments_lip:
+								inv_sentiment = True
+								break
+					else: #1
+						case = 1
+						for d in range(5):
+							if d < 2 :
+								if (i-1-d >= 0 and i-1-d <len(token)) and token[i-1-d] in inverse_sentiments_lip :
 									inv_sentiment = True
+							if d < 4 :
+								if (i+1+d >= 0 and i+1+d <len(token)) and token[i+1+d] in inverse_sentiments_lip:
+									inv_sentiment = True
+							if d < 5 :
+								if (i+1+d >= 0 and i+1+d <len(token)) and  token[i+1+d]	in positive_sentiments_lip :
+									pos_sentiment = True
 									break
-						else: #1
-							case = 1
-							for d in range(5):
-								if d < 2 :
-									if (i-1-d >= 0 and i-1-d <len(token)) and token[i-1-d] in inverse_sentiments_lip :
-										inv_sentiment = True
-								if d < 4 :
-									if (i+1+d >= 0 and i+1+d <len(token)) and token[i+1+d] in inverse_sentiments_lip:
-										inv_sentiment = True
-								if d < 5 :
-									if (i+1+d >= 0 and i+1+d <len(token)) and  token[i+1+d]	in positive_sentiments_lip :
-										pos_sentiment = True
-										break
-									elif (i+1+d >= 0 and i+1+d <len(token)) and token[i+1+d] in negative_sentiments_lip :
-										neg_sentiment = True
-										break
+								elif (i+1+d >= 0 and i+1+d <len(token)) and token[i+1+d] in negative_sentiments_lip :
+									neg_sentiment = True
+									break
 
-						# score calculation
-						if inv_sentiment == False:
-							if token[i] == "สี":
-								color += int(pos_sentiment) - int(neg_sentiment)
-							elif token[i] == "กลิ่น":
-								smell += int(pos_sentiment) - int(neg_sentiment)
-							elif token[i] == "ติด":
-								durable += int(pos_sentiment) - int(neg_sentiment)
-						else:
-							if token[i] == "สี":
-								color += -int(pos_sentiment) + int(neg_sentiment)
-							elif token[i] == "กลิ่น":
-								smell += -int(pos_sentiment) + int(neg_sentiment)
-							elif token[i] == "ติด":
-								durable += -int(pos_sentiment) + int(neg_sentiment)
-						report(token,row[0],token[i],case,pos_sentiment,neg_sentiment,inv_sentiment,debugMode)
+					# score calculation
+					if inv_sentiment == False:
+						if token[i] == "สี":
+							color += int(pos_sentiment) - int(neg_sentiment)
+						elif token[i] == "กลิ่น":
+							smell += int(pos_sentiment) - int(neg_sentiment)
+						elif token[i] == "ติด":
+							durable += int(pos_sentiment) - int(neg_sentiment)
+					else:
+						if token[i] == "สี":
+							color += -int(pos_sentiment) + int(neg_sentiment)
+						elif token[i] == "กลิ่น":
+							smell += -int(pos_sentiment) + int(neg_sentiment)
+						elif token[i] == "ติด":
+							durable += -int(pos_sentiment) + int(neg_sentiment)
+					report(token,row[0],token[i],case,pos_sentiment,neg_sentiment,inv_sentiment,debugMode)
 
-					else: #3
-						if token[i] in alone_positive_sentiment_lip:
-							case = 3
-							print ("case 3")
-						elif token[i] in alone_negative_sentiment_lip:
-							case = -3
-							print ("case -3")
-			except (TypeError):
-				pass
+				else: #3
+					if token[i] in alone_positive_sentiment_lip:
+						case = 3
+						print ("case 3")
+					elif token[i] in alone_negative_sentiment_lip:
+						case = -3
+						print ("case -3")
+		except (TypeError):
+			pass
 		f.write("%s,%d,%d,%d\n"%(row[0],color,smell,durable))		
 		# print("%s,%d,%d,%d\n"%(row[0],color,smell,durable))
 

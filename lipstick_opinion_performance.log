@@ -7384,3 +7384,7581 @@ inv = False
 ANS : POSITIVE
 
 
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี) - comment_id : 1
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส', 'ีนี', '้แว', 'มพ์', 'มาก', ' ', 'สวย', ' ', 'สี', 'แน่น', ' ', 'กลิ่น', 'ออ', 'กวา', 'นิ', 'ลา', 'อ่อน', ' ', 'ใคร', 'ที', '่ชอ', 'บล', 'ุค', 'แกล', 'มช', 'ิค', 'แต่', 'แอ', 'บด', 'าร์ก', ' ', 'แนะนำ', 'สี', 'นี้', 'เลย', ' ', 'ทา', 'ได้', 'ทุก', 'เฉด', 'สีผิว', 'จริง', ' ', 'แอบ', 'ตัด', 'คะแนน', 'ความ', 'ชุ่ม', 'ชื่น', 'นิด', 'นึง', ' ', 'เพราะ', 'ไม่ได้', 'เพิ่ม', 'ความ', 'ชุ่ม', 'ชื่น', ' ', 'ควร', 'ทา', 'บาล์ม', 'ก่อน', ' ', 'หรือ', ' ', 'บาล์ม', 'ตอนกลางคืน', 'เพื่อ', 'ให้', 'สภาพ', 'ปาก', 'พร้อม', ' ', 'หรือ', 'ใช้', 'ลิป', 'มัน', 'ลง', 'ก่อน', 'ทา', 'ตัว', 'นี้', ' ', 'แต่', 'ของ', ' ', 'nyx', ' ', 'นี่', ' ', 'คอ', 'นเฟิร์ม', 'ว่า', 'ทา', 'แล้ว', 'ดูดี', ' ', 'ยังคง', 'ความ', 'ชุ่ม', 'ชื่น', 'ไว้', 'ให้', 'ปาก', 'อยู่', ' ', 'ไม่เหมือน', 'ยี่ห้อ', 'อื่น', ' ', 'ทา', 'แล้ว', 'สัก', 'พัก', 'ร้าว', 'อย่าง', 'กะ', 'ดิน', 'ขาด', 'น้ำ', 'ทั้ง', 'ที่', 'ลง', 'บาล์ม', 'และ', 'สภาพ', 'ปาก', 'พร้อม', 'มาก', ' ', 'ดี', 'จริง', ' ', 'ซื้อ', 'เลย', ' !']
+case 1 (Feature : สี) - comment_id : 2
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส', 'ีนี', '้แว', 'มพ์', 'มาก', ' ', 'สวย', ' ', 'สี', 'แน่น', ' ', 'กลิ่น', 'ออ', 'กวา', 'นิ', 'ลา', 'อ่อน', ' ', 'ใคร', 'ที', '่ชอ', 'บล', 'ุค', 'แกล', 'มช', 'ิค', 'แต่', 'แอ', 'บด', 'าร์ก', ' ', 'แนะนำ', 'สี', 'นี้', 'เลย', ' ', 'ทา', 'ได้', 'ทุก', 'เฉด', 'สีผิว', 'จริง', ' ', 'แอบ', 'ตัด', 'คะแนน', 'ความ', 'ชุ่ม', 'ชื่น', 'นิด', 'นึง', ' ', 'เพราะ', 'ไม่ได้', 'เพิ่ม', 'ความ', 'ชุ่ม', 'ชื่น', ' ', 'ควร', 'ทา', 'บาล์ม', 'ก่อน', ' ', 'หรือ', ' ', 'บาล์ม', 'ตอนกลางคืน', 'เพื่อ', 'ให้', 'สภาพ', 'ปาก', 'พร้อม', ' ', 'หรือ', 'ใช้', 'ลิป', 'มัน', 'ลง', 'ก่อน', 'ทา', 'ตัว', 'นี้', ' ', 'แต่', 'ของ', ' ', 'nyx', ' ', 'นี่', ' ', 'คอ', 'นเฟิร์ม', 'ว่า', 'ทา', 'แล้ว', 'ดูดี', ' ', 'ยังคง', 'ความ', 'ชุ่ม', 'ชื่น', 'ไว้', 'ให้', 'ปาก', 'อยู่', ' ', 'ไม่เหมือน', 'ยี่ห้อ', 'อื่น', ' ', 'ทา', 'แล้ว', 'สัก', 'พัก', 'ร้าว', 'อย่าง', 'กะ', 'ดิน', 'ขาด', 'น้ำ', 'ทั้ง', 'ที่', 'ลง', 'บาล์ม', 'และ', 'สภาพ', 'ปาก', 'พร้อม', 'มาก', ' ', 'ดี', 'จริง', ' ', 'ซื้อ', 'เลย', ' !']
+case 2 (Feature : สี) - comment_id : 2
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 3
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 3
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กล', 'ิ่', 'นว', 'นิ', 'ลา', 'อ่อน', ' ', 'ทา', 'ชั้น', 'เดียว', 'ก็', 'ให้', 'สี', 'คม', 'ชัด', ' ', 'เนื้อ', 'ไม่', 'แห้ง', 'มาก', ' ', 'ใช้ได้', 'กับ', 'ทุก', 'สีผิว', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 5
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กล', 'ิ่', 'นว', 'นิ', 'ลา', 'อ่อน', ' ', 'ทา', 'ชั้น', 'เดียว', 'ก็', 'ให้', 'สี', 'คม', 'ชัด', ' ', 'เนื้อ', 'ไม่', 'แห้ง', 'มาก', ' ', 'ใช้ได้', 'กับ', 'ทุก', 'สีผิว', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 5
+pos : False
+neg : True
+inv = True
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ทา', 'ได้', 'ทุกวัน']
+case 1 (Feature : สี) - comment_id : 6
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ดี', 'งาม', 'สุด', ' ', 'ติด', 'ทน', ' ', 'สี', 'สวย', ' ', 'ชอบ', 'มาก', ' ♥️']
+case 1 (Feature : ติด) - comment_id : 8
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ดี', 'งาม', 'สุด', ' ', 'ติด', 'ทน', ' ', 'สี', 'สวย', ' ', 'ชอบ', 'มาก', ' ♥️']
+case 1 (Feature : สี) - comment_id : 8
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'เนื้อ', 'นาง', 'มาก', ' ', 'เกลี่ย', 'ง่าย', ' ', 'กะ', 'จะ', 'สะสม', 'ให้', 'ครบ', 'ทุก', 'สี', 'จ้า']
+case 2 (Feature : เนื้อ) - comment_id : 9
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ดู', 'สวย', 'แพง']
+case 1 (Feature : สี) - comment_id : 10
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 11
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แพ็ค', 'ของดี', ' ', 'สี', 'สวย', ' ', 'ผสม', 'กับ', 'ลิป', 'สี', 'ชม', 'ตัว', 'อื่น', 'คือ', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 13
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แพ็ค', 'ของดี', ' ', 'สี', 'สวย', ' ', 'ผสม', 'กับ', 'ลิป', 'สี', 'ชม', 'ตัว', 'อื่น', 'คือ', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 13
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 15
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'มาก', '  ', 'ทา', 'ไป', 'สักการะ', 'พระบรมศพ', ' ตั้', 'งแต', '่ต', 'ี3-11', 'โมง', 'เช้า', '   ', 'กิน', 'ก๋วยเต๊ยว', 'ก็', 'แล้ว', '  ', 'ข้าว', 'เหนียว', 'หมู', ' ', 'กาแฟ', ' ', 'เสร็จ', 'งาน', 'ยัง', 'อยู่', 'ครบ']
+case 1 (Feature : ติด) - comment_id : 16
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทา', 'มา', 'แล้', 'วสี', 'สวย', 'มาก', ' ', 'ติด', 'ทน', ' ', 'ปาก', 'ไม่', 'แห้ง', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 17
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ตอนแรก', 'จะ', 'ซื้อ', 'สี', 'canes', 'แต่', 'หมด', ' ', 'ตัว', 'นี้', 'สี', 'ใกล้เคียง', 'เลย', 'สั่ง', 'มา', 'แทน', ' ', 'เหมาะ', 'กะ', 'คน', 'ผิว', 'สอง', 'สี', ' ', 'ทา', 'แล้ว', 'สด', 'ใส', ' ', 'สา', 'ยฝ.', 'ก็', 'ควร', 'ตำ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 19
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ร', 'ุ่', 'นนี', '้เนื้', 'อจ', 'ะไม', '่แมท', 'แห้ง', ' ', 'สี', 'ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : สี) - comment_id : 20
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ร', 'ุ่', 'นนี', '้เนื้', 'อจ', 'ะไม', '่แมท', 'แห้ง', ' ', 'สี', 'ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : ติด) - comment_id : 20
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีชมพู', 'เข้ม', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 21
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 22
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ทา', 'แล้ว', ' ', 'สวย', 'งาม', 'มาก']
+case 1 (Feature : สี) - comment_id : 23
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['คุณภาพ', 'ดี', ' ', 'คุ้ม', 'ราคา', ' ', 'ติด', 'ทน', 'นาน', 'ทั้งวัน']
+case 1 (Feature : ติด) - comment_id : 24
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สี', 'สวย', 'แต่', 'รอบ', 'นี้', 'แอบ', 'เป็นก้อน']
+case 1 (Feature : สี) - comment_id : 26
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สี', 'สวย', 'แต่', 'รอบ', 'นี้', 'แอบ', 'เป็นก้อน']
+case 1 (Feature : สี) - comment_id : 26
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', 'ดี', 'ค่ะ', 'เกลี่ย', 'ง่าย', 'ดี']
+case 1 (Feature : เนื้อ) - comment_id : 28
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'ดี', 'ค่ะ', ' ', 'ไม่', 'แห้ง', 'มาก', ' ', 'ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : สี) - comment_id : 29
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'ดี', 'ค่ะ', ' ', 'ไม่', 'แห้ง', 'มาก', ' ', 'ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : ติด) - comment_id : 29
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 31
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส่ง', 'ไว', 'มา', 'กก', ' ', 'ลิป', 'สี', 'สวย', ' ', 'หวาน', ' ', 'กล', 'ิ่', 'นหอ', 'มแน', 'วว', 'นิ', 'ลา', 'อ่อน', ' ', 'ใช้', 'ดี', ' ', 'ชอบ', 'คะ', ' ^^']
+case 1 (Feature : สี) - comment_id : 32
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แห้ง', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 33
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แห้ง', ' ', 'ชอบ', 'ค่ะ']
+case 2 (Feature : ติด) - comment_id : 33
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ตอนแรก', 'นึก', 'ว่าจะ', 'ชมพู', 'น้อยกว่า', 'นี้', ' ', 'เดี๋ยว', 'จะ', 'ลอง', 'ซื้อ', 'สี', 'แนว', 'ส้ม', 'บ้าง', ' แต', '่พิก', 'เม้น', 'แน่น', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', 'ค่ะ', ' ', 'สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 34
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ใช้', 'แล้', 'วสี', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 35
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ใช้', 'แล้', 'วสี', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 35
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี) - comment_id : 36
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้', 'อแมต', 'ติด', 'ทน', ' ', 'เกลี่ย', 'ง่าย', ' ', 'สี', 'ชัด']
+case 1 (Feature : ติด) - comment_id : 37
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้', 'อแมต', 'ติด', 'ทน', ' ', 'เกลี่ย', 'ง่าย', ' ', 'สี', 'ชัด']
+case 1 (Feature : สี) - comment_id : 37
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ชัด', 'ดี', 'ค่ะ', ' ', 'ใช้', 'แล้ว', 'แห้ง', 'นิด', 'นึง', ' ', 'ส่วนตัว', 'เป็น', 'คน', 'ปาก', 'แห้ง', ' ', 'ต้อง', 'ทา', 'ลิป', 'มัน', 'ก่อน', 'ลง', 'ตัว', 'นี้', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 38
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ปาก', 'ไม่', 'แห้ง', ' ', 'สี', 'สวย', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 39
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ปาก', 'ไม่', 'แห้ง', ' ', 'สี', 'สวย', 'ติด', 'ทน']
+case 2 (Feature : ติด) - comment_id : 39
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แห้ง', 'ไม่', 'ตก', 'ร่อง', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 40
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แห้ง', 'ไม่', 'ตก', 'ร่อง', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 40
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แห้ง', 'ไม่', 'ตก', 'ร่อง', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 40
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 41
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 42
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', ' ', 'อยาก', 'ได้', 'อีก', 'หลาย', 'แท่ง', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 43
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', ' ', 'อยาก', 'ได้', 'อีก', 'หลาย', 'แท่ง', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 43
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ทาง่าย', ' ', 'ติด', 'ทน', 'คะ']
+case 1 (Feature : สี) - comment_id : 44
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ทาง่าย', ' ', 'ติด', 'ทน', 'คะ']
+case 1 (Feature : ติด) - comment_id : 44
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 45
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ok', '  ', 'สี', 'หวาน', 'ไปนิด']
+case 1 (Feature : สี) - comment_id : 46
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี']
+case 1 (Feature : สี) - comment_id : 47
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด) - comment_id : 47
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ปาก', 'ปัง', 'มาก']
+case 1 (Feature : สี) - comment_id : 48
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ปลื้ม', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 50
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 51
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 52
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'ถูกใจ', ' ', 'ใช้', 'มา', 'หลาย', 'หลอด', 'แล้ว', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 53
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เบา', 'ปาก', ' ', 'ติด', 'ทน', ' ', 'แห้ง', 'เร็ว', ' ', 'เร', 'ิ่ดดดดดด', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 54
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เบา', 'ปาก', ' ', 'ติด', 'ทน', ' ', 'แห้ง', 'เร็ว', ' ', 'เร', 'ิ่ดดดดดด', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 54
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', ' ', 'ใช้', 'แล้ว', 'โดดเด่น']
+case 1 (Feature : สี) - comment_id : 55
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แร', 'งไ', 'ป555']
+case 1 (Feature : สี) - comment_id : 56
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ติด', 'ทน', 'กลาง', 'แต่', 'เรื่อง', 'สี', 'สวย', 'สี', 'ชัด', 'นี่', 'ดี', 'มาก']
+case 1 (Feature : สี) - comment_id : 57
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ติด', 'ทน', 'กลาง', 'แต่', 'เรื่อง', 'สี', 'สวย', 'สี', 'ชัด', 'นี่', 'ดี', 'มาก']
+case 2 (Feature : ติด) - comment_id : 57
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ติด', 'ทน', 'กลาง', 'แต่', 'เรื่อง', 'สี', 'สวย', 'สี', 'ชัด', 'นี่', 'ดี', 'มาก']
+case 1 (Feature : สี) - comment_id : 57
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ติด', 'ทน', 'กลาง', 'แต่', 'เรื่อง', 'สี', 'สวย', 'สี', 'ชัด', 'นี่', 'ดี', 'มาก']
+case 2 (Feature : สี) - comment_id : 57
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'แน่น', ' ', 'แต่', 'คน', 'ปาก', 'แห้ง', 'ใช้', 'ไม่', 'ผ่าน', 'คะ']
+case 1 (Feature : สี) - comment_id : 58
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีชมพู', 'สวย', 'ค่ะ', ' ', 'เนื้อ', 'แน่น', ' ', 'แม็ท', ' ', 'ติด', 'ทน', 'ระดับ', 'นึง', 'เลย', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 59
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีชมพู', 'สวย', 'ค่ะ', ' ', 'เนื้อ', 'แน่น', ' ', 'แม็ท', ' ', 'ติด', 'ทน', 'ระดับ', 'นึง', 'เลย', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 59
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เกลี่ย', 'ง่าย', 'ปาก', 'ชุ่ม', 'ชื่น', 'ดี', ' ', 'ชอบ', 'ค่ะ', ' ', 'สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 60
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', '  ', 'ติด', 'ทน', 'พอ', 'สม', 'ควร', '  ', 'กลิ่น', 'หอม']
+case 1 (Feature : สี) - comment_id : 64
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', '  ', 'ติด', 'ทน', 'พอ', 'สม', 'ควร', '  ', 'กลิ่น', 'หอม']
+case 1 (Feature : ติด) - comment_id : 64
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', '  ', 'ติด', 'ทน', 'พอ', 'สม', 'ควร', '  ', 'กลิ่น', 'หอม']
+case 1 (Feature : กลิ่น) - comment_id : 64
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เนื้อ', 'ดี', ' ', 'สี', 'แจ่ม', 'แน่น', 'มาก']
+case 1 (Feature : เนื้อ) - comment_id : 65
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', ' ', 'สี', 'แจ่ม', 'แน่น', 'มาก']
+case 1 (Feature : สี) - comment_id : 65
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', 'ติด', 'ทน', ' ', 'สี', 'สวย']
+case 1 (Feature : เนื้อ) - comment_id : 66
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', 'ติด', 'ทน', ' ', 'สี', 'สวย']
+case 1 (Feature : ติด) - comment_id : 66
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', 'ติด', 'ทน', ' ', 'สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 66
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'เกลี่ย', 'ง่าย']
+case 1 (Feature : สี) - comment_id : 67
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'เกลี่ย', 'ง่าย']
+case 1 (Feature : ติด) - comment_id : 67
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 68
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 69
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', ' ', 'สวย', ' ', 'มาก']
+case 1 (Feature : สี) - comment_id : 71
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 72
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'มาก']
+case 1 (Feature : สี) - comment_id : 73
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'มาก']
+case 1 (Feature : ติด) - comment_id : 73
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', ' ', 'ติด', 'ทน', 'นาน', ' ', 'ปาก', 'ไม่', 'แห้ง', 'ดี']
+case 1 (Feature : สี) - comment_id : 74
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', ' ', 'ติด', 'ทน', 'นาน', ' ', 'ปาก', 'ไม่', 'แห้ง', 'ดี']
+case 1 (Feature : ติด) - comment_id : 74
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'หวาน']
+case 1 (Feature : สี) - comment_id : 75
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'มีกลิ่น', 'หอม', 'อ่อน', 'ด้วย', ' ', 'ชอบ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 76
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 79
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['มัน', 'ไม่', 'ได', '้แมต', 'มาก', ' ', 'สี', 'กลบ', 'ปาก', 'คล้ำ', 'ได้', 'ดี', ' แต', '่.', 'สี', 'ที่', 'ได้มา', 'มัน', 'ไม่เหมือน', 'กับ', 'ที่', 'เห็น', 'ใน', 'เว็บ', ' ', 'สี', 'คล้ายกัน', 'มาก', 'กับ', 'jordana', ' ', 'strawberry', ' ', 'cheesecake', ' ', 'แต่', 'ของ', 'จอ', 'ร์', 'ดา', 'น่า', 'พอ', 'แห้ง', 'แล้', 'วสี', 'มัน', 'เปลี่ยนเป็น', 'ออกแบบ', 'เหมือน', 'มี', 'ติ่ง', 'ความ', 'เทา', 'อยู่', ' ', 'แต่', 'ของ', ' ', 'nyx', 'สี', 'ไหน', 'สี', 'นั้น', ' ', 'อีก', 'อย่าง', 'กลิ่นเหม็น', 'หืน', 'มาก', ' ', 'และ', 'ตอ', 'นที', '่เ', 'ห็', 'นแ', 'พ็', 'คเ', 'กจ', 'จาก', 'ใน', 'เว็บ', 'นึก', 'ว่า', 'สี', 'ที่', 'เห็น', 'คือ', 'สี', 'ของ', 'ลิ', 'ปสต', 'ิค', 'แต่', 'มัน', 'ไม่ใช่', ' ', 'มัน', 'คือ', 'สี', 'ของ', 'หลอด']
+case 1 (Feature : สี) - comment_id : 80
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', ' ', 'ติด', 'ดี', ' ', 'ไม่', 'แห้ง', 'มาก']
+case 1 (Feature : สี) - comment_id : 81
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', ' ', 'ติด', 'ดี', ' ', 'ไม่', 'แห้ง', 'มาก']
+case 1 (Feature : ติด) - comment_id : 81
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ทาง่าย', ' ', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 82
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', ' แมท', 'ไป', 'หน่อย']
+case 1 (Feature : กลิ่น) - comment_id : 83
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 86
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'แต่', 'จืด', 'นิด', 'หนึ่ง', ' ', 'หอม', 'มาก']
+case 1 (Feature : สี) - comment_id : 87
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 88
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เกลี่ย', 'ง่าย', ' ', 'สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 89
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ครับ']
+case 1 (Feature : สี) - comment_id : 91
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'มาก', 'ค่ะ', ' ', 'แต่ว่า', 'ถ้า', 'ปาก', 'แห้ง', 'มัน', 'จะ', 'เป็น', 'คราบ', ' ', 'เป็นรอย', 'หน่อย', 'นึง', 'อาจ', 'จะต้อง', 'ใช้', 'ลิป', 'มัน', 'ผสมกัน', 'ด้วย', 'ค่ะ', ' 55555']
+case 1 (Feature : สี) - comment_id : 93
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'แล้ว', 'ปาก', 'เป็น', 'คราบ', ' ', 'ไม่', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 94
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['แ', 'พค', 'ของดี', 'มาก', ' ', 'ดี', 'จน', 'จะ', 'แกะ', 'ใช้', 'เอง', 'ยัง', 'ลำ', 'บา', 'ก555', ' ', 'สี', 'คือ', 'ดี', 'งาม', ' แมท']
+case 1 (Feature : สี) - comment_id : 95
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก', ' ', 'ไม่', 'ต้อง', 'แต่ง', 'หน้า', 'มาก', ' ', 'สี', 'ปาก', 'เจิด', 'แล้ว', 'จบ', 'เลย']
+case 2 (Feature : สี) - comment_id : 96
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก', ' ', 'ไม่', 'ต้อง', 'แต่ง', 'หน้า', 'มาก', ' ', 'สี', 'ปาก', 'เจิด', 'แล้ว', 'จบ', 'เลย']
+case 1 (Feature : สี) - comment_id : 96
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เหลว', 'เกินไป', ' ', 'ทา', 'แล้ว', 'แอบ', 'เลอะ', ' ไม', '่ค่อ', 'ยป', 'กปิก', 'สี', 'ปาก', ' ', 'หลุด', 'ง่าย', ' ', 'แต่', 'สี', 'สวย']
+case 1 (Feature : เนื้อ) - comment_id : 97
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['เนื้อ', 'เหลว', 'เกินไป', ' ', 'ทา', 'แล้ว', 'แอบ', 'เลอะ', ' ไม', '่ค่อ', 'ยป', 'กปิก', 'สี', 'ปาก', ' ', 'หลุด', 'ง่าย', ' ', 'แต่', 'สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 97
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'กลบ', 'ปาก', 'คล้ำ', 'ได้', 'หมด']
+case 1 (Feature : สี) - comment_id : 100
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่า']
+case 1 (Feature : สี) - comment_id : 101
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', ' ', 'สี', 'สวย', ' ', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ', ' ', 'ส่ง', 'ของ', 'ไว', ' ', 'แพ็ค', 'ดี']
+case 1 (Feature : สี) - comment_id : 102
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', ' ', 'สี', 'สวย', ' ', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ', ' ', 'ส่ง', 'ของ', 'ไว', ' ', 'แพ็ค', 'ดี']
+case 1 (Feature : ติด) - comment_id : 102
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'คม', 'ชัด']
+case 1 (Feature : สี) - comment_id : 105
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'คน', 'ชอบ', 'สี', 'เข้ม', 'ตุ่น']
+case 2 (Feature : สี) - comment_id : 106
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 107
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 107
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'กลิ่น', 'หอม', 'อ่อน', ' ', 'ปาก', 'ไม่', 'แห้ง', 'เลย']
+case 1 (Feature : ติด) - comment_id : 108
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'กลิ่น', 'หอม', 'อ่อน', ' ', 'ปาก', 'ไม่', 'แห้ง', 'เลย']
+case 1 (Feature : กลิ่น) - comment_id : 108
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'นี้', 'ปาก', 'เรา', 'ทา', 'แล้ว', 'ออก', 'โทน', 'เทา', 'อม', 'ม่วง', ' ', 'แปลก', 'ตา', 'ดี', ' เนื้', 'อแมท', 'มาก', ' ', 'ติด', 'ทน', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'ไม่ชอบ', 'กลิ่น', 'ลิป']
+case 1 (Feature : ติด) - comment_id : 109
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'ปาก', 'เรา', 'ทา', 'แล้ว', 'ออก', 'โทน', 'เทา', 'อม', 'ม่วง', ' ', 'แปลก', 'ตา', 'ดี', ' เนื้', 'อแมท', 'มาก', ' ', 'ติด', 'ทน', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'ไม่ชอบ', 'กลิ่น', 'ลิป']
+case 1 (Feature : สี) - comment_id : 109
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['สี', 'นี้', 'ปาก', 'เรา', 'ทา', 'แล้ว', 'ออก', 'โทน', 'เทา', 'อม', 'ม่วง', ' ', 'แปลก', 'ตา', 'ดี', ' เนื้', 'อแมท', 'มาก', ' ', 'ติด', 'ทน', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'ไม่ชอบ', 'กลิ่น', 'ลิป']
+case 2 (Feature : กลิ่น) - comment_id : 109
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['ชอบ', 'สี', 'มาก']
+case 2 (Feature : สี) - comment_id : 110
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ลอง', 'แล้ว', ' ', 'เขียน', 'ง่าย', ' แมต', 'พอ', 'ดี', ' ', 'ไม่', 'แห้ง']
+case 1 (Feature : สี) - comment_id : 111
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'เพียง', 'แต่ว่า', 'ถ้า', 'มี', 'ทาน', 'อาหาร', 'ตัว', 'เนื้อ', 'ลิป', 'จะ', 'จาง', 'ลง', ' ', 'ต้อง', 'เติม', 'ค่ะ', ' ', 'แต่', 'ทาง่าย', 'มาก', ' ', 'เม็ด', 'สี', 'คม', 'ชัด', 'ชอบ', 'ตรงนี้']
+case 1 (Feature : สี) - comment_id : 113
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'เพียง', 'แต่ว่า', 'ถ้า', 'มี', 'ทาน', 'อาหาร', 'ตัว', 'เนื้อ', 'ลิป', 'จะ', 'จาง', 'ลง', ' ', 'ต้อง', 'เติม', 'ค่ะ', ' ', 'แต่', 'ทาง่าย', 'มาก', ' ', 'เม็ด', 'สี', 'คม', 'ชัด', 'ชอบ', 'ตรงนี้']
+case 1 (Feature : เนื้อ) - comment_id : 113
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['ใช้', 'ดี', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'เพียง', 'แต่ว่า', 'ถ้า', 'มี', 'ทาน', 'อาหาร', 'ตัว', 'เนื้อ', 'ลิป', 'จะ', 'จาง', 'ลง', ' ', 'ต้อง', 'เติม', 'ค่ะ', ' ', 'แต่', 'ทาง่าย', 'มาก', ' ', 'เม็ด', 'สี', 'คม', 'ชัด', 'ชอบ', 'ตรงนี้']
+case 1 (Feature : สี) - comment_id : 113
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['หยิบ', 'มา', 'ทา', 'บ่อย', 'สุด', 'ค่ะ', ' ', 'กลิ่น', 'หอม', 'น่า', 'กิน', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : กลิ่น) - comment_id : 114
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['หยิบ', 'มา', 'ทา', 'บ่อย', 'สุด', 'ค่ะ', ' ', 'กลิ่น', 'หอม', 'น่า', 'กิน', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด) - comment_id : 114
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ต้อง', 'ซื้อ', 'อีก', 'หลาย', 'เบอร์', 'ค่ะ', ' ', 'สี', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'ติด', 'ทน', 'ด้วย']
+case 1 (Feature : สี) - comment_id : 115
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ต้อง', 'ซื้อ', 'อีก', 'หลาย', 'เบอร์', 'ค่ะ', ' ', 'สี', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'ติด', 'ทน', 'ด้วย']
+case 1 (Feature : ติด) - comment_id : 115
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', ' ', 'ติด', 'ทน', ' ', 'กล', 'ิ่', 'นห๊', 'อม', ' ', 'หอม']
+case 1 (Feature : สี) - comment_id : 116
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', ' ', 'ติด', 'ทน', ' ', 'กล', 'ิ่', 'นห๊', 'อม', ' ', 'หอม']
+case 1 (Feature : ติด) - comment_id : 116
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+case 3
+['เพิ่ง', 'ลอง', 'ใช้', ' ', 'nyx', ' ', 'ครั้งแรก', ' ', 'เพราะ', 'กลัว', 'ผิดหวัง', 'กลับ', 'ลิป', 'จิ้ม', 'จุ่ม', 'กลัว', 'เนื้อ', 'แบบ', 'ไม่', ' ', 'matte', ' ', 'เกลี่ย', 'ยาก', ' ', 'แห้ง', 'ช้า', '   ', 'พอ', 'ได้', 'ของ', 'เลย', 'ลอง', 'มา', 'ปาด', 'ที่', 'ปาก', ' ', 'เกลี่ย', 'ง่าย', ' ', 'เนื้อ', 'นุ่ม', 'ลื่น', ' ', 'มี', 'กล', 'ิ่', 'นหอ', 'ม~*', ' ', 'แห้ง', 'ไว', ' ', 'เรา', 'ซื้อ', 'มา', 'สอง', 'สี', 'เพราะ', 'เป็น', 'คน', 'ชอบ', 'โทน', 'สีชมพู', 'คือ', 'สี', ' #', 'tokyo', ' #', 'istanbul', ' ', 'โทนสี', 'จะ', 'ใกล้', ' ', 'กัน', 'นะ', ' ', 'แต่', ' ', 'tokyo', ' ', 'น่าจะ', 'ให้', 'ความ', 'หวา', 'นแ', 'บ๊ว', ' ', 'สว่าง', ' ', 'สำหรับ', 'การใช้', 'ครั้งแรก', 'ถือ', 'ว่า', 'ชอบ', 'เลย', ' ', 'อุดหนุน', 'ต่อ', 'แน่', 'นอ', 'นค', 'รัช']
+case 1 (Feature : เนื้อ) - comment_id : 118
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เพิ่ง', 'ลอง', 'ใช้', ' ', 'nyx', ' ', 'ครั้งแรก', ' ', 'เพราะ', 'กลัว', 'ผิดหวัง', 'กลับ', 'ลิป', 'จิ้ม', 'จุ่ม', 'กลัว', 'เนื้อ', 'แบบ', 'ไม่', ' ', 'matte', ' ', 'เกลี่ย', 'ยาก', ' ', 'แห้ง', 'ช้า', '   ', 'พอ', 'ได้', 'ของ', 'เลย', 'ลอง', 'มา', 'ปาด', 'ที่', 'ปาก', ' ', 'เกลี่ย', 'ง่าย', ' ', 'เนื้อ', 'นุ่ม', 'ลื่น', ' ', 'มี', 'กล', 'ิ่', 'นหอ', 'ม~*', ' ', 'แห้ง', 'ไว', ' ', 'เรา', 'ซื้อ', 'มา', 'สอง', 'สี', 'เพราะ', 'เป็น', 'คน', 'ชอบ', 'โทน', 'สีชมพู', 'คือ', 'สี', ' #', 'tokyo', ' #', 'istanbul', ' ', 'โทนสี', 'จะ', 'ใกล้', ' ', 'กัน', 'นะ', ' ', 'แต่', ' ', 'tokyo', ' ', 'น่าจะ', 'ให้', 'ความ', 'หวา', 'นแ', 'บ๊ว', ' ', 'สว่าง', ' ', 'สำหรับ', 'การใช้', 'ครั้งแรก', 'ถือ', 'ว่า', 'ชอบ', 'เลย', ' ', 'อุดหนุน', 'ต่อ', 'แน่', 'นอ', 'นค', 'รัช']
+case 1 (Feature : สี) - comment_id : 118
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เหมาะกับ', 'คนผิวขาว', 'มากกว่า']
+case 1 (Feature : สี) - comment_id : 119
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', ' ', 'ลิป', 'แบ', 'รน', 'นี้', 'มาก', 'ค่ะ', ' ', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 120
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', ' ', 'ติด', 'ทน', 'ยุ', 'นะ', ' ', 'แต่', 'ต้อง', 'ทา', 'ซ้ำ', 'ถึง', 'จะ', 'กลบ', 'สี', 'ปาก', 'ดี']
+case 1 (Feature : สี) - comment_id : 123
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', ' ', 'ติด', 'ทน', 'ยุ', 'นะ', ' ', 'แต่', 'ต้อง', 'ทา', 'ซ้ำ', 'ถึง', 'จะ', 'กลบ', 'สี', 'ปาก', 'ดี']
+case 1 (Feature : ติด) - comment_id : 123
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', ' ', 'ติด', 'ทน', 'ยุ', 'นะ', ' ', 'แต่', 'ต้อง', 'ทา', 'ซ้ำ', 'ถึง', 'จะ', 'กลบ', 'สี', 'ปาก', 'ดี']
+case 1 (Feature : สี) - comment_id : 123
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', ' ', 'ผสม', 'กับ', 'สีน้ำตาล', 'นู้ด', 'ดี', 'งาม']
+case 1 (Feature : สี) - comment_id : 124
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สั่ง', 'ครั้ง', 'ที่สอง', 'แล้ว']
+case 1 (Feature : สี) - comment_id : 125
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 126
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'มาก', ' ', 'ขม', 'พู', 'บาร์', 'บี้', 'แบบ', 'ไม่', 'หลอก', ' ', 'ดู', 'หวาน', 'แต่', 'ก็', 'ทา', 'ได้', 'บ่อย', 'เหมือนกัน', 'ค่ะ', ' ', 'กลิ่น', 'หอม', ' ', 'เนื้อ', 'เนียน', ' ', 'แต่', 'พอ', 'ทา', 'ไป', 'สัก', 'พัก', 'ปาก', 'จะ', 'แห้ง', 'มา', 'กก', ' ', 'ต้อง', 'โบก', 'ลิปบาล์ม', 'เยอะ', 'กว่า', 'ปกติ', 'นิด', 'นึง', 'แล้ว', 'ค่อย', 'ทา', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 127
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'มาก', ' ', 'ขม', 'พู', 'บาร์', 'บี้', 'แบบ', 'ไม่', 'หลอก', ' ', 'ดู', 'หวาน', 'แต่', 'ก็', 'ทา', 'ได้', 'บ่อย', 'เหมือนกัน', 'ค่ะ', ' ', 'กลิ่น', 'หอม', ' ', 'เนื้อ', 'เนียน', ' ', 'แต่', 'พอ', 'ทา', 'ไป', 'สัก', 'พัก', 'ปาก', 'จะ', 'แห้ง', 'มา', 'กก', ' ', 'ต้อง', 'โบก', 'ลิปบาล์ม', 'เยอะ', 'กว่า', 'ปกติ', 'นิด', 'นึง', 'แล้ว', 'ค่อย', 'ทา', 'ค่ะ']
+case 1 (Feature : กลิ่น) - comment_id : 127
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'หวาน', 'มาก', ' ', 'ขม', 'พู', 'บาร์', 'บี้', 'แบบ', 'ไม่', 'หลอก', ' ', 'ดู', 'หวาน', 'แต่', 'ก็', 'ทา', 'ได้', 'บ่อย', 'เหมือนกัน', 'ค่ะ', ' ', 'กลิ่น', 'หอม', ' ', 'เนื้อ', 'เนียน', ' ', 'แต่', 'พอ', 'ทา', 'ไป', 'สัก', 'พัก', 'ปาก', 'จะ', 'แห้ง', 'มา', 'กก', ' ', 'ต้อง', 'โบก', 'ลิปบาล์ม', 'เยอะ', 'กว่า', 'ปกติ', 'นิด', 'นึง', 'แล้ว', 'ค่อย', 'ทา', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 127
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 128
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 128
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ดี', 'จริง', 'คะ', ' ', 'สี', 'สวย', 'หวาน', 'เลย', ' ', 'ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : สี) - comment_id : 129
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ดี', 'จริง', 'คะ', ' ', 'สี', 'สวย', 'หวาน', 'เลย', ' ', 'ติด', 'ทน', 'ระดับ', 'นึง']
+case 1 (Feature : ติด) - comment_id : 129
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', ' ', 'สี', 'แน่น', 'ดี', 'คะ']
+case 1 (Feature : สี) - comment_id : 132
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สี', 'แน่น', 'ดี', 'คะ']
+case 1 (Feature : สี) - comment_id : 132
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', ' ', 'ทา', 'แล้ว', 'สวย', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'พื้นฐาน', 'ผิวปาก', 'ต้อง', 'ดี', 'ก่อน', 'นะ', ' ', 'ถ้า', 'ไม่', 'ทาน', 'ไร', 'จะ', 'ติด', 'ดี', 'มาก', 'เลย']
+case 1 (Feature : เนื้อ) - comment_id : 134
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', ' ', 'ทา', 'แล้ว', 'สวย', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'พื้นฐาน', 'ผิวปาก', 'ต้อง', 'ดี', 'ก่อน', 'นะ', ' ', 'ถ้า', 'ไม่', 'ทาน', 'ไร', 'จะ', 'ติด', 'ดี', 'มาก', 'เลย']
+case 1 (Feature : สี) - comment_id : 134
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', ' ', 'ทา', 'แล้ว', 'สวย', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'พื้นฐาน', 'ผิวปาก', 'ต้อง', 'ดี', 'ก่อน', 'นะ', ' ', 'ถ้า', 'ไม่', 'ทาน', 'ไร', 'จะ', 'ติด', 'ดี', 'มาก', 'เลย']
+case 1 (Feature : ติด) - comment_id : 134
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', ' ', 'ทา', 'แล้ว', 'สวย', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'พื้นฐาน', 'ผิวปาก', 'ต้อง', 'ดี', 'ก่อน', 'นะ', ' ', 'ถ้า', 'ไม่', 'ทาน', 'ไร', 'จะ', 'ติด', 'ดี', 'มาก', 'เลย']
+case 1 (Feature : ติด) - comment_id : 134
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลบ', 'สี', 'ปาก', 'ได้', 'ดี', 'คะ']
+case 1 (Feature : สี) - comment_id : 135
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'มาก', ' ', 'เหมาะกับ', 'คน', 'ปาก', 'คล้ำ', ' ', 'ปิด', 'มิด']
+case 1 (Feature : สี) - comment_id : 136
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ชอบ', 'สี', 'นี้', 'มาก', 'ค่ะ', '  ', 'เม็ด', 'สี', 'แน่น', ' ', 'สวย']
+case 2 (Feature : สี) - comment_id : 138
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก', 'ค่ะ', '  ', 'เม็ด', 'สี', 'แน่น', ' ', 'สวย']
+case 1 (Feature : สี) - comment_id : 138
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัดเจน', ' ', 'ติด', 'ค่อย', 'ข้าง', 'ดี', ' ', 'แดง', 'ก่ำ', ' ', 'คล้าย', 'สี', 'เบอร์', 'กัน', 'ดี', ' ', 'แต่', 'หลัง', 'ใช้', 'แล้ว', 'ปาก', 'แห้ง', 'มาก']
+case 1 (Feature : สี) - comment_id : 140
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัดเจน', ' ', 'ติด', 'ค่อย', 'ข้าง', 'ดี', ' ', 'แดง', 'ก่ำ', ' ', 'คล้าย', 'สี', 'เบอร์', 'กัน', 'ดี', ' ', 'แต่', 'หลัง', 'ใช้', 'แล้ว', 'ปาก', 'แห้ง', 'มาก']
+case 1 (Feature : ติด) - comment_id : 140
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัดเจน', ' ', 'ติด', 'ค่อย', 'ข้าง', 'ดี', ' ', 'แดง', 'ก่ำ', ' ', 'คล้าย', 'สี', 'เบอร์', 'กัน', 'ดี', ' ', 'แต่', 'หลัง', 'ใช้', 'แล้ว', 'ปาก', 'แห้ง', 'มาก']
+case 1 (Feature : สี) - comment_id : 140
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทา', 'แล้ว', 'แจ่ม', 'มาก', ' ', 'สี', 'ชัด', 'สวย', 'เด่น', 'ชอบ', 'มากมาย']
+case 1 (Feature : สี) - comment_id : 141
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'เลย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 143
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 144
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น']
+case 1 (Feature : สี) - comment_id : 145
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ได้รับ', 'สินค้า', 'แล้ว', ' ', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 147
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ไม่ค่อย', 'สวย', ' ', 'ไม่', 'เข้ากับ', 'ปาก', 'เท่าไร']
+case 1 (Feature : สี) - comment_id : 149
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['เพิ่ง', 'ลอง', 'ใช้', ' ', 'nyx', ' ', 'ครั้งแรก', ' ', 'เพราะ', 'กลัว', 'ผิดหวัง', 'กลับ', 'ลิป', 'จิ้ม', 'จุ่ม', 'กลัว', 'เนื้อ', 'แบบ', 'ไม่', ' ', 'matte', ' ', 'เกลี่ย', 'ยาก', ' ', 'แห้ง', 'ช้า', '   ', 'พอ', 'ได้', 'ของ', 'เลย', 'ลอง', 'มา', 'ปาด', 'ที่', 'ปาก', ' ', 'เกลี่ย', 'ง่าย', ' ', 'เนื้อ', 'นุ่ม', 'ลื่น', ' ', 'มี', 'กล', 'ิ่', 'นหอ', 'ม~*', ' ', 'แห้ง', 'ไว', ' ', 'เรา', 'ซื้อ', 'มา', 'สอง', 'สี', 'เพราะ', 'เป็น', 'คน', 'ชอบ', 'โทน', 'สีชมพู', 'คือ', 'สี', ' #', 'tokyo', ' #', 'istanbul', ' ', 'โทนสี', 'จะ', 'ใกล้', ' ', 'กัน', 'นะ', ' ', 'แต่', ' ', 'tokyo', ' ', 'น่าจะ', 'ให้', 'ความ', 'หวา', 'นแ', 'บ๊ว', ' ', 'สว่าง', ' ', 'สำหรับ', 'การใช้', 'ครั้งแรก', 'ถือ', 'ว่า', 'ชอบ', 'เลย', ' ', 'อุดหนุน', 'ต่อ', 'แน่', 'นอ', 'นค', 'รัช']
+case 1 (Feature : เนื้อ) - comment_id : 151
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เพิ่ง', 'ลอง', 'ใช้', ' ', 'nyx', ' ', 'ครั้งแรก', ' ', 'เพราะ', 'กลัว', 'ผิดหวัง', 'กลับ', 'ลิป', 'จิ้ม', 'จุ่ม', 'กลัว', 'เนื้อ', 'แบบ', 'ไม่', ' ', 'matte', ' ', 'เกลี่ย', 'ยาก', ' ', 'แห้ง', 'ช้า', '   ', 'พอ', 'ได้', 'ของ', 'เลย', 'ลอง', 'มา', 'ปาด', 'ที่', 'ปาก', ' ', 'เกลี่ย', 'ง่าย', ' ', 'เนื้อ', 'นุ่ม', 'ลื่น', ' ', 'มี', 'กล', 'ิ่', 'นหอ', 'ม~*', ' ', 'แห้ง', 'ไว', ' ', 'เรา', 'ซื้อ', 'มา', 'สอง', 'สี', 'เพราะ', 'เป็น', 'คน', 'ชอบ', 'โทน', 'สีชมพู', 'คือ', 'สี', ' #', 'tokyo', ' #', 'istanbul', ' ', 'โทนสี', 'จะ', 'ใกล้', ' ', 'กัน', 'นะ', ' ', 'แต่', ' ', 'tokyo', ' ', 'น่าจะ', 'ให้', 'ความ', 'หวา', 'นแ', 'บ๊ว', ' ', 'สว่าง', ' ', 'สำหรับ', 'การใช้', 'ครั้งแรก', 'ถือ', 'ว่า', 'ชอบ', 'เลย', ' ', 'อุดหนุน', 'ต่อ', 'แน่', 'นอ', 'นค', 'รัช']
+case 1 (Feature : สี) - comment_id : 151
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'เนื้อ', 'ครีม', 'soft', ' ', 'มาก', ' ', 'ลักษณะ', 'เนื้อ', 'ลิ', 'ปส์', 'บำรุง', 'ปาก', 'มาก', ' ', 'ไม่', 'แห้ง', 'ไม่', 'ลอก', ' ', 'เรื่อง', 'ลิ', 'ปส์', 'ต้อง', 'nyx', ' ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 152
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', ' ', 'กลิ่น', 'หอม', ' ', 'แต่', 'ไม่', 'ติด', 'ทน', 'เลย', ' ', 'กิน', 'น้ำ', ' ', 'กิน', 'ข้าว', 'เลอะ', 'เหมือน', 'ทา', 'ลิป', 'ธรรมดา', 'เลย', ' ', 'เลือก', 'สี', 'ผิด', 'ไป', 'หน่อย', ' ', 'เรา', 'ปาก', 'คล้ำ', ' ', 'สี', 'นี้', 'อ่อน', 'ไป', ' ', 'ทา', 'แล้ว', 'ปา', 'กลอย', ' ', 'ต้อง', 'ทา', 'ผสม', 'กับ', 'ลิป', 'สี', 'อื่น', 'เอา']
+case 1 (Feature : เนื้อ) - comment_id : 153
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ครีม', ' ', 'กลิ่น', 'หอม', ' ', 'แต่', 'ไม่', 'ติด', 'ทน', 'เลย', ' ', 'กิน', 'น้ำ', ' ', 'กิน', 'ข้าว', 'เลอะ', 'เหมือน', 'ทา', 'ลิป', 'ธรรมดา', 'เลย', ' ', 'เลือก', 'สี', 'ผิด', 'ไป', 'หน่อย', ' ', 'เรา', 'ปาก', 'คล้ำ', ' ', 'สี', 'นี้', 'อ่อน', 'ไป', ' ', 'ทา', 'แล้ว', 'ปา', 'กลอย', ' ', 'ต้อง', 'ทา', 'ผสม', 'กับ', 'ลิป', 'สี', 'อื่น', 'เอา']
+case 1 (Feature : กลิ่น) - comment_id : 153
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เนื้อ', 'ครีม', ' ', 'กลิ่น', 'หอม', ' ', 'แต่', 'ไม่', 'ติด', 'ทน', 'เลย', ' ', 'กิน', 'น้ำ', ' ', 'กิน', 'ข้าว', 'เลอะ', 'เหมือน', 'ทา', 'ลิป', 'ธรรมดา', 'เลย', ' ', 'เลือก', 'สี', 'ผิด', 'ไป', 'หน่อย', ' ', 'เรา', 'ปาก', 'คล้ำ', ' ', 'สี', 'นี้', 'อ่อน', 'ไป', ' ', 'ทา', 'แล้ว', 'ปา', 'กลอย', ' ', 'ต้อง', 'ทา', 'ผสม', 'กับ', 'ลิป', 'สี', 'อื่น', 'เอา']
+case 1 (Feature : ติด) - comment_id : 153
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', ' ', 'เบา', 'ปาก', ' ', 'ติด', 'ทน', ' ', 'แห้ง', 'เร็ว', ' ', 'เร', 'ิ่ดดดดดด', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 156
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เบา', 'ปาก', ' ', 'ติด', 'ทน', ' ', 'แห้ง', 'เร็ว', ' ', 'เร', 'ิ่ดดดดดด', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 156
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แจ่ม', 'มาก', ' ', 'แต่', 'สวย']
+case 1 (Feature : สี) - comment_id : 157
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'ดี', 'คะ']
+case 1 (Feature : ติด) - comment_id : 159
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สี', 'ชัด', ' ', 'ทา', 'แล้ว', 'เหมือน', 'กำมะหยี่', ' ', 'ทา', 'แล้ว', 'รู้สึก', 'ลื่น']
+case 1 (Feature : สี) - comment_id : 162
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สี', 'ชัด', ' ', 'ทา', 'แล้ว', 'เหมือน', 'กำมะหยี่', ' ', 'ทา', 'แล้ว', 'รู้สึก', 'ลื่น']
+case 1 (Feature : สี) - comment_id : 162
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'กลิ่น', 'หอม', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 163
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'กลิ่น', 'หอม', 'ดี', 'ค่ะ']
+case 1 (Feature : กลิ่น) - comment_id : 163
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'ดี', ' ', 'สี', 'สวย', ' ', 'เกลี่ย', 'ง่าย']
+case 1 (Feature : สี) - comment_id : 164
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ดี', ' ', 'สี', 'สวย', ' ', 'เกลี่ย', 'ง่าย']
+case 1 (Feature : สี) - comment_id : 164
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', ' ', 'ชุ่ม', 'ชื่น', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 165
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', ' ', 'ชุ่ม', 'ชื่น', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 165
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ', 'มาก', 'ใน', 'บรรดา', 'ลิ', 'ปแมท', ' ', 'ไม่', 'แห้ง', 'มาก', ' ', 'ไม่', 'ตก', 'ร่อง', ' ', 'ติด', 'ทน', 'คะ']
+case 1 (Feature : สี) - comment_id : 166
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ', 'มาก', 'ใน', 'บรรดา', 'ลิ', 'ปแมท', ' ', 'ไม่', 'แห้ง', 'มาก', ' ', 'ไม่', 'ตก', 'ร่อง', ' ', 'ติด', 'ทน', 'คะ']
+case 1 (Feature : ติด) - comment_id : 166
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ไม', '่ค่อ', 'ยแมตต์', 'เท่าไหร่', ' ', 'ไม่ค่อย', 'ติด', 'ทน', ' ', 'แต่', 'ดี', 'ตรง', 'ที่', 'ทา', 'แล้ว', 'ปาก', 'ชุ่ม', 'ชื่น', ' ', 'สี', 'สวย', 'อยู่', ' ', 'แต่', 'สำหรับ', 'คนที', '่ชอ', 'บแมตต์', 'กร', 'ิ๊บ', ' ', 'ไม่', 'แนะนำตัว', 'นี้', 'คะ']
+case 1 (Feature : ติด) - comment_id : 167
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ไม', '่ค่อ', 'ยแมตต์', 'เท่าไหร่', ' ', 'ไม่ค่อย', 'ติด', 'ทน', ' ', 'แต่', 'ดี', 'ตรง', 'ที่', 'ทา', 'แล้ว', 'ปาก', 'ชุ่ม', 'ชื่น', ' ', 'สี', 'สวย', 'อยู่', ' ', 'แต่', 'สำหรับ', 'คนที', '่ชอ', 'บแมตต์', 'กร', 'ิ๊บ', ' ', 'ไม่', 'แนะนำตัว', 'นี้', 'คะ']
+case 1 (Feature : สี) - comment_id : 167
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 169
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'เนื้อ', 'เนียน']
+case 1 (Feature : ติด) - comment_id : 170
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'เนื้อ', 'เนียน']
+case 1 (Feature : เนื้อ) - comment_id : 170
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เบา', 'ปาก', ' ', 'ติด', 'ทน', ' ', 'แห้ง', 'เร็ว', ' ', 'เร', 'ิ่ดดดดดด', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 171
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เบา', 'ปาก', ' ', 'ติด', 'ทน', ' ', 'แห้ง', 'เร็ว', ' ', 'เร', 'ิ่ดดดดดด', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 171
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 172
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'มาก', ' ', 'สี', 'สวย', 'เหมือน', 'ใน', 'รูป', 'เลย', ' ', 'สี', 'ติด', 'ดี', ' ', 'ติด', 'ทน', ' ', 'ไม่', 'แห้', 'งข', 'ลุย', ' ', 'ชอบ', 'ค่ะ', ' ', 'ซื้อ', 'สี', 'อื่น', 'เพิ่ม', 'แน่นอน']
+case 1 (Feature : สี) - comment_id : 173
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'มาก', ' ', 'สี', 'สวย', 'เหมือน', 'ใน', 'รูป', 'เลย', ' ', 'สี', 'ติด', 'ดี', ' ', 'ติด', 'ทน', ' ', 'ไม่', 'แห้', 'งข', 'ลุย', ' ', 'ชอบ', 'ค่ะ', ' ', 'ซื้อ', 'สี', 'อื่น', 'เพิ่ม', 'แน่นอน']
+case 1 (Feature : สี) - comment_id : 173
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'มาก', ' ', 'สี', 'สวย', 'เหมือน', 'ใน', 'รูป', 'เลย', ' ', 'สี', 'ติด', 'ดี', ' ', 'ติด', 'ทน', ' ', 'ไม่', 'แห้', 'งข', 'ลุย', ' ', 'ชอบ', 'ค่ะ', ' ', 'ซื้อ', 'สี', 'อื่น', 'เพิ่ม', 'แน่นอน']
+case 1 (Feature : ติด) - comment_id : 173
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'มาก', ' ', 'สี', 'สวย', 'เหมือน', 'ใน', 'รูป', 'เลย', ' ', 'สี', 'ติด', 'ดี', ' ', 'ติด', 'ทน', ' ', 'ไม่', 'แห้', 'งข', 'ลุย', ' ', 'ชอบ', 'ค่ะ', ' ', 'ซื้อ', 'สี', 'อื่น', 'เพิ่ม', 'แน่นอน']
+case 1 (Feature : ติด) - comment_id : 173
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ติด', 'นาน', 'มาก']
+case 1 (Feature : สี) - comment_id : 174
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ติด', 'นาน', 'มาก']
+case 1 (Feature : ติด) - comment_id : 174
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ไม่ค่อย', 'ชอบ', 'สี', 'นี้']
+case 2 (Feature : สี) - comment_id : 176
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'แดง', 'แบบ', 'คุณ', 'หนู']
+case 1 (Feature : สี) - comment_id : 177
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 178
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'จะ', 'ออก', 'แดง', 'หน่อย', ' ', 'เข้าใจผิด', 'คิด', 'ว่าจะ', 'ออก', 'สีส้ม', ' ', 'แต่', 'สี', 'สวย', 'ใช้ได้', ' ', 'แรง', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 179
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'งาม', 'ตาม', 'ท้อง', 'เรื่อง']
+case 1 (Feature : สี) - comment_id : 180
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'ราคา', 'น่ารัก']
+case 1 (Feature : ติด) - comment_id : 181
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เกลี่ย', 'ง่าย', ' เนื้', 'อแมต', ' ', 'แต่', 'ไม่', 'แห้ง', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 183
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', ' ', 'แต่', 'สี', 'ออก', 'น้ำตาล', 'นู้ด', 'ไป', ' ', 'แอบ', 'ดู', 'ป่วย', 'เบา']
+case 1 (Feature : กลิ่น) - comment_id : 185
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['แท่ง', 'นี้', 'ต้อง', 'ซื้อ', 'ซ้ำ', 'ค่ะ', 'ชอบ', 'สี', 'มาก']
+case 2 (Feature : สี) - comment_id : 187
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'เป็น', 'สีส้ม', 'นู้ด', ' ', 'สุภาพ', ' ', 'ไม่', 'แห้ง', 'จน', 'เกินไป', ' ', 'ทา', 'ได้', 'ทุก', 'โอกาส', ' ', 'คน', 'ผิว', 'เข้ม', 'อาจจะ', 'ทา', 'แล้ว', 'ลอย', ' ', 'ลิป', 'ไม่ค่อย', 'ติด', 'ทน', 'เท่าไหร่', ' ', 'แต่', 'สำหรับ', 'ราคา', 'เท่า', 'นี้', 'คือ', 'คุ้ม', 'ค่า', 'มาก']
+case 1 (Feature : สี) - comment_id : 188
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'เป็น', 'สีส้ม', 'นู้ด', ' ', 'สุภาพ', ' ', 'ไม่', 'แห้ง', 'จน', 'เกินไป', ' ', 'ทา', 'ได้', 'ทุก', 'โอกาส', ' ', 'คน', 'ผิว', 'เข้ม', 'อาจจะ', 'ทา', 'แล้ว', 'ลอย', ' ', 'ลิป', 'ไม่ค่อย', 'ติด', 'ทน', 'เท่าไหร่', ' ', 'แต่', 'สำหรับ', 'ราคา', 'เท่า', 'นี้', 'คือ', 'คุ้ม', 'ค่า', 'มาก']
+case 1 (Feature : ติด) - comment_id : 188
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['นู้ด', 'สวย', 'ค่ะ', ' ', 'ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด) - comment_id : 190
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรา', 'ให้', 'สี', 'นี้', 'เป็น', 'สี', 'ที่', 'สวย', 'ที่สุด', 'ใน', 'บรรดา', 'ลิป', 'ทน', 'นู้ด', 'น้ำตาล', 'เลย', ' ', 'เพราะ', 'เป็น', 'สี', 'ที่', 'ทา', 'ได้', 'ไม่', 'ยาก', ' ', 'แต่', 'ติด', 'ทน', 'และ', 'สวย', 'สุด', 'เหมา', 'ะกั', 'บเ', 'ทร', 'นด์', 'ช่วง', 'นี้', 'มาก']
+case 1 (Feature : สี) - comment_id : 192
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรา', 'ให้', 'สี', 'นี้', 'เป็น', 'สี', 'ที่', 'สวย', 'ที่สุด', 'ใน', 'บรรดา', 'ลิป', 'ทน', 'นู้ด', 'น้ำตาล', 'เลย', ' ', 'เพราะ', 'เป็น', 'สี', 'ที่', 'ทา', 'ได้', 'ไม่', 'ยาก', ' ', 'แต่', 'ติด', 'ทน', 'และ', 'สวย', 'สุด', 'เหมา', 'ะกั', 'บเ', 'ทร', 'นด์', 'ช่วง', 'นี้', 'มาก']
+case 1 (Feature : สี) - comment_id : 192
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรา', 'ให้', 'สี', 'นี้', 'เป็น', 'สี', 'ที่', 'สวย', 'ที่สุด', 'ใน', 'บรรดา', 'ลิป', 'ทน', 'นู้ด', 'น้ำตาล', 'เลย', ' ', 'เพราะ', 'เป็น', 'สี', 'ที่', 'ทา', 'ได้', 'ไม่', 'ยาก', ' ', 'แต่', 'ติด', 'ทน', 'และ', 'สวย', 'สุด', 'เหมา', 'ะกั', 'บเ', 'ทร', 'นด์', 'ช่วง', 'นี้', 'มาก']
+case 1 (Feature : ติด) - comment_id : 192
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'มีกลิ่น', 'หอม', ' ', 'แต่', 'ไม่', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 194
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', ' ', 'มีกลิ่น', 'หอม', ' ', 'แต่', 'ไม่', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 194
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'จืด', 'ธรรมชาติ', ' ', 'ติด', 'ไม่', 'ทน']
+case 1 (Feature : สี) - comment_id : 195
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'จืด', 'ธรรมชาติ', ' ', 'ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด) - comment_id : 195
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ', 'ที่', 'สุก']
+case 1 (Feature : สี) - comment_id : 196
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส', 'ีนู๊ด', ' ', 'น้ำตาล', 'เบจ', ' ', 'ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด) - comment_id : 199
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 200
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก', ' ', 'เหมาะกับ', 'การ', 'ทา', 'ได้', 'ทุก', 'โอกาส', ' ', 'ไป', 'เรียน', 'ก็', 'เร', 'ิ่ดด', ' ', 'สี', 'พีช', 'นู๊ด', ' ', 'ชมพู', 'นิด', ' ', 'กลิ่น', 'หอมหวาน', ' ', 'เร', 'ิ่ด']
+case 1 (Feature : สี) - comment_id : 201
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'มาก', ' ', 'เลย', 'ค่า']
+case 1 (Feature : สี) - comment_id : 202
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวยม', 'มาก', 'ค่ะ', ' ', 'แต่', 'เนื้อ', 'แห้ง', 'ไปนิด']
+case 1 (Feature : เนื้อ) - comment_id : 203
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['สี', 'นี้', 'สวย', 'มาก', ' ', 'เพื่อน', 'ก้', 'ชม', ' ', 'กลิ่น', 'หอม', 'ด้วย', ' ', 'ชอบ', 'ค่า']
+case 1 (Feature : สี) - comment_id : 204
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'สวย', 'มาก', ' ', 'เพื่อน', 'ก้', 'ชม', ' ', 'กลิ่น', 'หอม', 'ด้วย', ' ', 'ชอบ', 'ค่า']
+case 1 (Feature : กลิ่น) - comment_id : 204
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ติด', 'ไม่', 'ทน', ' ', 'สี', 'เหมือน', ' ', 'just', ' ', 'peach', ' ', 'ของ', ' ', 'wet', ' n', ' ', 'wild']
+case 1 (Feature : ติด) - comment_id : 206
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 209
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 210
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 210
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ไป', 'ลอง', 'เท', 'สมา', 'ที่', 'ร้าน', 'เลย', 'มา', 'เลือก', 'ช้อป', 'ที่นี่', ' ', 'สี', 'สวย', 'ถูกใจ', 'มาก']
+case 1 (Feature : สี) - comment_id : 211
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ปิด', 'สี', 'ปาก', 'คล้ำ', 'ได้', 'ดี', ' ', 'ติด', 'ทน', 'ทั้งวัน', ' ', 'สี', 'เหมือน', 'ที่', 'ฝรั่ง', ' ร', 'ีว', 'ิว']
+case 1 (Feature : สี) - comment_id : 212
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ปิด', 'สี', 'ปาก', 'คล้ำ', 'ได้', 'ดี', ' ', 'ติด', 'ทน', 'ทั้งวัน', ' ', 'สี', 'เหมือน', 'ที่', 'ฝรั่ง', ' ร', 'ีว', 'ิว']
+case 1 (Feature : สี) - comment_id : 212
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ปิด', 'สี', 'ปาก', 'คล้ำ', 'ได้', 'ดี', ' ', 'ติด', 'ทน', 'ทั้งวัน', ' ', 'สี', 'เหมือน', 'ที่', 'ฝรั่ง', ' ร', 'ีว', 'ิว']
+case 1 (Feature : ติด) - comment_id : 212
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'มาก', ' ', 'สี', 'แน่น', 'มาก']
+case 1 (Feature : สี) - comment_id : 213
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เข้ม', 'เกือบ', 'ดำ', ' ', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 214
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', ' ', 'กลิ่น', 'หอม', ' ', 'แดง', 'สวย']
+case 1 (Feature : กลิ่น) - comment_id : 215
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เม็ด', 'สี', 'ชัด', 'มาก', 'ค่ะ', '  ', 'กลิ่น', 'หอม', ' ', 'ปลื้ม']
+case 1 (Feature : สี) - comment_id : 216
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'ชัด', 'มาก', 'ค่ะ', '  ', 'กลิ่น', 'หอม', ' ', 'ปลื้ม']
+case 1 (Feature : กลิ่น) - comment_id : 216
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'สด', 'ค่ะ', ' ', 'แต่', 'สีแดง', 'แป๊ด', 'เลย', ' ', 'เข้าใจ', 'ว่าจะ', 'ออก', 'สี', 'แด', 'งเ', 'ลืด', 'นก', ' ', 'แต่', 'ก็', 'สวย', ' ', 'ติด', 'ทน', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 217
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'สด', 'ค่ะ', ' ', 'แต่', 'สีแดง', 'แป๊ด', 'เลย', ' ', 'เข้าใจ', 'ว่าจะ', 'ออก', 'สี', 'แด', 'งเ', 'ลืด', 'นก', ' ', 'แต่', 'ก็', 'สวย', ' ', 'ติด', 'ทน', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 217
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'เขียน', 'ง่าย', 'สี', 'สวย', ' ', 'สีแดง', 'สด', ' ', 'คน', 'ผิว', 'เข้ม', 'ทา', 'สวย', 'มาก', ' ', 'ขับ', 'กับ', 'สีผิว', 'มาก', ' ', 'คือ', 'ดี', ' ', 'พูด', 'แค่', 'นี้', ' ', 'คือ', 'มัน', 'ดี', 'มาก', 'จริง', '  ', 'ติด', 'ทน', ' ', 'ติดแน่น', ' ', 'ปาด', 'รอบ', 'เดียว', 'คือ', 'ได้', 'สี', 'เลย', ' ไ', 'ปต', 'ำกั', 'นค่', 'ะ!']
+case 1 (Feature : เนื้อ) - comment_id : 220
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'เขียน', 'ง่าย', 'สี', 'สวย', ' ', 'สีแดง', 'สด', ' ', 'คน', 'ผิว', 'เข้ม', 'ทา', 'สวย', 'มาก', ' ', 'ขับ', 'กับ', 'สีผิว', 'มาก', ' ', 'คือ', 'ดี', ' ', 'พูด', 'แค่', 'นี้', ' ', 'คือ', 'มัน', 'ดี', 'มาก', 'จริง', '  ', 'ติด', 'ทน', ' ', 'ติดแน่น', ' ', 'ปาด', 'รอบ', 'เดียว', 'คือ', 'ได้', 'สี', 'เลย', ' ไ', 'ปต', 'ำกั', 'นค่', 'ะ!']
+case 1 (Feature : สี) - comment_id : 220
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'เขียน', 'ง่าย', 'สี', 'สวย', ' ', 'สีแดง', 'สด', ' ', 'คน', 'ผิว', 'เข้ม', 'ทา', 'สวย', 'มาก', ' ', 'ขับ', 'กับ', 'สีผิว', 'มาก', ' ', 'คือ', 'ดี', ' ', 'พูด', 'แค่', 'นี้', ' ', 'คือ', 'มัน', 'ดี', 'มาก', 'จริง', '  ', 'ติด', 'ทน', ' ', 'ติดแน่น', ' ', 'ปาด', 'รอบ', 'เดียว', 'คือ', 'ได้', 'สี', 'เลย', ' ไ', 'ปต', 'ำกั', 'นค่', 'ะ!']
+case 1 (Feature : ติด) - comment_id : 220
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'มาก', 'เลย']
+case 2 (Feature : สี) - comment_id : 221
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 222
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 223
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'เนื้อ', ' ', 'และ', 'ความ', 'ติด', 'ทน', ' แต', '่ส', 'ีนี', '้ไม', '่เ', 'ค่า', 'กับ', 'ผิว', 'เท่าไหร่', ' ', 'แอบ', 'ทา', 'ยาก']
+case 2 (Feature : เนื้อ) - comment_id : 224
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'เนื้อ', ' ', 'และ', 'ความ', 'ติด', 'ทน', ' แต', '่ส', 'ีนี', '้ไม', '่เ', 'ค่า', 'กับ', 'ผิว', 'เท่าไหร่', ' ', 'แอบ', 'ทา', 'ยาก']
+case 1 (Feature : ติด) - comment_id : 224
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'มาก', ' ', 'สี', 'สวย', 'มาก']
+case 1 (Feature : เนื้อ) - comment_id : 226
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'มาก', ' ', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 226
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', ' ', 'นู้ด', ' ', 'ไม่', 'เหนียว', 'มาก']
+case 1 (Feature : สี) - comment_id : 228
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี']
+case 2 (Feature : สี) - comment_id : 229
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ค่ะ', ' ', 'เนื้อ', 'ดี', ' ', 'กลิ่น', 'ดี']
+case 1 (Feature : เนื้อ) - comment_id : 230
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ค่ะ', ' ', 'เนื้อ', 'ดี', ' ', 'กลิ่น', 'ดี']
+case 1 (Feature : กลิ่น) - comment_id : 230
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แมท', 'มาก', 'แต่', 'ยัง', 'มี', 'ความ', 'มอ', 'ซอ', 'ยู่', ' ', 'ไม่', 'ได', '้แมท', 'ถึง', 'ขนาด', 'แห้ง', 'เหมือน', 'ลิป', 'จุ่ม', ' ', 'สี', 'ชัด', 'มาก', ' ', 'กลบ', 'ทุก', 'อย่าง', ' ', 'แต่', 'สี', 'ออก', 'ม่วง', 'เข้', 'มอม', 'แดง', ' ', 'ไม่ค่อย', 'เหมือน', 'ใน', 'รูป', ' ', 'ทา', 'เต็ม', 'ปาก', 'แล้ว', 'โด', 'ดยั', 'งไง', 'ไม่', 'รู้']
+case 1 (Feature : สี) - comment_id : 232
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เข้ม', ' ', 'ติด', 'ดี']
+case 1 (Feature : สี) - comment_id : 233
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เข้ม', ' ', 'ติด', 'ดี']
+case 1 (Feature : ติด) - comment_id : 233
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', 'และ', 'แน่น']
+case 1 (Feature : เนื้อ) - comment_id : 235
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดี', 'และ', 'แน่น']
+case 1 (Feature : สี) - comment_id : 235
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'เหมือน', 'ขนม', ' ', 'หยิบ', 'มา', 'ทา', 'บ่อย', '  ', 'ติด', 'ทน', ' ', 'ไม่ค่อย', 'หลุด', ' ', 'แต่', 'ถ้า', 'กิน', 'น้ำ', 'เยอะ', ' ', 'อาจจะ', 'มี', 'สี', 'เป็น', 'คราบ', 'นิด', 'ค่ะ']
+case 1 (Feature : กลิ่น) - comment_id : 244
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['กลิ่น', 'หอม', 'เหมือน', 'ขนม', ' ', 'หยิบ', 'มา', 'ทา', 'บ่อย', '  ', 'ติด', 'ทน', ' ', 'ไม่ค่อย', 'หลุด', ' ', 'แต่', 'ถ้า', 'กิน', 'น้ำ', 'เยอะ', ' ', 'อาจจะ', 'มี', 'สี', 'เป็น', 'คราบ', 'นิด', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 244
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'อ่อน', 'มาก', ' ', 'ติด', 'ไม่', 'ทน', ' ท', 'าเเล้ว', 'ตก', 'ร่อง']
+case 1 (Feature : สี) - comment_id : 247
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'อ่อน', 'มาก', ' ', 'ติด', 'ไม่', 'ทน', ' ท', 'าเเล้ว', 'ตก', 'ร่อง']
+case 1 (Feature : ติด) - comment_id : 247
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'แต่', 'ทา', 'แล้ว', 'เหมือน', 'ป่วย', 'อาจจะ', 'เพราะ', 'เรา', 'ไม่', 'ชิน', 'กั', 'บส', 'ีนู๊ด', ' ', 'ต้อง', 'ทาสี', 'อื่น', 'ทับ', 'จะ', 'สวย', 'พอ', 'ดี', 'เลย']
+case 1 (Feature : สี) - comment_id : 248
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'แต่', 'ทา', 'แล้ว', 'เหมือน', 'ป่วย', 'อาจจะ', 'เพราะ', 'เรา', 'ไม่', 'ชิน', 'กั', 'บส', 'ีนู๊ด', ' ', 'ต้อง', 'ทาสี', 'อื่น', 'ทับ', 'จะ', 'สวย', 'พอ', 'ดี', 'เลย']
+case 1 (Feature : ติด) - comment_id : 248
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ค่ะ', ' ', 'ติด', 'ทน', 'ดี', ' ', 'ต้อง', 'ใช้เวลา', 'สัก', 'พัก', 'กว่า', 'เขา', 'จะ', 'แห้ง', ' ', 'ไม่', 'ต้อง', 'บำรุง', 'ปาก', 'ก็', 'ทา', 'ได้', 'ปาก', 'แห้ง', 'ทา', 'ได้', 'สบาย', 'เพราะ', 'ตัว', 'ลิป', 'ค่อนข้าง', 'ชุ่ม', 'ชื่น', ' ', 'สามารถ', 'เติมเต็ม', 'ร่อง', 'ริมฝีปาก', 'ได้', 'ดี', ' ', 'ทำให้', 'ปาก', 'ดู', 'อวบ', 'อิ่ม', 'ไม่', 'ดู', 'แห้ง', 'กรัง', ' ', 'ไม่', 'ดูด', 'ความ', 'ชุ่ม', 'ชื้น', 'ออกจาก', 'ปาก']
+case 1 (Feature : สี) - comment_id : 249
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ค่ะ', ' ', 'ติด', 'ทน', 'ดี', ' ', 'ต้อง', 'ใช้เวลา', 'สัก', 'พัก', 'กว่า', 'เขา', 'จะ', 'แห้ง', ' ', 'ไม่', 'ต้อง', 'บำรุง', 'ปาก', 'ก็', 'ทา', 'ได้', 'ปาก', 'แห้ง', 'ทา', 'ได้', 'สบาย', 'เพราะ', 'ตัว', 'ลิป', 'ค่อนข้าง', 'ชุ่ม', 'ชื่น', ' ', 'สามารถ', 'เติมเต็ม', 'ร่อง', 'ริมฝีปาก', 'ได้', 'ดี', ' ', 'ทำให้', 'ปาก', 'ดู', 'อวบ', 'อิ่ม', 'ไม่', 'ดู', 'แห้ง', 'กรัง', ' ', 'ไม่', 'ดูด', 'ความ', 'ชุ่ม', 'ชื้น', 'ออกจาก', 'ปาก']
+case 1 (Feature : ติด) - comment_id : 249
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'นิ่ม', 'ทาง่าย', ' ', 'เสีย', 'ดาย', 'ปาด', 'ที', 'เดียว', 'หัก', 'ละ']
+case 1 (Feature : เนื้อ) - comment_id : 250
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ไม่ค่อย', 'ตรงกับ', 'ที่', 'ปลอก', 'นะ', 'คะ', ' ', 'แต่', 'สวย', 'ค่ะ', ' ', 'ปาก', 'ไม่', 'แหก', ' ', 'ไม่', 'ลอก', ' ', 'ติด', 'ทน', ' เ', 'ทส', 'จูบ', 'มือ', 'ไม่ค่อย', 'หลุด', 'เลย', ' ', 'ดี', 'งาม']
+case 1 (Feature : ติด) - comment_id : 251
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'เนียน', ' ', 'สี', 'ชัดเจน', ' ', 'ชุ่ม', 'ชื่น', ' ', 'ทาง่าย']
+case 1 (Feature : เนื้อ) - comment_id : 252
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'เนียน', ' ', 'สี', 'ชัดเจน', ' ', 'ชุ่ม', 'ชื่น', ' ', 'ทาง่าย']
+case 1 (Feature : สี) - comment_id : 252
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 255
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'กำลัง', 'ดี', 'เลย', 'ครับ', ' ', 'ชอบ', 'มาก', ' ', 'แฟน', 'บอก', 'เหมือน', 'ปาก', 'เด็ก', 'เลย']
+case 1 (Feature : สี) - comment_id : 256
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' แต', 'ะเป็', 'นต', 'ินท์ด้า', 'นใ', 'นป', 'วก', 'สวย', 'ดี', ' ', 'แต่', 'เนื้อ', 'ลิ', 'ป+', 'กลิ่น', ' ', 'jordana', ' ', 'ดีกว่า', 'เยอะ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 257
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ดู', 'สุภาพ', ' ', 'ใช้ได้', 'ทุก', 'งาน', ' เนื้', 'อแมทท์', 'มาก', ' ', 'ระหว่าง', 'วัน', 'อาจจะ', 'มี', 'แห้ง', 'บ้าง', ' ', 'แนะนำ', 'ให้', 'พก', 'คู่', 'กับ', 'ลิป', 'มัน']
+case 1 (Feature : สี) - comment_id : 258
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ', ' ', 'ชอบ', ' ', 'ทา', 'ทุกวัน', 'เลย']
+case 1 (Feature : สี) - comment_id : 261
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'สี', 'นี้', 'แอบ', 'หายาก', 'อ่ะ']
+case 1 (Feature : สี) - comment_id : 262
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'สี', 'นี้', 'แอบ', 'หายาก', 'อ่ะ']
+case 1 (Feature : ติด) - comment_id : 262
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เหมาะ', 'ทุก', 'สถานะ', 'การณ์']
+case 1 (Feature : สี) - comment_id : 263
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ละมุน']
+case 1 (Feature : สี) - comment_id : 264
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'พิกเมนต์', 'ดี']
+case 1 (Feature : สี) - comment_id : 265
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['คือ', 'ชอบ', 'มาก', 'เนื้อ', 'แน่น', 'มาก', ' ส', 'ีสว', 'ยย']
+case 1 (Feature : เนื้อ) - comment_id : 266
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 267
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'โทน', 'สุภาพ', ' ', 'ใส่', 'ได้', 'ทุก', 'โอกาส']
+case 1 (Feature : สี) - comment_id : 268
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'เหมือน', 'ลูก', 'อม', 'ค่ะ', 'สี', 'อ่อน', 'น่ารัก']
+case 1 (Feature : กลิ่น) - comment_id : 269
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เป็น', 'ลิป', 'ที่', 'เกลี่ย', 'ง่าย', ' ', 'แห้ง', 'เร็ว', 'ดี', 'ค่ะ', ' ', 'ชอบ', 'มาก', ' ', 'สี', 'สวย', 'ถูกใจ', ' ', 'นู้ด', 'น้ำตา', 'ลอม', 'ส้ม', ' ', 'ออก', 'ชมพู', 'นิด', ' ', 'สี', 'นี้', 'ทา', 'แล้ว', 'แล', 'ดู', 'ไม่', 'ป่วย', 'ค่ะ', ' ', 'สี', 'มี', 'ความแน่น', ' ', 'ปาก', 'ไม่', 'แห้ง', 'นะ', 'คะ', ' ', 'ติด', 'ทน', 'ดี', 'มาก', ' ', 'ลบ', 'เลือน', 'ประมาณ', ' 20%', ' ', 'มี', 'ตก', 'ร่อง', 'นิดหน่อย', ' ', 'ให้อภัย', 'ได้', ' ', 'ถ้า', 'เทียบ', 'กับ', 'คุณภาพ']
+case 1 (Feature : สี) - comment_id : 270
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'ลิป', 'ที่', 'เกลี่ย', 'ง่าย', ' ', 'แห้ง', 'เร็ว', 'ดี', 'ค่ะ', ' ', 'ชอบ', 'มาก', ' ', 'สี', 'สวย', 'ถูกใจ', ' ', 'นู้ด', 'น้ำตา', 'ลอม', 'ส้ม', ' ', 'ออก', 'ชมพู', 'นิด', ' ', 'สี', 'นี้', 'ทา', 'แล้ว', 'แล', 'ดู', 'ไม่', 'ป่วย', 'ค่ะ', ' ', 'สี', 'มี', 'ความแน่น', ' ', 'ปาก', 'ไม่', 'แห้ง', 'นะ', 'คะ', ' ', 'ติด', 'ทน', 'ดี', 'มาก', ' ', 'ลบ', 'เลือน', 'ประมาณ', ' 20%', ' ', 'มี', 'ตก', 'ร่อง', 'นิดหน่อย', ' ', 'ให้อภัย', 'ได้', ' ', 'ถ้า', 'เทียบ', 'กับ', 'คุณภาพ']
+case 1 (Feature : ติด) - comment_id : 270
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'ไม่', 'ทำให้', 'ปาก', 'แห้ง', 'เกินไป', ' ', 'สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : สี) - comment_id : 273
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'ไม่', 'ทำให้', 'ปาก', 'แห้ง', 'เกินไป', ' ', 'สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : สี) - comment_id : 273
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'ไม่', 'ทำให้', 'ปาก', 'แห้ง', 'เกินไป', ' ', 'สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : ติด) - comment_id : 273
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'ลื่น', ' ', 'แต่', 'แห้ง', ' ', 'ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : สี) - comment_id : 274
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'ลื่น', ' ', 'แต่', 'แห้ง', ' ', 'ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : เนื้อ) - comment_id : 274
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'ลื่น', ' ', 'แต่', 'แห้ง', ' ', 'ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : ติด) - comment_id : 274
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['กลิ่น', 'หอม', ' ', 'อ่อน', ' ', 'สี', 'สวย', ' ', 'ทา', 'ติด', 'ทน', ' ', 'นาน']
+case 1 (Feature : กลิ่น) - comment_id : 275
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['กลิ่น', 'หอม', ' ', 'อ่อน', ' ', 'สี', 'สวย', ' ', 'ทา', 'ติด', 'ทน', ' ', 'นาน']
+case 1 (Feature : สี) - comment_id : 275
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', ' ', 'อ่อน', ' ', 'สี', 'สวย', ' ', 'ทา', 'ติด', 'ทน', ' ', 'นาน']
+case 1 (Feature : ติด) - comment_id : 275
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'กลิ่น', 'หอม', ' ', 'เหมือน', 'ขนม', '  ', 'ใช้', 'ง่าย', 'มาก', ' ', 'ดี', 'งาม']
+case 1 (Feature : สี) - comment_id : 277
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'กลิ่น', 'หอม', ' ', 'เหมือน', 'ขนม', '  ', 'ใช้', 'ง่าย', 'มาก', ' ', 'ดี', 'งาม']
+case 1 (Feature : กลิ่น) - comment_id : 277
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ชอบ', 'นะ', ' ', 'แต่', 'ตอน', 'ทา', 'ตอนแรก', 'รู้สึก', 'แปลก', ' ', 'แต่', 'สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 278
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก', ' ', 'ทา', 'แล้ว', 'ให้', 'ดู', 'ธรรมชาติ', ' ', 'แต่', 'ไม่', 'ซี', 'ด ', ' ส', 'ีไม', '่ดร', 'อป', ' ', 'ดี', 'งาม']
+case 2 (Feature : สี) - comment_id : 281
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'สวย', ' ', 'เนื้อ', 'ลื่น', 'ดี', ' ', 'แต่', 'ทา', 'แล้ว', 'ค่อนข้าง', 'แห้ง', 'และ', 'หนา', ' ', 'หลุด', 'ง่าย', 'ไปนิด', 'และ', 'ค่อนข้าง', 'เป็น', 'คราบ', ' ', 'โดยรวม', 'โอเค', ' ', 'ถ้า', 'บำรุง', 'ปาก', 'ดี', ' ', 'อาจจะ', 'ขึ้นกับ', 'สภาพ', 'ผิวปาก', 'ใน', 'แต่ละ', 'วัน']
+case 1 (Feature : สี) - comment_id : 282
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'สวย', ' ', 'เนื้อ', 'ลื่น', 'ดี', ' ', 'แต่', 'ทา', 'แล้ว', 'ค่อนข้าง', 'แห้ง', 'และ', 'หนา', ' ', 'หลุด', 'ง่าย', 'ไปนิด', 'และ', 'ค่อนข้าง', 'เป็น', 'คราบ', ' ', 'โดยรวม', 'โอเค', ' ', 'ถ้า', 'บำรุง', 'ปาก', 'ดี', ' ', 'อาจจะ', 'ขึ้นกับ', 'สภาพ', 'ผิวปาก', 'ใน', 'แต่ละ', 'วัน']
+case 1 (Feature : เนื้อ) - comment_id : 282
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'สุภาพ', ' ', 'ออก', 'น้ำตา', 'ลอม', 'ส้ม', 'นิด', ' ', 'ชมพู', 'หน่อย', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'ถ้า', 'ปาก', 'แห้ง', 'มาก', 'อาจจะ', 'มี', 'ตก', 'ร่อง', 'นิดหน่อย']
+case 1 (Feature : สี) - comment_id : 284
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'สุภาพ', ' ', 'ออก', 'น้ำตา', 'ลอม', 'ส้ม', 'นิด', ' ', 'ชมพู', 'หน่อย', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'ถ้า', 'ปาก', 'แห้ง', 'มาก', 'อาจจะ', 'มี', 'ตก', 'ร่อง', 'นิดหน่อย']
+case 1 (Feature : ติด) - comment_id : 284
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ABU', ' ', 'DHABI', ' ', 'สี', 'สวย', 'ค่ะ', ' ', 'ธรรมชาติ', 'และ', 'ดู', 'สุภาพ', 'มา', 'ก ', ' เนื้', 'อแมท', 'แต่', 'ไม่', 'แห้ง', 'แตก', ' ', 'มี', 'ตก', 'ร่อง', 'หน่อย', ' ', 'ต้อง', 'บำรุง', 'ปาก', 'นิด', 'นึง', 'ก่อน', 'ทา', ' ', 'เกลี่ย', 'ง่าย', ' ', 'โดยรวม', 'โอเค', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 285
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', ' ', 'แต่', 'กลบ', 'สี', 'ปาก', 'ไม่', 'มิด', ' ', 'ออ', 'กส', 'ีนู๊ด', 'น้ำตาล']
+case 1 (Feature : สี) - comment_id : 286
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'สี', 'ออก', 'น้ำตาล', 'ชมพู', 'เลย', ' ', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 287
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'texture', ' ', 'สี', 'สวย', ' ', 'ทา', 'ได้', 'ทุก', 'โอกาส', ' ', 'วัน', 'ไหน', 'รีบ', ' ', 'ตัว', 'นี้', 'เอา', 'อยู่', ' ', 'ติด', 'ใจ', 'มาก', ' ', 'สั่ง', 'เป็น', 'แท่ง', 'ที่', ' 2', ' ', 'แล้ว', ' ', 'ขึ้นแท่น', 'เป็น', ' ', 'must', ' ', 'have', ' ', 'อีก', ' 1', ' ', 'อย่าง', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 288
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'มาก', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'ทา', 'แล้', 'วเป๊ะ', ' ', 'สี', 'เหมาะ', 'แก่', 'ทุก', 'โอกาส', ' ', 'วัน', 'ไหน', 'รีบ', ' ', 'ทาสี', 'นี้', 'เอา', 'อยู่']
+case 1 (Feature : สี) - comment_id : 289
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'ครีม', 'รุ่น', 'นี้', 'คือ', 'ดี', 'งาม', ' ', 'โดยเฉพาะ', 'เวลา', 'ปาด', 'กับ', 'ปาก', 'แล้', 'วสี', 'สวย', 'สุด', 'ไป', 'เลย', ' ', 'เนื้อ', 'เนียน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แตก', ' ', 'ไม่', 'แห้ง', 'เป็น', 'ขุย', ' ', 'เกลี่ย', 'ง่าย', ' ', 'ปิด', 'สี', 'ปาก', 'สนิท', 'ดี', ' ', 'เสีย', 'ดาย', 'ที่', 'หลอด', 'เล็ก', 'ไป', 'หน่อย', ' ', 'โดยรวม', 'ถูกใจ', 'มาก', ' ', 'ตั้งใจ', 'จะ', 'ซื้อ', 'สี', 'อื่น', 'เพิ่ม', 'อี', 'กแน', 'นอน']
+case 1 (Feature : เนื้อ) - comment_id : 292
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'ครีม', 'รุ่น', 'นี้', 'คือ', 'ดี', 'งาม', ' ', 'โดยเฉพาะ', 'เวลา', 'ปาด', 'กับ', 'ปาก', 'แล้', 'วสี', 'สวย', 'สุด', 'ไป', 'เลย', ' ', 'เนื้อ', 'เนียน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แตก', ' ', 'ไม่', 'แห้ง', 'เป็น', 'ขุย', ' ', 'เกลี่ย', 'ง่าย', ' ', 'ปิด', 'สี', 'ปาก', 'สนิท', 'ดี', ' ', 'เสีย', 'ดาย', 'ที่', 'หลอด', 'เล็ก', 'ไป', 'หน่อย', ' ', 'โดยรวม', 'ถูกใจ', 'มาก', ' ', 'ตั้งใจ', 'จะ', 'ซื้อ', 'สี', 'อื่น', 'เพิ่ม', 'อี', 'กแน', 'นอน']
+case 1 (Feature : สี) - comment_id : 292
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 293
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ตก', 'ร่อง', 'นิด', 'นึง', ' ', 'ชอบ', 'เนื้อ', 'ทาง่าย', 'กลบ', 'สี', 'ปาก', ' ', 'สี', 'สวย', 'เรียบร้อย', ' ', 'ปาก', 'ไม่', 'แห้ง']
+case 2 (Feature : เนื้อ) - comment_id : 294
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ตก', 'ร่อง', 'นิด', 'นึง', ' ', 'ชอบ', 'เนื้อ', 'ทาง่าย', 'กลบ', 'สี', 'ปาก', ' ', 'สี', 'สวย', 'เรียบร้อย', ' ', 'ปาก', 'ไม่', 'แห้ง']
+case 1 (Feature : สี) - comment_id : 294
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ตก', 'ร่อง', 'นิด', 'นึง', ' ', 'ชอบ', 'เนื้อ', 'ทาง่าย', 'กลบ', 'สี', 'ปาก', ' ', 'สี', 'สวย', 'เรียบร้อย', ' ', 'ปาก', 'ไม่', 'แห้ง']
+case 1 (Feature : สี) - comment_id : 294
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 295
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เป็น', 'โทน', 'สุภาพ', ' ', 'มีกลิ่น', 'หอม', 'อ่อน', 'ด้วย', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 296
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'มาก', 'คะ']
+case 1 (Feature : สี) - comment_id : 297
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สุภาพ', 'ทาง่าย']
+case 1 (Feature : สี) - comment_id : 298
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 299
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 299
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ติด', 'ทน', ' ', 'ไม่', 'ตก', 'ร่อง', '  ', 'ปาก', 'ไม่', 'แห้ง', 'เลย', ' ', 'konvy', ' ', 'แพ็ค', 'สินค้า', 'ดี', 'เหมือน', 'เดิม', ' ', 'กล่อง', 'ก็', 'น่ารัก', 'ตลอด', ' ', 'ปลื้ม', 'คะ']
+case 1 (Feature : สี) - comment_id : 302
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ติด', 'ทน', ' ', 'ไม่', 'ตก', 'ร่อง', '  ', 'ปาก', 'ไม่', 'แห้ง', 'เลย', ' ', 'konvy', ' ', 'แพ็ค', 'สินค้า', 'ดี', 'เหมือน', 'เดิม', ' ', 'กล่อง', 'ก็', 'น่ารัก', 'ตลอด', ' ', 'ปลื้ม', 'คะ']
+case 2 (Feature : ติด) - comment_id : 302
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ค่ะ', ' ', 'กลิ่น', 'หอม', ' ', 'ติด', 'ทน', ' ', 'แต่', 'แห้ง', 'ไปนิด', 'นึง']
+case 1 (Feature : กลิ่น) - comment_id : 303
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['ชอบ', 'ค่ะ', ' ', 'กลิ่น', 'หอม', ' ', 'ติด', 'ทน', ' ', 'แต่', 'แห้ง', 'ไปนิด', 'นึง']
+case 1 (Feature : ติด) - comment_id : 303
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', ' ', 'เกลี่ย', 'ง่าย', ' ', 'ชอบ']
+case 1 (Feature : กลิ่น) - comment_id : 305
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', ' ', 'สด', ' ', 'ไม่', 'ตก', 'ร่อง', ' ', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 306
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'ใส', 'อย่าง', 'กะ', 'วัย', 'แรก', 'สาว']
+case 1 (Feature : สี) - comment_id : 307
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'นาน', 'ดี']
+case 1 (Feature : ติด) - comment_id : 308
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 309
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'คม', 'ชัด', ' ', 'ติด', 'ทน', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 310
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'คม', 'ชัด', ' ', 'ติด', 'ทน', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 310
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'มาก']
+case 2 (Feature : สี) - comment_id : 311
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'ดี', ' ', 'แต่', 'รู้สึก', 'มัน', 'น้อย', 'ไป', 'หน่อย', ' ', 'เหมือน', 'จะ', 'ดู', 'แห้ง']
+case 1 (Feature : สี) - comment_id : 312
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'ดี', ' ', 'แต่', 'รู้สึก', 'มัน', 'น้อย', 'ไป', 'หน่อย', ' ', 'เหมือน', 'จะ', 'ดู', 'แห้ง']
+case 1 (Feature : ติด) - comment_id : 312
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'จ้า']
+case 1 (Feature : สี) - comment_id : 313
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'วานิลลา', 'หอม', 'อ่อน', ' ', 'สี', 'ทา', 'ได้', 'ทุกวัน', ' ', 'เม็ด', 'สี', 'ค่อนข้าง', 'แน่น', ' ', 'ติด', 'ทน', 'พอ', 'สม', 'ควร', ' ', 'ทา', 'แล้ว', 'ไม่', 'แห้ง', 'จน', 'ปา', 'กร่อน']
+case 1 (Feature : กลิ่น) - comment_id : 314
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['กลิ่น', 'วานิลลา', 'หอม', 'อ่อน', ' ', 'สี', 'ทา', 'ได้', 'ทุกวัน', ' ', 'เม็ด', 'สี', 'ค่อนข้าง', 'แน่น', ' ', 'ติด', 'ทน', 'พอ', 'สม', 'ควร', ' ', 'ทา', 'แล้ว', 'ไม่', 'แห้ง', 'จน', 'ปา', 'กร่อน']
+case 1 (Feature : สี) - comment_id : 314
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'วานิลลา', 'หอม', 'อ่อน', ' ', 'สี', 'ทา', 'ได้', 'ทุกวัน', ' ', 'เม็ด', 'สี', 'ค่อนข้าง', 'แน่น', ' ', 'ติด', 'ทน', 'พอ', 'สม', 'ควร', ' ', 'ทา', 'แล้ว', 'ไม่', 'แห้ง', 'จน', 'ปา', 'กร่อน']
+case 1 (Feature : ติด) - comment_id : 314
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'กลบ', 'สี', 'ปาก', 'ได้', 'ดี', 'เลย']
+case 1 (Feature : สี) - comment_id : 316
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'กลบ', 'สี', 'ปาก', 'ได้', 'ดี', 'เลย']
+case 1 (Feature : สี) - comment_id : 316
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'ถูกใจ', ' ', 'ทาง่าย']
+case 1 (Feature : สี) - comment_id : 317
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 318
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทา', 'แล้ว', 'ปาก', 'แห้ง', ' ', 'แต่', 'ก็', 'ชอบ', 'ทา', 'ทับ', 'ลิปสติก', 'สี', 'เดียวกัน', ' ', 'ติด', 'ทน', 'ทั้งวัน']
+case 1 (Feature : สี) - comment_id : 319
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทา', 'แล้ว', 'ปาก', 'แห้ง', ' ', 'แต่', 'ก็', 'ชอบ', 'ทา', 'ทับ', 'ลิปสติก', 'สี', 'เดียวกัน', ' ', 'ติด', 'ทน', 'ทั้งวัน']
+case 1 (Feature : ติด) - comment_id : 319
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'ชอบ', 'มาก']
+case 1 (Feature : สี) - comment_id : 320
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เกลี่ย', 'ง่าย', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี) - comment_id : 322
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เกลี่ย', 'ง่าย', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด) - comment_id : 322
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ถูกใจ', 'มาก', ' ', 'แต่', 'ต้อง', 'ทา', 'สอง', 'รอบ', 'ถึง', 'จะ', 'ได้', 'สี', 'ที่', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 323
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ถูกใจ', 'มาก', ' ', 'แต่', 'ต้อง', 'ทา', 'สอง', 'รอบ', 'ถึง', 'จะ', 'ได้', 'สี', 'ที่', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 323
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่ค่อย', 'ทน']
+case 1 (Feature : ติด) - comment_id : 325
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ค่า', ' ', 'ชอบ', 'สี', 'นี้', 'มาก']
+case 1 (Feature : สี) - comment_id : 326
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่า', ' ', 'ชอบ', 'สี', 'นี้', 'มาก']
+case 2 (Feature : สี) - comment_id : 326
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แนะนำ', 'ค่ะ', ' ', 'ซื้อ', 'เลย', ' ', 'ไม่', 'ต้อง', 'คิด', ' ', 'สาว', ' ', 'ควร', 'มี', 'ให้', 'ครบ', 'ทุก', 'สี', ' ', 'เพราะ', 'ตัว', 'เร', 'าร', 'ู็', 'สึก', 'ดี', 'กะ', ' ', 'nyx', ' ', 'รุ่น', 'นี้', 'มาก', ' ', 'สี', 'แน่น', ' ', 'ปาก', 'ไม่', 'แห้ง', 'มาก', ' ', 'สี', 'สวย', 'ทุก', 'เฉด', ' ', 'เข้า', 'ได้', 'ทุก', 'เฉด', 'สีผิว']
+case 1 (Feature : สี) - comment_id : 328
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['แนะนำ', 'ค่ะ', ' ', 'ซื้อ', 'เลย', ' ', 'ไม่', 'ต้อง', 'คิด', ' ', 'สาว', ' ', 'ควร', 'มี', 'ให้', 'ครบ', 'ทุก', 'สี', ' ', 'เพราะ', 'ตัว', 'เร', 'าร', 'ู็', 'สึก', 'ดี', 'กะ', ' ', 'nyx', ' ', 'รุ่น', 'นี้', 'มาก', ' ', 'สี', 'แน่น', ' ', 'ปาก', 'ไม่', 'แห้ง', 'มาก', ' ', 'สี', 'สวย', 'ทุก', 'เฉด', ' ', 'เข้า', 'ได้', 'ทุก', 'เฉด', 'สีผิว']
+case 1 (Feature : สี) - comment_id : 328
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'คล้าย', 'สี', 'ปาก', ' ', 'เข้ม', 'กว่า', 'นิด', 'นึง', ' ', 'ออก', 'ชมพู', 'พีช', 'ค่ะ', ' ', 'กลิ่น', 'หอม', ' ', 'ใช้', 'ง่าย', ' ', 'ไม่', 'ตก', 'ร่อง', ' ', 'แต่', 'ไม่ค่อย', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 329
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'คล้าย', 'สี', 'ปาก', ' ', 'เข้ม', 'กว่า', 'นิด', 'นึง', ' ', 'ออก', 'ชมพู', 'พีช', 'ค่ะ', ' ', 'กลิ่น', 'หอม', ' ', 'ใช้', 'ง่าย', ' ', 'ไม่', 'ตก', 'ร่อง', ' ', 'แต่', 'ไม่ค่อย', 'ติด', 'ทน']
+case 1 (Feature : กลิ่น) - comment_id : 329
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', ' ', 'คล้าย', 'สี', 'ปาก', ' ', 'เข้ม', 'กว่า', 'นิด', 'นึง', ' ', 'ออก', 'ชมพู', 'พีช', 'ค่ะ', ' ', 'กลิ่น', 'หอม', ' ', 'ใช้', 'ง่าย', ' ', 'ไม่', 'ตก', 'ร่อง', ' ', 'แต่', 'ไม่ค่อย', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 329
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ดี', 'งาม', 'มาก', 'เลย', ' ', 'สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ราคา', 'โอเค', ' ', 'แต่ง', 'แท่ง', 'เล็ก', 'ไป', 'หน่อย', ' ', 'มีโอกาส', 'จะ', 'ซื้อ', 'อี', 'ก^^']
+case 1 (Feature : สี) - comment_id : 330
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ดี', 'งาม', 'มาก', 'เลย', ' ', 'สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ราคา', 'โอเค', ' ', 'แต่ง', 'แท่ง', 'เล็ก', 'ไป', 'หน่อย', ' ', 'มีโอกาส', 'จะ', 'ซื้อ', 'อี', 'ก^^']
+case 1 (Feature : ติด) - comment_id : 330
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'นะ', ' ', 'แต่ว่า', 'สว่าง', ' ', 'ตอนแรก', 'นึก', 'ว่าจะ', 'หม่น', 'กว่า', 'นี้', ' ', 'นาน', 'แห้ง', 'หน่อย', ' แต', '่แมต', 'ดี']
+case 1 (Feature : สี) - comment_id : 332
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี) - comment_id : 333
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ดี', 'คะ', 'แต่', 'ไม่', 'ทั้งวัน', 'นะ']
+case 1 (Feature : สี) - comment_id : 334
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ดี', 'คะ', 'แต่', 'ไม่', 'ทั้งวัน', 'นะ']
+case 2 (Feature : ติด) - comment_id : 334
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 337
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'มาก']
+case 1 (Feature : สี) - comment_id : 338
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'มาก']
+case 1 (Feature : ติด) - comment_id : 338
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', ' ', 'สี', 'สวย', 'มาก', 'ค่ะ', ' เ', 'กิ', 'ดเล', 'ยข่ะ', 'งาน', 'นี้', ' ', 'ของ', 'มา', 'เร็ว', 'มาก']
+case 1 (Feature : เนื้อ) - comment_id : 339
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', ' ', 'สี', 'สวย', 'มาก', 'ค่ะ', ' เ', 'กิ', 'ดเล', 'ยข่ะ', 'งาน', 'นี้', ' ', 'ของ', 'มา', 'เร็ว', 'มาก']
+case 1 (Feature : สี) - comment_id : 339
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 340
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'แต่', 'เสีย', 'ที่', 'สี', 'ไม่', 'ติด', 'ทน', 'กิน', 'อะไร', 'นิดหน่อย', 'ก็', 'หลุด', 'แล้ว', ' ', 'กล', 'ิ่', 'นหอ', 'มว', 'นิ', 'ลา']
+case 1 (Feature : สี) - comment_id : 341
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'แต่', 'เสีย', 'ที่', 'สี', 'ไม่', 'ติด', 'ทน', 'กิน', 'อะไร', 'นิดหน่อย', 'ก็', 'หลุด', 'แล้ว', ' ', 'กล', 'ิ่', 'นหอ', 'มว', 'นิ', 'ลา']
+case 1 (Feature : สี) - comment_id : 341
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'แต่', 'เสีย', 'ที่', 'สี', 'ไม่', 'ติด', 'ทน', 'กิน', 'อะไร', 'นิดหน่อย', 'ก็', 'หลุด', 'แล้ว', ' ', 'กล', 'ิ่', 'นหอ', 'มว', 'นิ', 'ลา']
+case 1 (Feature : ติด) - comment_id : 341
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ราคา', 'ไม่แพง']
+case 1 (Feature : สี) - comment_id : 342
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ราคา', 'ไม่แพง']
+case 2 (Feature : ติด) - comment_id : 342
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 343
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 343
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', ' ', 'สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 344
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', ' ', 'สี', 'สวย']
+case 1 (Feature : ติด) - comment_id : 344
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', ' ', 'สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 344
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'ราคา', 'ไม่แพง']
+case 1 (Feature : สี) - comment_id : 345
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ขอ', 'ส่ง', 'ต่อ', ' 200', ' ', 'รวม', 'ส่ง', 'EMS', '  ', 'สี', 'มัน', 'แจ่ม', 'ไป', 'ค่ะ', '  ', 'สำหรับ', 'เรา', ' ', 'สนใจ', 'ติ', 'ดต่', 'อ ', ' ไล', 'น์', ' ', 'sich', 'a5299']
+case 1 (Feature : สี) - comment_id : 346
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สี', 'ชัด', ' เนื้', 'อแมตต์', 'กำลัง', 'ดี', ' แ', 'อพ', 'พล', 'ิเคเ', 'ตอ', 'ร์', 'ใช้งาน', 'ง่าย', ' ', 'เกลี่ย', 'สี', 'ได้', 'ดี', ' ', 'ตัว', 'เนื้อ', 'ลิป', 'ปิด', 'ร่องปาก', 'มิด', ' ', 'ส่วนตัว', 'ชอบ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 347
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สี', 'ชัด', ' เนื้', 'อแมตต์', 'กำลัง', 'ดี', ' แ', 'อพ', 'พล', 'ิเคเ', 'ตอ', 'ร์', 'ใช้งาน', 'ง่าย', ' ', 'เกลี่ย', 'สี', 'ได้', 'ดี', ' ', 'ตัว', 'เนื้อ', 'ลิป', 'ปิด', 'ร่องปาก', 'มิด', ' ', 'ส่วนตัว', 'ชอบ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 347
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สี', 'ชัด', ' เนื้', 'อแมตต์', 'กำลัง', 'ดี', ' แ', 'อพ', 'พล', 'ิเคเ', 'ตอ', 'ร์', 'ใช้งาน', 'ง่าย', ' ', 'เกลี่ย', 'สี', 'ได้', 'ดี', ' ', 'ตัว', 'เนื้อ', 'ลิป', 'ปิด', 'ร่องปาก', 'มิด', ' ', 'ส่วนตัว', 'ชอบ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 347
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ไม่ค่อย', 'ทน', ' ', 'พอ', 'ใช้ได้']
+case 1 (Feature : ติด) - comment_id : 349
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ได้รับ', 'สินค้า', 'แล้', 'วค', 'ะ ', ' แ', 'พค', 'กันกระแทก', 'มา', 'อย่าง', 'ดี', '  ', 'สี', 'สวย', 'มาก', ' ', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 351
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ดี', 'สวย', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด) - comment_id : 352
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดู', 'ธรรมชาติ', 'มาก', 'ค่ะ', ' ', 'เป็น', 'สีชมพู', 'นู้ด', 'อม', 'ส้ม', 'นิ', 'ดไ', ' ', 'เป็น', 'สี', 'ที่', 'สามารถ', 'ทา', 'ได้', 'ทุกวัน', ' ', 'ทุ', 'กล', 'ุค', 'เลย', 'ค่ะ', ' เนื้', 'อแมท', 'แห้ง', 'ติด', 'ทน', 'มาก', 'กิน', 'ข้าว', 'ก็', 'ไม่ค่อย', 'หลุด', 'เลย', ' ', 'ปกติ', 'ชอบ', 'แบรนด์', 'นี้', 'อยู่แล้ว', 'ใช้', 'ดี', 'ทุก', 'อย่าง', 'คะ', ' ', 'ใคร', 'ปาก', 'แห้ง', 'ต้อง', 'ทา', 'ลิป', 'มัน', 'หนา', 'ก่อน', 'ทา', 'ลิป', 'ตัว', 'นี้', 'นะ', 'คะ', ' ', 'ดี', 'งา', 'มม', 'ค่า']
+case 1 (Feature : สี) - comment_id : 353
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดู', 'ธรรมชาติ', 'มาก', 'ค่ะ', ' ', 'เป็น', 'สีชมพู', 'นู้ด', 'อม', 'ส้ม', 'นิ', 'ดไ', ' ', 'เป็น', 'สี', 'ที่', 'สามารถ', 'ทา', 'ได้', 'ทุกวัน', ' ', 'ทุ', 'กล', 'ุค', 'เลย', 'ค่ะ', ' เนื้', 'อแมท', 'แห้ง', 'ติด', 'ทน', 'มาก', 'กิน', 'ข้าว', 'ก็', 'ไม่ค่อย', 'หลุด', 'เลย', ' ', 'ปกติ', 'ชอบ', 'แบรนด์', 'นี้', 'อยู่แล้ว', 'ใช้', 'ดี', 'ทุก', 'อย่าง', 'คะ', ' ', 'ใคร', 'ปาก', 'แห้ง', 'ต้อง', 'ทา', 'ลิป', 'มัน', 'หนา', 'ก่อน', 'ทา', 'ลิป', 'ตัว', 'นี้', 'นะ', 'คะ', ' ', 'ดี', 'งา', 'มม', 'ค่า']
+case 2 (Feature : ติด) - comment_id : 353
+pos : True
+neg : True
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'หลัง', 'ทาน', 'ข้าว', 'ต้อง', 'เติม', 'นาง', 'นิด', 'นึง', ' ', 'นาง', 'มี', 'การ', 'หลุด', 'ลอก']
+case 1 (Feature : สี) - comment_id : 354
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มา', 'กก', ' ', 'แต่', 'ทา', 'แล้ว', 'ตก', 'ร่อง', 'ไป', 'หน่อย']
+case 1 (Feature : สี) - comment_id : 355
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'มาก', ' ', 'สี', 'โทน', 'สุภาพ']
+case 1 (Feature : เนื้อ) - comment_id : 356
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'มาก', ' ', 'ครีม', ' ', 'แห้ง', 'เร็ว', 'แต่', 'ไม่', 'แห้ง', 'เกิน']
+case 1 (Feature : เนื้อ) - comment_id : 357
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'ก><']
+case 1 (Feature : สี) - comment_id : 358
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ได้รับ', 'ของ', 'เร็ว', ' แ', 'พค', 'ของดี', 'เช่น', 'เคย']
+case 1 (Feature : สี) - comment_id : 359
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'จริง', 'อยาก', 'ได้', 'สี', 'zurich', 'มากกว่า', ' ', 'แต่', 'สี', 'นี้', 'ก็', 'สวย', 'ค่อนข้าง', 'เรียบร้อย', ' ', 'แต่', 'ไม่ค่อย', 'เหมาะกับ', 'คน', 'ที่', 'ปาก', 'แห้', 'งม', 'สก', 'แบบ', 'เรา', ' ', 'คือ', 'มัน', 'เป็น', 'คราบ', 'ตามรอย', 'ปาก', 'แห้ง', ' ', 'เลย', 'ทา', 'ได้', 'เฉพาะ', 'บาง', 'วันที่', 'ปาก', 'ไม่ค่อย', 'แห้ง', 'มาก']
+case 1 (Feature : สี) - comment_id : 360
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'จริง', 'อยาก', 'ได้', 'สี', 'zurich', 'มากกว่า', ' ', 'แต่', 'สี', 'นี้', 'ก็', 'สวย', 'ค่อนข้าง', 'เรียบร้อย', ' ', 'แต่', 'ไม่ค่อย', 'เหมาะกับ', 'คน', 'ที่', 'ปาก', 'แห้', 'งม', 'สก', 'แบบ', 'เรา', ' ', 'คือ', 'มัน', 'เป็น', 'คราบ', 'ตามรอย', 'ปาก', 'แห้ง', ' ', 'เลย', 'ทา', 'ได้', 'เฉพาะ', 'บาง', 'วันที่', 'ปาก', 'ไม่ค่อย', 'แห้ง', 'มาก']
+case 1 (Feature : สี) - comment_id : 360
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'ชอบ', 'มาก']
+case 1 (Feature : สี) - comment_id : 361
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'รัก', 'เลย']
+case 1 (Feature : สี) - comment_id : 362
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 363
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['นู้ด', 'ติด', 'ชมพู', ' ', 'สี', 'สวย', ' ', 'ชอบ']
+case 1 (Feature : ติด) - comment_id : 364
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['นู้ด', 'ติด', 'ชมพู', ' ', 'สี', 'สวย', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 364
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'แซ', '่บ', 'มาก', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 365
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี้', 'แซ', '่บ', 'มาก', 'ติด', 'ทน', 'นาน', 'มาก', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 365
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'ลิป', 'เนื้อ', 'จุ่ม', ' ', 'สี', 'สวย', 'ติด', 'ทน', 'ทั้งวัน', ' ', 'กลบ', 'สี', 'ปาก', 'ได้', 'มิด', ' ', 'ได้', 'สี', 'ตา', 'มร', 'ีว', 'ิว', ' ', 'ฝรั่ง', 'เลย']
+case 1 (Feature : เนื้อ) - comment_id : 367
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'ลิป', 'เนื้อ', 'จุ่ม', ' ', 'สี', 'สวย', 'ติด', 'ทน', 'ทั้งวัน', ' ', 'กลบ', 'สี', 'ปาก', 'ได้', 'มิด', ' ', 'ได้', 'สี', 'ตา', 'มร', 'ีว', 'ิว', ' ', 'ฝรั่ง', 'เลย']
+case 1 (Feature : สี) - comment_id : 367
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'ลิป', 'เนื้อ', 'จุ่ม', ' ', 'สี', 'สวย', 'ติด', 'ทน', 'ทั้งวัน', ' ', 'กลบ', 'สี', 'ปาก', 'ได้', 'มิด', ' ', 'ได้', 'สี', 'ตา', 'มร', 'ีว', 'ิว', ' ', 'ฝรั่ง', 'เลย']
+case 2 (Feature : ติด) - comment_id : 367
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'อ่อน', 'กว่า', 'ที่', 'คิด', 'ไปนิด', 'แต่', 'ทา', 'ทับ', 'สัก', 'สอง', 'รอบ', 'ก็ได้', 'สี', 'ถูกใจ', ' ', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 370
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 373
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ดี', ' ', 'ติด', 'ทน', 'นาน', ' ', 'โดน', 'น้ำ', 'ไม่มี', 'หลุด', ' ', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 376
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ดี', ' ', 'ติด', 'ทน', 'นาน', ' ', 'โดน', 'น้ำ', 'ไม่มี', 'หลุด', ' ', 'ถูกใจ']
+case 1 (Feature : ติด) - comment_id : 376
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 377
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ผิดหวัง', 'ตั้งแต่', 'เปิด', 'ใช้', 'เลย', ' ', 'กลิ่น', 'คือ', 'ไม่', 'โอเค', ' ', 'เนื้อ', 'แปลก', 'เพราะ', 'ใช้', 'แล้ว', 'เป็น', 'คราบ', 'สุด', ' ', 'เรา', 'ใช้', 'แล้ว', 'ดู', 'ป่วย', 'มาก', ' ', 'เอา', 'จริง', 'นาง', 'สี', 'สวย', 'นะ', ' ', 'แต่', 'เรา', 'ใช้', 'แล้ว', 'ไม่', 'โอเค', 'สุด', ' ', 'เสีย', 'ดาย', 'สี', 'สวย', 'ของ', 'นาง', ' ', 'TT']
+case 1 (Feature : กลิ่น) - comment_id : 378
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ผิดหวัง', 'ตั้งแต่', 'เปิด', 'ใช้', 'เลย', ' ', 'กลิ่น', 'คือ', 'ไม่', 'โอเค', ' ', 'เนื้อ', 'แปลก', 'เพราะ', 'ใช้', 'แล้ว', 'เป็น', 'คราบ', 'สุด', ' ', 'เรา', 'ใช้', 'แล้ว', 'ดู', 'ป่วย', 'มาก', ' ', 'เอา', 'จริง', 'นาง', 'สี', 'สวย', 'นะ', ' ', 'แต่', 'เรา', 'ใช้', 'แล้ว', 'ไม่', 'โอเค', 'สุด', ' ', 'เสีย', 'ดาย', 'สี', 'สวย', 'ของ', 'นาง', ' ', 'TT']
+case 1 (Feature : สี) - comment_id : 378
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ผิดหวัง', 'ตั้งแต่', 'เปิด', 'ใช้', 'เลย', ' ', 'กลิ่น', 'คือ', 'ไม่', 'โอเค', ' ', 'เนื้อ', 'แปลก', 'เพราะ', 'ใช้', 'แล้ว', 'เป็น', 'คราบ', 'สุด', ' ', 'เรา', 'ใช้', 'แล้ว', 'ดู', 'ป่วย', 'มาก', ' ', 'เอา', 'จริง', 'นาง', 'สี', 'สวย', 'นะ', ' ', 'แต่', 'เรา', 'ใช้', 'แล้ว', 'ไม่', 'โอเค', 'สุด', ' ', 'เสีย', 'ดาย', 'สี', 'สวย', 'ของ', 'นาง', ' ', 'TT']
+case 1 (Feature : สี) - comment_id : 378
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 379
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แซ', 'บซ', 'ี๊ด', ' ', 'โดน', 'ใจ', 'มาก', ' ', 'แต่', 'งห', 'น้', 'าแน', 'วฝอ', ' ', 'เร', 'ิ่ด', 'ที่สุด', ' ', 'ติด', 'ทน', 'ทาน', 'มาก', 'ดื่น', 'น้ำ', 'ลิป', 'ไม่', 'ติด', 'แก้', ' ', 'ติด', 'หลอด', 'ผ่าน']
+case 1 (Feature : ติด) - comment_id : 380
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แซ', 'บซ', 'ี๊ด', ' ', 'โดน', 'ใจ', 'มาก', ' ', 'แต่', 'งห', 'น้', 'าแน', 'วฝอ', ' ', 'เร', 'ิ่ด', 'ที่สุด', ' ', 'ติด', 'ทน', 'ทาน', 'มาก', 'ดื่น', 'น้ำ', 'ลิป', 'ไม่', 'ติด', 'แก้', ' ', 'ติด', 'หลอด', 'ผ่าน']
+case 1 (Feature : ติด) - comment_id : 380
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ซื้อ', 'ไป', 'ฝาก', 'แม่', 'ค่ะ', ' ', 'สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 381
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ทน', 'ชัด', ' ', 'เกลี่ย', 'ง่าย', ' ', 'กลาย', 'เป็นของ', 'สะสม', 'แล้ว', 'จ้า']
+case 1 (Feature : สี) - comment_id : 382
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'หวาน', 'ดี', ' ', 'แต่', 'กลบ', 'สี', 'ปาก', 'คล้ำ', 'ไม่', 'หมด']
+case 1 (Feature : สี) - comment_id : 383
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', 'ดี', 'คะ', ' ', 'สำหรับ', 'ลง', 'หลัง', 'ทา', 'ไป', 'บ้าง', 'เท่านั้น']
+case 1 (Feature : กลิ่น) - comment_id : 384
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'ชัด', 'มาก', ' ', 'สี', 'สวย', 'ด้วย', ' ', 'ไม่', 'ลอย', 'ไม่', 'เด้ง', ' ', 'ทา', 'แล้ว', 'กลบ', 'สี', 'ปาก', 'เดิม', ' ชอ', 'บแ', 'พคเ', 'กท', 'ลิป', 'แท่ง', ' ', 'สวย', 'สะดวก', 'ดี', ' ไม', '่แมท', 'มาก', ' ', 'ไม่', 'แห้ง', ' ', 'สี', 'ออก', 'ชมพู', 'แดง', 'เข้ม']
+case 1 (Feature : สี) - comment_id : 386
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัด', 'มาก', ' ', 'สี', 'สวย', 'ด้วย', ' ', 'ไม่', 'ลอย', 'ไม่', 'เด้ง', ' ', 'ทา', 'แล้ว', 'กลบ', 'สี', 'ปาก', 'เดิม', ' ชอ', 'บแ', 'พคเ', 'กท', 'ลิป', 'แท่ง', ' ', 'สวย', 'สะดวก', 'ดี', ' ไม', '่แมท', 'มาก', ' ', 'ไม่', 'แห้ง', ' ', 'สี', 'ออก', 'ชมพู', 'แดง', 'เข้ม']
+case 1 (Feature : สี) - comment_id : 386
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีชมพู', 'หวาน', 'สวย', 'ดี', ' ', 'กลบ', 'ปาก', 'คล้ำ', 'มิด', '  ', 'แต่', 'ไม่ชอบ', 'กลิ่น', 'ลิป']
+case 2 (Feature : กลิ่น) - comment_id : 387
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ชมพู', 'ติ่ง', 'ส้ม', 'นิด', ' ไม', '่แมท', 'มาก', ' ', 'ปาก', 'แห้ง', 'ทา', 'ได้', 'สบาย', ' ', 'ทาง่าย', ' ', 'รอบ', 'เดียว', 'สวย', 'เลย', ' ', 'ถ้า', 'ใคร', 'ชอบ', 'สี', 'เข้ม', ' ', 'ทา', 'ซ้ำ', 'อี', 'กรอบ', 'ก็', 'สวย', 'ค่ะ', ' ', 'เนื้อ', 'ลิป', 'ไม่', 'หนัก', 'มาก']
+case 1 (Feature : สี) - comment_id : 388
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ชมพู', 'ติ่ง', 'ส้ม', 'นิด', ' ไม', '่แมท', 'มาก', ' ', 'ปาก', 'แห้ง', 'ทา', 'ได้', 'สบาย', ' ', 'ทาง่าย', ' ', 'รอบ', 'เดียว', 'สวย', 'เลย', ' ', 'ถ้า', 'ใคร', 'ชอบ', 'สี', 'เข้ม', ' ', 'ทา', 'ซ้ำ', 'อี', 'กรอบ', 'ก็', 'สวย', 'ค่ะ', ' ', 'เนื้อ', 'ลิป', 'ไม่', 'หนัก', 'มาก']
+case 2 (Feature : สี) - comment_id : 388
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ลิปสติก', 'ยี่ห้อ', 'นี้', 'มาก', 'เลย', 'คะ', ' ', 'สวย', 'ทุก', 'สี', 'เม็ด', 'สี', 'ดี', 'ติด', 'ทน', ' ', 'ปาก', 'ไม่', 'แห้ง', 'คะ']
+case 1 (Feature : สี) - comment_id : 389
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ลิปสติก', 'ยี่ห้อ', 'นี้', 'มาก', 'เลย', 'คะ', ' ', 'สวย', 'ทุก', 'สี', 'เม็ด', 'สี', 'ดี', 'ติด', 'ทน', ' ', 'ปาก', 'ไม่', 'แห้ง', 'คะ']
+case 1 (Feature : สี) - comment_id : 389
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ลิปสติก', 'ยี่ห้อ', 'นี้', 'มาก', 'เลย', 'คะ', ' ', 'สวย', 'ทุก', 'สี', 'เม็ด', 'สี', 'ดี', 'ติด', 'ทน', ' ', 'ปาก', 'ไม่', 'แห้ง', 'คะ']
+case 2 (Feature : ติด) - comment_id : 389
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'แน่น', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 391
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 392
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ได้รับ', 'ของ', 'แล้ว', 'ค่ะ', ' ', 'สี', 'สวย', ' ', 'ใช้', 'แต่ง', 'หน้า', 'ได้', 'กับ', 'ทุ', 'กล', 'ุค', 'เลย', ' ', 'เนื้อ', 'สี', 'เป็นธรรมชาติ', 'มาก', 'ค่ะ', ' ', 'แต่', 'ถ้า', 'ทา', 'ไว้', 'ทั้งวัน', 'ปาก', 'จะ', 'แห้ง', ' ', 'ควร', 'ทา', 'ลิป', 'มัน', 'บำรุง', 'ก่อน']
+case 1 (Feature : สี) - comment_id : 393
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทาง่าย', ' ', 'สี', 'ติด', 'ดี']
+case 1 (Feature : สี) - comment_id : 394
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ทาง่าย', ' ', 'สี', 'ติด', 'ดี']
+case 1 (Feature : ติด) - comment_id : 394
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'นะ', ' ', 'แต่', 'เรา', 'เอา', 'ไม่อยู่']
+case 1 (Feature : สี) - comment_id : 397
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'บาง', ' ', 'ไม่', 'หนัก', 'ปาก', ' ', 'แต่', 'ต้อง', 'ทา', 'ซ้ำ', 'หลาย', 'รอบ']
+case 1 (Feature : สี) - comment_id : 399
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เกลี่ย', 'ยาก', 'ค่ะ', ' ', 'แต่', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 400
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ดี', 'คะ', ' ', 'ปาก', 'แห้ง', 'ไปนิด', 'หลัง', 'ทา', ' ', 'แนะนำ', 'ให้', 'บำรุง', 'ก่อน', 'ทา', '  ', 'แพ็ค', 'ของดี', 'มาก', 'คะ']
+case 1 (Feature : ติด) - comment_id : 401
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'แต่', 'ค่อนข้าง', 'แห้ง']
+case 1 (Feature : สี) - comment_id : 402
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'แด', 'งอม', 'ม่วง']
+case 1 (Feature : สี) - comment_id : 403
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'กลบ', 'สี', 'ปาก', 'คล้ำ', 'มิด', ' ', 'กลิ่น', 'ลิป', 'ก็', 'หอม']
+case 1 (Feature : สี) - comment_id : 404
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'กลบ', 'สี', 'ปาก', 'คล้ำ', 'มิด', ' ', 'กลิ่น', 'ลิป', 'ก็', 'หอม']
+case 1 (Feature : กลิ่น) - comment_id : 404
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', ' เนื้', 'อไม', '่ค่อ', 'ยแมท', ' ', 'ติด', 'ไม่', 'ทน']
+case 1 (Feature : สี) - comment_id : 405
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' เนื้', 'อไม', '่ค่อ', 'ยแมท', ' ', 'ติด', 'ไม่', 'ทน']
+case 1 (Feature : ติด) - comment_id : 405
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ติด', 'ทน', 'กลิ่น', 'หอม', 'ด้วย', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 406
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'กลิ่น', 'หอม', 'ด้วย', 'ค่ะ']
+case 2 (Feature : กลิ่น) - comment_id : 406
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'ก็', 'สวย', 'นะ', ' ', 'แต่', 'รู้สึก', 'ไม่', 'เหมาะกับ', 'ปาก', 'ตัวเอง']
+case 1 (Feature : สี) - comment_id : 407
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ได้รับ', 'สินค้า', 'แล้', 'วค', 'ะ ', ' แ', 'พค', 'กันกระแทก', 'มา', 'อย่าง', 'ดี', '  ', 'สี', 'สวย', 'มาก', ' ', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 409
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'สี', 'ชัด', 'ดี', ' ', 'แต่', 'ตัว', 'เนื้อ', 'ลิป', 'ไม่', 'ได', '้แมตต์', 'สนิท', ' ', 'มี', 'เลอะ', 'บ้าง', ' ', 'ติด', 'ไม่ค่อย', 'ทน', ' ', 'ทาน', 'ข้าว', 'มี', 'เลอะ', 'ออกไป', 'บ้าง', ' ', 'แต่', 'เติม', 'ระหว่าง', 'วัน', 'ไม่', 'เป็น', 'คราบ', 'นะ', 'คะ']
+case 1 (Feature : สี) - comment_id : 411
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'สี', 'ชัด', 'ดี', ' ', 'แต่', 'ตัว', 'เนื้อ', 'ลิป', 'ไม่', 'ได', '้แมตต์', 'สนิท', ' ', 'มี', 'เลอะ', 'บ้าง', ' ', 'ติด', 'ไม่ค่อย', 'ทน', ' ', 'ทาน', 'ข้าว', 'มี', 'เลอะ', 'ออกไป', 'บ้าง', ' ', 'แต่', 'เติม', 'ระหว่าง', 'วัน', 'ไม่', 'เป็น', 'คราบ', 'นะ', 'คะ']
+case 1 (Feature : สี) - comment_id : 411
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'สี', 'ชัด', 'ดี', ' ', 'แต่', 'ตัว', 'เนื้อ', 'ลิป', 'ไม่', 'ได', '้แมตต์', 'สนิท', ' ', 'มี', 'เลอะ', 'บ้าง', ' ', 'ติด', 'ไม่ค่อย', 'ทน', ' ', 'ทาน', 'ข้าว', 'มี', 'เลอะ', 'ออกไป', 'บ้าง', ' ', 'แต่', 'เติม', 'ระหว่าง', 'วัน', 'ไม่', 'เป็น', 'คราบ', 'นะ', 'คะ']
+case 1 (Feature : ติด) - comment_id : 411
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ออก', 'น้ำตาล', 'แดง', ' ', 'สี', 'แน่น', ' ', 'กลบ', 'ปาก', 'คล้ำ', 'มิด', ' ', 'ซื้อ', 'ต่อ', 'แน่นอน', 'ถ้า', 'หมด']
+case 1 (Feature : สี) - comment_id : 412
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ออก', 'น้ำตาล', 'แดง', ' ', 'สี', 'แน่น', ' ', 'กลบ', 'ปาก', 'คล้ำ', 'มิด', ' ', 'ซื้อ', 'ต่อ', 'แน่นอน', 'ถ้า', 'หมด']
+case 1 (Feature : สี) - comment_id : 412
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ดูดี', ' ', 'แต่', 'ต้อง', 'แต่ง', 'หน้า', 'จัด', 'เต็ม', 'นะ', ' ', 'ไม่', 'งั้น', 'จะ', 'ดู', 'ป่วย', 'เลย', ' ', 'ชอบ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 414
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ติด', 'ใจ', ' ', 'ต้อ', 'สั่ง', 'อีก', 'แน่']
+case 1 (Feature : สี) - comment_id : 418
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'สวย']
+case 1 (Feature : สี) - comment_id : 419
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'แน่น', 'สี', 'สวย', 'ติ', 'ดท', 'นค']
+case 1 (Feature : เนื้อ) - comment_id : 420
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'แน่น', 'สี', 'สวย', 'ติ', 'ดท', 'นค']
+case 2 (Feature : สี) - comment_id : 420
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 421
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ปลื้ม', 'มาก']
+case 1 (Feature : สี) - comment_id : 422
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ปลื้ม', 'มาก']
+case 1 (Feature : ติด) - comment_id : 422
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 423
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 424
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 424
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'เลิฟ', 'มาก']
+case 1 (Feature : สี) - comment_id : 425
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'เลิฟ', 'มาก']
+case 1 (Feature : ติด) - comment_id : 425
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'คะ', ' ', 'สี', 'สวย', 'มาก', 'คะ']
+case 1 (Feature : สี) - comment_id : 426
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', 'ตุ๊กตา', 'มาก', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 427
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 428
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 428
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก']
+case 1 (Feature : สี) - comment_id : 429
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สามารถ', 'ทา', 'ได้', 'ทุกวัน', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 430
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 431
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 432
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', ' ', 'สี', 'สวย', 'ดี', ' ', 'เนื้อ', 'ลิป', ' ', 'แน่น', ' ', 'ทา', 'แล้ว', 'ไม่', 'ตก', 'ร่องปาก']
+case 1 (Feature : สี) - comment_id : 434
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', ' ', 'สี', 'สวย', 'ดี', ' ', 'เนื้อ', 'ลิป', ' ', 'แน่น', ' ', 'ทา', 'แล้ว', 'ไม่', 'ตก', 'ร่องปาก']
+case 1 (Feature : เนื้อ) - comment_id : 434
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 435
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ดี', 'มา', 'กก', ' ', 'ชอบ', 'มา', 'กก']
+case 1 (Feature : เนื้อ) - comment_id : 436
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 437
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 438
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'สวย', 'มาก', ' ', 'สี', 'ติด', 'ปาก', ' ', 'มาก', 'ค่ะ', ' ', 'ชอบ', 'สุด']
+case 1 (Feature : สี) - comment_id : 440
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'สวย', 'มาก', ' ', 'สี', 'ติด', 'ปาก', ' ', 'มาก', 'ค่ะ', ' ', 'ชอบ', 'สุด']
+case 1 (Feature : สี) - comment_id : 440
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี) - comment_id : 441
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เลิฟ', 'เลย', ' ', 'เม็ด', 'สี', 'แน่', ' ', 'ติด', 'ทน', 'ติด', 'นาน', ' ', 'สี', 'ปาก', 'เข้', 'มก้', 'ทา', 'ได้', 'กลบ', 'มิด', ' ', 'ชมพู', 'หวา', 'นไม', '่เ', 'วอ', 'ร์', ' ', 'ใช้ได้', 'ทุกวัน', ' เ', 'ปน', 'ธรรมชาติ', 'ดี']
+case 1 (Feature : สี) - comment_id : 443
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เลิฟ', 'เลย', ' ', 'เม็ด', 'สี', 'แน่', ' ', 'ติด', 'ทน', 'ติด', 'นาน', ' ', 'สี', 'ปาก', 'เข้', 'มก้', 'ทา', 'ได้', 'กลบ', 'มิด', ' ', 'ชมพู', 'หวา', 'นไม', '่เ', 'วอ', 'ร์', ' ', 'ใช้ได้', 'ทุกวัน', ' เ', 'ปน', 'ธรรมชาติ', 'ดี']
+case 1 (Feature : ติด) - comment_id : 443
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เลิฟ', 'เลย', ' ', 'เม็ด', 'สี', 'แน่', ' ', 'ติด', 'ทน', 'ติด', 'นาน', ' ', 'สี', 'ปาก', 'เข้', 'มก้', 'ทา', 'ได้', 'กลบ', 'มิด', ' ', 'ชมพู', 'หวา', 'นไม', '่เ', 'วอ', 'ร์', ' ', 'ใช้ได้', 'ทุกวัน', ' เ', 'ปน', 'ธรรมชาติ', 'ดี']
+case 2 (Feature : ติด) - comment_id : 443
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'มาก', 'คะ']
+case 2 (Feature : สี) - comment_id : 444
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'บาร์', 'บี้', 'มาก', ' ', 'ปลื้ม']
+case 1 (Feature : สี) - comment_id : 445
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'สด', 'ใส']
+case 1 (Feature : สี) - comment_id : 446
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'สีชมพู', ' ', 'ออก', 'ม่วง', ' ', 'คน', 'ที่', 'ผิวขาว', ' ', 'จะ', 'สี', 'ออก', 'ชมพู', ' ', 'ส่วน', 'คน', 'ผิว', 'คล้ำ', 'จะ', 'ได้', 'สี', 'ออก', 'ม่วง', ' /', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'ติ', 'ดท', 'น ', ' -', 'สี', 'ไม่ค่อย', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 447
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'สีชมพู', ' ', 'ออก', 'ม่วง', ' ', 'คน', 'ที่', 'ผิวขาว', ' ', 'จะ', 'สี', 'ออก', 'ชมพู', ' ', 'ส่วน', 'คน', 'ผิว', 'คล้ำ', 'จะ', 'ได้', 'สี', 'ออก', 'ม่วง', ' /', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'ติ', 'ดท', 'น ', ' -', 'สี', 'ไม่ค่อย', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 447
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 448
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 449
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['คอ', 'นว', 'ี่', 'แพ็ค', 'มา', 'อย่าง', 'ดี', ' ', 'สี', 'ลิป', 'สวย', 'มาก', ' ', 'เนื้อ', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 450
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['คอ', 'นว', 'ี่', 'แพ็ค', 'มา', 'อย่าง', 'ดี', ' ', 'สี', 'ลิป', 'สวย', 'มาก', ' ', 'เนื้อ', 'ดี', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 450
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 451
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 452
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'หวาน', 'เชียว']
+case 1 (Feature : สี) - comment_id : 453
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 454
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีสัน', 'ติด', 'ทน', 'คะ']
+case 1 (Feature : ติด) - comment_id : 455
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'มาก', ' ', 'บาร์', 'บี้', 'มาก', ' ', 'รัก', 'เลย', 'ค่ะ', ' ❤️']
+case 1 (Feature : สี) - comment_id : 456
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เจิด', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 457
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'เม็ด', 'สี', 'แน่น', ' ', 'มีกลิ่น', 'หอม', 'ละมุน']
+case 1 (Feature : สี) - comment_id : 458
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 460
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ปลื้ม', 'ลิปสติก', 'สี', 'นี้', 'มาก', 'เลย', 'ค่ะ', ' #', 'Ruby', ' ', 'woo', ' ', 'สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ชอบ', 'สุด']
+case 1 (Feature : สี) - comment_id : 461
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ปลื้ม', 'ลิปสติก', 'สี', 'นี้', 'มาก', 'เลย', 'ค่ะ', ' #', 'Ruby', ' ', 'woo', ' ', 'สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ชอบ', 'สุด']
+case 1 (Feature : ติด) - comment_id : 461
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ชัด']
+case 1 (Feature : สี) - comment_id : 463
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส', 'ีสว', 'ยด', 'ีอ่ะ', 'ค่ะ', ' ', 'ติด', 'ดี', 'มาก', 'ค่ะ', ' ', 'ชอบ']
+case 1 (Feature : ติด) - comment_id : 465
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ได้', 'ใจ', 'เลย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 467
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'สุด']
+case 1 (Feature : สี) - comment_id : 468
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'สุด']
+case 1 (Feature : ติด) - comment_id : 468
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 469
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 469
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 470
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'มาก']
+case 1 (Feature : สี) - comment_id : 474
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'มาก']
+case 1 (Feature : ติด) - comment_id : 474
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก', ' ', 'เนื้อ', 'ดี', '  ', 'ไม่', 'ผิดหวัง']
+case 1 (Feature : สี) - comment_id : 475
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก', ' ', 'เนื้อ', 'ดี', '  ', 'ไม่', 'ผิดหวัง']
+case 1 (Feature : เนื้อ) - comment_id : 475
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 477
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เฉียบ', 'มา', 'กก', ' ', 'คม', 'กริบ']
+case 1 (Feature : สี) - comment_id : 479
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', 'ค่ะ', ' ', 'แต่', 'สี', 'ออก', 'ส้ม', 'อ่อน', 'ไป', 'นิดหน่อย']
+case 1 (Feature : ติด) - comment_id : 480
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ของ', 'ส่งถึง', 'ไว', 'ค่ะ', ' ', 'Package', 'ห่อ', 'ดี', 'มาก', ' ', 'สี', ' ', 'Lip', ' ', 'สวย', 'ทา', 'แล้ว', 'ดู', 'เด็ก', 'ลง', ' ', 'ดู', 'สด', 'ใส', ' ', 'ใช้', 'ดี', ' ', 'ปาก', 'ไม่', 'ลอก', 'หรือ', 'แพ้', ' ', 'ควร', 'มี', 'ติด', 'ไว้', 'ประจำ', 'ตัว', 'เลย', 'น้า']
+case 1 (Feature : สี) - comment_id : 481
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['pigment', ' ', 'แน่น', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'เนื้อ', 'ลิป', 'ชุ่ม', 'ชื้น', 'กำลัง', 'ดี']
+case 1 (Feature : เนื้อ) - comment_id : 482
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'คนผิวขาว', 'ต้อง', 'จัด', 'สัก', 'แท่ง', ' ', 'แต่', 'คน', 'ผิว', 'สอง', 'สี', 'ถึง', 'คล้ำ', 'เขียน', 'ขอบ', 'ปาก', 'ก่อน', ' ', 'รัง', 'รอ', 'งสว', 'นเ', 'ด็', 'ด ', ' ป', 'ล.', 'เนื้อ', 'โอ', 'เคน', 'ะเเต่', 'เรา', 'ใช้', 'แล้', 'วเ', 'ปน', 'คราบ', ' ', 'ตก', 'ร่อง', ' 555555']
+case 1 (Feature : สี) - comment_id : 484
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 486
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติ', 'ดท', 'นพ', 'อคว', 'รให', '้8.5เต็', 'ม10', 'เลย']
+case 1 (Feature : สี) - comment_id : 487
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน', ' ', 'ริมฝีปาก', 'ชุ่ม', 'ชื่น', 'ดี', 'ด้วย']
+case 1 (Feature : สี) - comment_id : 488
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน', ' ', 'ริมฝีปาก', 'ชุ่ม', 'ชื่น', 'ดี', 'ด้วย']
+case 1 (Feature : ติด) - comment_id : 488
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ใช้', 'ได', '้กั', 'บล', 'ุค', 'การ', 'แต่ง', 'หน้า', 'ได้', 'ทุก', ' ', 'วัน', 'ค่ะ', ' ', 'สี', 'นี้', 'แนะนำ', 'เลย', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 489
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ใช้', 'ได', '้กั', 'บล', 'ุค', 'การ', 'แต่ง', 'หน้า', 'ได้', 'ทุก', ' ', 'วัน', 'ค่ะ', ' ', 'สี', 'นี้', 'แนะนำ', 'เลย', 'ค่ะ']
+case 2 (Feature : สี) - comment_id : 489
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ใช้', 'ได', '้กั', 'บล', 'ุค', 'การ', 'แต่ง', 'หน้า', 'ได้', 'ทุก', ' ', 'วัน', 'ค่ะ', ' ', 'สี', 'นี้', 'แนะนำ', 'เลย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 489
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'กลิ่น', 'หอม', 'ด้วย', ' :)']
+case 1 (Feature : สี) - comment_id : 490
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'กลิ่น', 'หอม', 'ด้วย', ' :)']
+case 1 (Feature : กลิ่น) - comment_id : 490
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 493
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', ' ', 'ติด', 'ทน', ' ', 'สม', 'แล้ว']
+case 1 (Feature : สี) - comment_id : 494
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', ' ', 'ติด', 'ทน', ' ', 'สม', 'แล้ว']
+case 1 (Feature : ติด) - comment_id : 494
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 495
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 496
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส', 'ีสว', 'ยค่', 'ะ..', 'ติด', 'ทน', 'นาน', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 497
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 499
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'เลย']
+case 1 (Feature : สี) - comment_id : 500
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 502
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 503
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'มาก', ' ', 'สี', 'สวย', 'หวาน', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 504
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 505
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 506
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'สี', 'สวย', ' ', 'สม', 'ชื่อ', ' ', 'MAC', ' ', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 509
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'สี', 'สวย', ' ', 'สม', 'ชื่อ', ' ', 'MAC', ' ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 509
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ปลื้ม', ' ', 'สี', 'สวย', 'มาก', 'ชมพู', 'นู้ด', ' ', 'ชุ่ม', 'ชื้น', ' ', 'เหมาะกับ', 'คน', 'ปาก', 'แห้ง', 'ที่สุด', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 510
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี) - comment_id : 511
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'นาน']
+case 2 (Feature : ติด) - comment_id : 511
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'ค่อนข้าง', 'แห้ง', ' ', 'กลิ่น', 'ไม่', 'หอม']
+case 1 (Feature : ติด) - comment_id : 512
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'ค่อนข้าง', 'แห้ง', ' ', 'กลิ่น', 'ไม่', 'หอม']
+case 1 (Feature : กลิ่น) - comment_id : 512
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+case 3
+['สี', 'หวาน', ' ', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 515
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'คะ', ' ', 'สี', 'ดิด', 'ทน', 'ดี', 'มา', 'กก']
+case 1 (Feature : สี) - comment_id : 518
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีชมพู', 'นม', 'แบบ', 'สุภาพ', '..', ' ', 'ไม่', 'แป๊ด', 'มา', 'กก', ' ', 'กลิ่น', 'หอม', 'ดี', 'ค่ะ', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'สี', 'ติด', 'ทน', ' ', 'คุณภาพ', 'ดี', 'ตาม', 'แบรนด์', ' ', 'แต่', 'ไม่ชอบ', 'เท่าไหร่', ' ', 'เพราะ', 'ทา', 'แล้ว', 'ไม่', 'เหมาะกับ', 'ผิว', 'สอง', 'สี', 'ค่ะ', ' ลอ', 'ยยั', 'งไง', 'ไม่', 'รุ', '  ', 'ถ้า', 'คนผิวขาว', 'ใช้', 'น่าจะ', 'น่ารัก', 'ดี', 'ค่ะ']
+case 1 (Feature : กลิ่น) - comment_id : 519
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สีชมพู', 'นม', 'แบบ', 'สุภาพ', '..', ' ', 'ไม่', 'แป๊ด', 'มา', 'กก', ' ', 'กลิ่น', 'หอม', 'ดี', 'ค่ะ', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'สี', 'ติด', 'ทน', ' ', 'คุณภาพ', 'ดี', 'ตาม', 'แบรนด์', ' ', 'แต่', 'ไม่ชอบ', 'เท่าไหร่', ' ', 'เพราะ', 'ทา', 'แล้ว', 'ไม่', 'เหมาะกับ', 'ผิว', 'สอง', 'สี', 'ค่ะ', ' ลอ', 'ยยั', 'งไง', 'ไม่', 'รุ', '  ', 'ถ้า', 'คนผิวขาว', 'ใช้', 'น่าจะ', 'น่ารัก', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 519
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีชมพู', 'นม', 'แบบ', 'สุภาพ', '..', ' ', 'ไม่', 'แป๊ด', 'มา', 'กก', ' ', 'กลิ่น', 'หอม', 'ดี', 'ค่ะ', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'สี', 'ติด', 'ทน', ' ', 'คุณภาพ', 'ดี', 'ตาม', 'แบรนด์', ' ', 'แต่', 'ไม่ชอบ', 'เท่าไหร่', ' ', 'เพราะ', 'ทา', 'แล้ว', 'ไม่', 'เหมาะกับ', 'ผิว', 'สอง', 'สี', 'ค่ะ', ' ลอ', 'ยยั', 'งไง', 'ไม่', 'รุ', '  ', 'ถ้า', 'คนผิวขาว', 'ใช้', 'น่าจะ', 'น่ารัก', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 519
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีชมพู', 'นม', 'แบบ', 'สุภาพ', '..', ' ', 'ไม่', 'แป๊ด', 'มา', 'กก', ' ', 'กลิ่น', 'หอม', 'ดี', 'ค่ะ', ' ', 'เม็ด', 'สี', 'แน่น', ' ', 'สี', 'ติด', 'ทน', ' ', 'คุณภาพ', 'ดี', 'ตาม', 'แบรนด์', ' ', 'แต่', 'ไม่ชอบ', 'เท่าไหร่', ' ', 'เพราะ', 'ทา', 'แล้ว', 'ไม่', 'เหมาะกับ', 'ผิว', 'สอง', 'สี', 'ค่ะ', ' ลอ', 'ยยั', 'งไง', 'ไม่', 'รุ', '  ', 'ถ้า', 'คนผิวขาว', 'ใช้', 'น่าจะ', 'น่ารัก', 'ดี', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 519
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส่ง', 'เร็ว', 'แพ็ค', 'ดี', 'มาก', ' ', 'สั่ง', 'เย็น', 'วันที่', ' 19', ' ', 'วันที่', ' 21', ' ', 'เที่ยง', ' ', 'ได้รับ', 'ของ', 'แล้ว', ' ', 'สี', 'สวย', 'ถูกใจ', 'มาก', 'คะ', ' ', 'ปาด', 'ที', 'เดียว', 'รู้', 'เรื่อง', ' แต', '่แน', 'ะน', 'ำให', '้ส', 'ครับ', 'และ', 'บำรุง', 'ปาก', 'อย่าง', 'ดี', 'เป็น', 'ประจำ', 'ทา', 'แล้ว', 'ปาก', 'จะ', 'ได้', 'ไม่', 'แห้ง', ' ', 'ทา', 'แล้ว', 'สวย', 'คะ', ' ', 'ชอบ', 'มาก', ' ', 'จะ', 'ตาม', 'สอย', 'สี', 'ต่อไป', 'แน่นอน']
+case 1 (Feature : สี) - comment_id : 520
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'สี', 'สวย', 'โดน', 'ใจ', 'มาก', 'ค่ะ']
+case 2 (Feature : สี) - comment_id : 521
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 522
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็น', 'ลิ', 'ปเนื้', 'อแมท', 'ที่', 'ทา', 'แล้ว', 'ไม่', 'ลอก', 'เป็น', 'ขุย', ' ', 'เม็ด', 'สี', 'ชัดเจน', ' ', 'มี', 'กล', 'ิ่', 'นว', 'นิ', 'ลา', 'อ่อน']
+case 1 (Feature : สี) - comment_id : 524
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 526
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ยี่ห้อ', 'นี้', 'กา', 'รัน', 'ตี', 'คุณภาพ', 'อยู่แล้ว', ' ', 'สี', 'สวย', 'น่ารัก', ' ', 'สี', 'แน่น', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'กลิ่น', 'หอม', 'อ่อน', 'ชอบ', ' ', 'แต่', 'ต้อง', 'บำรุง', 'ปาก', 'ดี', ' ', 'เพราะ', 'ใช้', 'แล้ว', 'Matte', 'มาก', ' ', 'แห้ง', 'จริง', 'ไร', 'จริง']
+case 1 (Feature : สี) - comment_id : 527
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ยี่ห้อ', 'นี้', 'กา', 'รัน', 'ตี', 'คุณภาพ', 'อยู่แล้ว', ' ', 'สี', 'สวย', 'น่ารัก', ' ', 'สี', 'แน่น', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'กลิ่น', 'หอม', 'อ่อน', 'ชอบ', ' ', 'แต่', 'ต้อง', 'บำรุง', 'ปาก', 'ดี', ' ', 'เพราะ', 'ใช้', 'แล้ว', 'Matte', 'มาก', ' ', 'แห้ง', 'จริง', 'ไร', 'จริง']
+case 1 (Feature : สี) - comment_id : 527
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ยี่ห้อ', 'นี้', 'กา', 'รัน', 'ตี', 'คุณภาพ', 'อยู่แล้ว', ' ', 'สี', 'สวย', 'น่ารัก', ' ', 'สี', 'แน่น', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'กลิ่น', 'หอม', 'อ่อน', 'ชอบ', ' ', 'แต่', 'ต้อง', 'บำรุง', 'ปาก', 'ดี', ' ', 'เพราะ', 'ใช้', 'แล้ว', 'Matte', 'มาก', ' ', 'แห้ง', 'จริง', 'ไร', 'จริง']
+case 1 (Feature : สี) - comment_id : 527
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ยี่ห้อ', 'นี้', 'กา', 'รัน', 'ตี', 'คุณภาพ', 'อยู่แล้ว', ' ', 'สี', 'สวย', 'น่ารัก', ' ', 'สี', 'แน่น', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'กลิ่น', 'หอม', 'อ่อน', 'ชอบ', ' ', 'แต่', 'ต้อง', 'บำรุง', 'ปาก', 'ดี', ' ', 'เพราะ', 'ใช้', 'แล้ว', 'Matte', 'มาก', ' ', 'แห้ง', 'จริง', 'ไร', 'จริง']
+case 1 (Feature : กลิ่น) - comment_id : 527
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 528
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'น่ารัก', 'มาก', 'ราคาถูก', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 529
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี) - comment_id : 530
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ดี', 'งาม', ' ', 'สี', 'สวย', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 531
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ดี', 'งาม', ' ', 'สี', 'สวย', 'ติด', 'ทน']
+case 2 (Feature : ติด) - comment_id : 531
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เหมา', 'ะกั', 'บล', 'ุค', 'แต่งตัว', 'หวาน', ' ', 'แต่', 'ลิ', 'ปแมต', 'มาก', 'จริง', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 533
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เนื้อ', 'ดี']
+case 1 (Feature : สี) - comment_id : 534
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เนื้อ', 'ดี']
+case 2 (Feature : เนื้อ) - comment_id : 534
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 536
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 539
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ทาง่าย']
+case 1 (Feature : สี) - comment_id : 540
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'แต่', 'ต้อง', 'ทา', 'ลิป', 'มัน', 'ก่อน', 'นะ', 'คะ', ' ', 'ถ้า', 'เป็น', 'คน', 'ปาก', 'แห้ง']
+case 1 (Feature : สี) - comment_id : 542
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'สี', 'สวย', ' ', 'สม', 'ชื่อ', ' ', 'MAC', ' ', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 545
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'สี', 'สวย', ' ', 'สม', 'ชื่อ', ' ', 'MAC', ' ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 545
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เป็นธรรมชาติ', 'ติด', 'ทน', 'นาน', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 548
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เป็นธรรมชาติ', 'ติด', 'ทน', 'นาน', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 548
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'มาก', ' ', 'ตอนแรก', 'เห็น', 'สี', 'มัน', 'ออก', 'ชมพู', ' ', 'ไม่', 'กล้า', 'ทา', ' ', 'เพราะ', 'เป็น', 'ผู้ใหญ่', 'แล้ว', ' ', 'กลัว', 'จะ', 'โดน', 'ว่า', ' แ', 'อ๊บแ', 'บ๊ว', ' ', 'ซื้อ', 'มา', 'ลอง', 'ทา', ' ', 'ตอนแรก', 'ก็', 'ทา', 'บาง', ' ', 'เอ๊', 'ะ!', 'สี', 'สวย', 'สี', ' ', 'คราว', 'นี้', 'ลอง', 'ลง', 'เข้ม', 'ดู', ' อืม', 'ก็', 'สวย', 'นี่', 'นา', ' ', 'ไม่', 'น่าเกลียด', 'อะไร', ' ', 'สี', 'ไม่', 'โดด', ' ', 'ไม่', 'ลอย', ' ', 'ชอบ', 'มาก', ' ', 'ตอนนี้', 'ใช้', 'สี', 'นี้', 'ประ', 'จำเลย']
+case 1 (Feature : สี) - comment_id : 549
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'มาก', ' ', 'ตอนแรก', 'เห็น', 'สี', 'มัน', 'ออก', 'ชมพู', ' ', 'ไม่', 'กล้า', 'ทา', ' ', 'เพราะ', 'เป็น', 'ผู้ใหญ่', 'แล้ว', ' ', 'กลัว', 'จะ', 'โดน', 'ว่า', ' แ', 'อ๊บแ', 'บ๊ว', ' ', 'ซื้อ', 'มา', 'ลอง', 'ทา', ' ', 'ตอนแรก', 'ก็', 'ทา', 'บาง', ' ', 'เอ๊', 'ะ!', 'สี', 'สวย', 'สี', ' ', 'คราว', 'นี้', 'ลอง', 'ลง', 'เข้ม', 'ดู', ' อืม', 'ก็', 'สวย', 'นี่', 'นา', ' ', 'ไม่', 'น่าเกลียด', 'อะไร', ' ', 'สี', 'ไม่', 'โดด', ' ', 'ไม่', 'ลอย', ' ', 'ชอบ', 'มาก', ' ', 'ตอนนี้', 'ใช้', 'สี', 'นี้', 'ประ', 'จำเลย']
+case 2 (Feature : สี) - comment_id : 549
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น', ' ', 'สี', 'ออก', 'ชมพู', 'ระ', 'เรื่อ', ' ', 'ส่วนตัว', 'คิดว่า', 'สี', 'นี้', 'เหมาะกับ', 'ผู้ใหญ่', 'วัย', 'ทำงาน']
+case 1 (Feature : สี) - comment_id : 550
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'สวย']
+case 2 (Feature : สี) - comment_id : 552
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 553
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 554
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ซื้อ', 'มาก', 'ใช้ได้', 'หลาย', 'เดือน', 'แล้ว', 'แต่', 'ยัง', 'ไม่', 'ได', '้ร', 'ีว', 'ิว', 'แต่', 'บอก', 'เลย', 'ขอ', 'งเค้', 'าด', 'ีจ', 'ิง', 'สี', 'สวย', 'คม', 'ชัด', 'ติด', 'ทน', 'แต่', 'ติ', 'นิด', 'เดียว', 'ตรง', 'ที่', 'ทา', 'แล้ว', 'มัน', 'เห็น', 'ร่อง', 'ปา', 'กท', 'ีไม', '่เง', 'าค่', 'ะ^^']
+case 1 (Feature : สี) - comment_id : 555
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ซื้อ', 'มาก', 'ใช้ได้', 'หลาย', 'เดือน', 'แล้ว', 'แต่', 'ยัง', 'ไม่', 'ได', '้ร', 'ีว', 'ิว', 'แต่', 'บอก', 'เลย', 'ขอ', 'งเค้', 'าด', 'ีจ', 'ิง', 'สี', 'สวย', 'คม', 'ชัด', 'ติด', 'ทน', 'แต่', 'ติ', 'นิด', 'เดียว', 'ตรง', 'ที่', 'ทา', 'แล้ว', 'มัน', 'เห็น', 'ร่อง', 'ปา', 'กท', 'ีไม', '่เง', 'าค่', 'ะ^^']
+case 2 (Feature : ติด) - comment_id : 555
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'แห้ง', 'มาก', ' ', 'คน', 'ริมฝีปาก', 'แห้ง', 'ต้อง', 'บำรุง', 'ริมฝีปาก', 'ดี']
+case 1 (Feature : สี) - comment_id : 556
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ไม่', 'นู้ด', 'ไป', ' ', 'ไม่', 'เข้ม', 'ไป', ' ', 'แล้วก็', 'ติด', 'ทน', 'มาก', ' ', 'ทาน', 'ข้า', 'วสี', 'ก็', 'ไม่', 'จาง', 'ไป', 'มาก']
+case 1 (Feature : สี) - comment_id : 557
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ไม่', 'นู้ด', 'ไป', ' ', 'ไม่', 'เข้ม', 'ไป', ' ', 'แล้วก็', 'ติด', 'ทน', 'มาก', ' ', 'ทาน', 'ข้า', 'วสี', 'ก็', 'ไม่', 'จาง', 'ไป', 'มาก']
+case 1 (Feature : ติด) - comment_id : 557
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 558
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สุภาพ', ' ', 'ถูกใจ', 'มาก', 'ค่ะ', ' =]']
+case 1 (Feature : สี) - comment_id : 559
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ติด', 'ทน', 'ดี', ' ', 'แต่', 'เป็น', 'คราบ', 'นิดหน่อย']
+case 1 (Feature : สี) - comment_id : 560
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ติด', 'ทน', 'ดี', ' ', 'แต่', 'เป็น', 'คราบ', 'นิดหน่อย']
+case 1 (Feature : ติด) - comment_id : 560
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'ใช้ได้', 'ทุก', 'โอกาส', ' ', 'ไม่', 'เข้ม', 'ไป', ' ', 'ไม่', 'อ่อน', 'ไป', 'จน', 'ดู', 'ป่วย', ' ', 'เนื้อ', 'ลิป', 'ทา', 'แล้ว', 'ไม่', 'แห้ง', 'มาก', ' ', 'สบาย', 'ปาก', 'อยู่', 'นะ', 'คะ']
+case 1 (Feature : สี) - comment_id : 561
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'ใช้ได้', 'ทุก', 'โอกาส', ' ', 'ไม่', 'เข้ม', 'ไป', ' ', 'ไม่', 'อ่อน', 'ไป', 'จน', 'ดู', 'ป่วย', ' ', 'เนื้อ', 'ลิป', 'ทา', 'แล้ว', 'ไม่', 'แห้ง', 'มาก', ' ', 'สบาย', 'ปาก', 'อยู่', 'นะ', 'คะ']
+case 1 (Feature : เนื้อ) - comment_id : 561
+pos : False
+neg : True
+inv = True
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 562
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เหมาะกับ', 'สี', 'ปาก', 'ดี', 'ค่ะ', ' ', 'สวย']
+case 1 (Feature : สี) - comment_id : 564
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'เหมาะกับ', 'สี', 'ปาก', 'ดี', 'ค่ะ', ' ', 'สวย']
+case 1 (Feature : สี) - comment_id : 564
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 565
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 566
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'แห้ง', 'ไป', '  ', 'ไม่ค่อย', 'ได้', 'ทา', 'เลย']
+case 1 (Feature : เนื้อ) - comment_id : 567
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['ไม่', 'เหมาะกับ', 'คน', 'ผิ', 'วคล้', 'ำแ', 'ย่าง', 'เรา', 'เลย', 'อ่ะ', ' ', 'แต่', 'แก้', 'โดย', 'การ', 'ทา', 'ลิป', 'สี', 'ข้างใน', ' ', 'ก็', 'สวย', 'ไป', 'อีก', 'แบบ', 'น่ะ']
+case 1 (Feature : สี) - comment_id : 568
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ใน', 'ตำนาน', ' ', 'สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : สี) - comment_id : 569
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ใน', 'ตำนาน', ' ', 'สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : สี) - comment_id : 569
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ใน', 'ตำนาน', ' ', 'สี', 'ติด', 'ดี', 'มาก']
+case 1 (Feature : ติด) - comment_id : 569
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิ', 'ปเนื้', 'อแมต', 'จริง', ' ', 'อาจ', 'ต้อง', 'ทา', 'ลิป', 'มัน', 'ก่อน', 'ใน', 'คน', 'ที่', 'ปาก', 'แห้ง', ' ', 'แต่', 'สี', 'สวย', 'หวาน', 'เลย']
+case 1 (Feature : สี) - comment_id : 570
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 571
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นู้ด', ' ', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 577
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 579
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 580
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 581
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชมพู', 'มาก', 'เมื่อ', 'อยู่', 'บน', 'ปาก', 'เรา', ' เนื้', 'อแมท', ' ', 'แต่', 'ปาก', 'ไม่', 'แห้ง']
+case 1 (Feature : สี) - comment_id : 582
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 583
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เหมาะกับ', 'สาว', 'ผิว', 'คล้ำ', 'มาก']
+case 1 (Feature : สี) - comment_id : 587
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ', '  ', 'ติด', 'ทน', 'ดี']
+case 1 (Feature : สี) - comment_id : 588
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ', '  ', 'ติด', 'ทน', 'ดี']
+case 1 (Feature : ติด) - comment_id : 588
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'น่ารัก', 'ดี', 'แบบ', 'ใส', 'กลบ', 'สี', 'ปาก', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 590
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'น่ารัก', 'ดี', 'แบบ', 'ใส', 'กลบ', 'สี', 'ปาก', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 590
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'มาก', ' ', 'แต่', 'ติด', 'ไม่', 'ทน', 'เพราะ', 'เป็น', 'เนื้อ', 'ครีม', ' ', 'แต่', 'สี', 'อ่อน', 'คน', 'ปาก', 'ดำ', 'ไม่', 'แนะนำ', 'เพราะ', 'กลบ', 'สี', 'ปาก', 'ไม่', 'มิด']
+case 1 (Feature : สี) - comment_id : 592
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'มาก', ' ', 'แต่', 'ติด', 'ไม่', 'ทน', 'เพราะ', 'เป็น', 'เนื้อ', 'ครีม', ' ', 'แต่', 'สี', 'อ่อน', 'คน', 'ปาก', 'ดำ', 'ไม่', 'แนะนำ', 'เพราะ', 'กลบ', 'สี', 'ปาก', 'ไม่', 'มิด']
+case 1 (Feature : ติด) - comment_id : 592
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ใส', ' ', 'ชุ่ม', 'ชื่น', ' ', 'กลิ่น', 'หอม', 'อ่อน', ' ', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 593
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ใส', ' ', 'ชุ่ม', 'ชื่น', ' ', 'กลิ่น', 'หอม', 'อ่อน', ' ', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : กลิ่น) - comment_id : 593
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน', ' ', 'แอบ', 'ไม่', 'เข้ากับ', 'ผิว', 'นิดหน่อย', ' ', 'แต่', 'เนื้อ', 'ดี', ' ', 'ทา', 'แล้ว', 'เนียน', ' ', 'ไม่', 'ตก', 'ร่อง']
+case 1 (Feature : สี) - comment_id : 595
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน', ' ', 'แอบ', 'ไม่', 'เข้ากับ', 'ผิว', 'นิดหน่อย', ' ', 'แต่', 'เนื้อ', 'ดี', ' ', 'ทา', 'แล้ว', 'เนียน', ' ', 'ไม่', 'ตก', 'ร่อง']
+case 1 (Feature : ติด) - comment_id : 595
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน', ' ', 'แอบ', 'ไม่', 'เข้ากับ', 'ผิว', 'นิดหน่อย', ' ', 'แต่', 'เนื้อ', 'ดี', ' ', 'ทา', 'แล้ว', 'เนียน', ' ', 'ไม่', 'ตก', 'ร่อง']
+case 1 (Feature : เนื้อ) - comment_id : 595
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กคร่', 'าา']
+case 1 (Feature : สี) - comment_id : 596
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ค่ะ', ' ', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน', 'ต้อง', 'เติม', 'บ่อย']
+case 1 (Feature : สี) - comment_id : 598
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'ค่ะ', ' ', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน', 'ต้อง', 'เติม', 'บ่อย']
+case 1 (Feature : ติด) - comment_id : 598
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ลิปสติก', 'สี', 'สวย', 'ค่ะ', ' ', 'ทา', 'แล้ว', 'ปาก', 'ชุ่ม', 'ชื่น', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 599
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 601
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 601
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'ชอบ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 603
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เรื่อง', 'สี', 'สวย', 'นะ', ' ', 'แต่', 'ไม่ค่อย', 'ดี', 'สำหรับ', 'คน', 'ที่', 'ปาก', 'แห้ง', ' เ', 'หน', 'รอยแตก', 'ชัด', 'เลย']
+case 1 (Feature : สี) - comment_id : 604
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน', ' ', 'สี', 'อ่อน', ' ', 'ต้อง', 'ใช้', 'กับ', 'ทิ', 'นท์', ' ', 'หรือ', 'เวลา', 'แต่ง', ' ', 'smoky', ' ', 'eye', ' ', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 605
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'แต่', 'คน', 'ปาก', 'คล้ำ', 'ทา', 'ตัว', 'นี้', 'ลง', 'เดี่ยว', ' ', 'อาจจะ', 'ไม่', 'เห็น', 'สี', 'เท่าไร']
+case 1 (Feature : สี) - comment_id : 606
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'สด', 'ใส', 'ดี', 'ค่ะ', ' ', 'ใช้ได้', 'ทุ', 'กวั', 'น.']
+case 1 (Feature : สี) - comment_id : 607
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เนื้อ', 'ลิป', 'เนียม', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 609
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'เนื้อ', 'ลิป', 'เนียม', 'ค่ะ']
+case 2 (Feature : เนื้อ) - comment_id : 609
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ครับ', ' ', 'อีก', 'อย่าง', 'รู้สึก', 'ชุ่ม', 'ชื่น', 'กว่า', 'ลิป', 'อื่น', 'ที่', 'เคย', 'ใช้', ' ', 'ไม่', 'เสียใจ', 'ที่', 'ซื้อ', 'เลย']
+case 1 (Feature : สี) - comment_id : 610
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โดน', 'ใจ', 'มาก', ' ', 'ออก', 'ชมพู', 'เหลือบ', 'ส้ม', 'นิด', ' ', 'ติ', 'เรื่อง', 'ไม่ค่อย', 'ทน', 'นาน', 'เท่', 'าเนื้', 'อแมต', 'แต่', 'ก็', 'ถือ', 'ว่า', 'ยัง', 'ทน', 'อยู่']
+case 1 (Feature : สี) - comment_id : 611
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 612
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี) - comment_id : 613
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โอเค', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 616
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โดน', 'ใจ']
+case 1 (Feature : สี) - comment_id : 617
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 618
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 620
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน']
+case 2 (Feature : ติด) - comment_id : 620
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แต่', 'ไม่ค่อย', 'ถูก', 'กับ', 'รุ่น', 'นี้', 'เท่าไหร่']
+case 1 (Feature : สี) - comment_id : 621
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ละเอียด', ' ', 'สี', 'สวย', ' ', 'แต่', 'ไม่อยู่', 'ไม่', 'นาน']
+case 1 (Feature : เนื้อ) - comment_id : 622
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ลิป', 'ละเอียด', ' ', 'สี', 'สวย', ' ', 'แต่', 'ไม่อยู่', 'ไม่', 'นาน']
+case 1 (Feature : สี) - comment_id : 622
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน', 'เท่', 'าเนื้', 'อแมต', 'เลย', 'อ่า']
+case 1 (Feature : สี) - comment_id : 623
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'แต่', 'ติด', 'ไม่ค่อย', 'ทน', 'เท่', 'าเนื้', 'อแมต', 'เลย', 'อ่า']
+case 1 (Feature : ติด) - comment_id : 623
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'แต่', 'รู้สึก', 'ตอน', 'ทา', 'ออก', 'มาส', 'ีไมม่', 'ค่อย', 'เหมือน', 'แบ', 'บร', 'ีว', 'ิว', 'เท่าไหร่']
+case 1 (Feature : สี) - comment_id : 625
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 626
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 626
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ', ' ', 'เนื้อ', 'ดี', 'ด้วย', 'คะ']
+case 1 (Feature : สี) - comment_id : 627
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ', ' ', 'เนื้อ', 'ดี', 'ด้วย', 'คะ']
+case 1 (Feature : เนื้อ) - comment_id : 627
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'มาก', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 628
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'มาก', ' ', 'ชอบ', 'ค่ะ']
+case 2 (Feature : ติด) - comment_id : 628
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ทา', 'แล้ว', 'จะ', 'เงา', 'ชุ่ม', 'ชื่น', 'นิด', 'นึง', 'เพราะ', 'เป็น', 'Cremesheen']
+case 1 (Feature : สี) - comment_id : 629
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', '  ', 'ติด', 'ทน', ' ', 'คุ้ม']
+case 1 (Feature : สี) - comment_id : 630
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', '  ', 'ติด', 'ทน', ' ', 'คุ้ม']
+case 1 (Feature : ติด) - comment_id : 630
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 631
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชิ้น', 'นี้', 'ซื้อ', 'ให้ของขวัญ', 'พี่', 'สา', 'วค่', 'ะ.', ' ', 'สี', 'ชัด', ' ', 'สี', 'โดน', 'ใจ', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 632
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น', ' ', 'แต่', 'ทา', 'จริง', ' ป่ก', 'ซีด', ' ', 'ป่วย']
+case 1 (Feature : สี) - comment_id : 633
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'แต่', 'ไม่ค่อย', 'เข้ากับ', 'เรา']
+case 1 (Feature : สี) - comment_id : 637
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีชมพู', 'อม', 'ม่วง', 'จืด', '  ', 'คน', 'ขาว', 'เหลือง', 'ทา', 'แล้ว', 'ปาก', 'ป่วย', '  ', 'ต้อง', 'ผสม', 'สี', 'อื่น', 'จึง', 'จะ', 'ออกมา', 'สวย', '  ', 'คน', 'ผิว', 'คล้ำ', 'ไม่', 'แนะนำ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 638
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'หวาน', 'มาก']
+case 1 (Feature : สี) - comment_id : 639
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี) - comment_id : 640
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด) - comment_id : 640
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'สุด', ' ', 'ไม่', 'ผิดหวัง', 'เลย']
+case 1 (Feature : สี) - comment_id : 641
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 642
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 645
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'หวาน', ' ', 'ทา', 'ได้', 'ทุกวัน', 'ทุก', 'โอกาส', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 646
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 647
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี) - comment_id : 650
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด) - comment_id : 650
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', ' ', 'แต่', 'กลบ', 'สี', 'ปาก', 'ไม่ค่อย', 'มิด', ' ', 'ต้อง', 'ทา', 'หลาย', 'รอบ', 'หน่อย']
+case 1 (Feature : สี) - comment_id : 651
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', '  ', 'แต่', 'ติด', 'ไม่', 'ทน', '  ', 'เนื้อ', 'ลิป', 'เหมือน', 'ลิป', 'มัน', 'มี', 'สี']
+case 1 (Feature : สี) - comment_id : 652
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'หวาน', '  ', 'แต่', 'ติด', 'ไม่', 'ทน', '  ', 'เนื้อ', 'ลิป', 'เหมือน', 'ลิป', 'มัน', 'มี', 'สี']
+case 1 (Feature : ติด) - comment_id : 652
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'หวาน', 'สวย', ' ', 'จน', 'อยาก', 'ได้', 'อีก', 'แท่ง']
+case 1 (Feature : สี) - comment_id : 653
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี) - comment_id : 654
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'ครีม', 'มี่', 'มาก', 'เลย', ' ', 'แต่', 'อาจ', 'เป็นเพราะ', 'เป็น', 'เนื้อ', 'ครีม', 'เลย', 'ต้อง', 'ทา', 'หลาย', 'รอบ', 'หน่อย', ' ', 'เหมาะกับ', 'คน', 'ปาก', 'แห้ง', 'ง่าย', ' ', 'แนะนำ', 'เลย', 'ค่ะ', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แห้ง', ' ', 'ไม่', 'ลอก', 'แน่นอน', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 655
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ชมพู', 'สวย', 'สี', 'ติด', 'ดี', 'นะ', 'ถ้า', 'ล้าง', 'ต้อง', 'ใช้', 'ที่', 'เช็ด', 'สำหรับ', 'ปาก', 'นะ', 'ไม่', 'งั้น', 'ออก', 'ยาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 657
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ชมพู', 'สวย', 'สี', 'ติด', 'ดี', 'นะ', 'ถ้า', 'ล้าง', 'ต้อง', 'ใช้', 'ที่', 'เช็ด', 'สำหรับ', 'ปาก', 'นะ', 'ไม่', 'งั้น', 'ออก', 'ยาก', 'ค่ะ']
+case 2 (Feature : สี) - comment_id : 657
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ชมพู', 'สวย', 'สี', 'ติด', 'ดี', 'นะ', 'ถ้า', 'ล้าง', 'ต้อง', 'ใช้', 'ที่', 'เช็ด', 'สำหรับ', 'ปาก', 'นะ', 'ไม่', 'งั้น', 'ออก', 'ยาก', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 657
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ไม่', 'ติด', 'เลย']
+case 1 (Feature : สี) - comment_id : 658
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'ติด', 'ทน', 'ทาน', 'มาก', 'คะ']
+case 1 (Feature : สี) - comment_id : 659
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ทาน', 'มาก', 'คะ']
+case 1 (Feature : ติด) - comment_id : 659
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 660
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีส้ม', 'สวย', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'เนื้อ', 'นุ่ม', 'ลื่น', 'ให้', 'ความ', 'ชุ่ม', 'ชื้น', 'ดี', ' ', 'แต่', 'ติด', 'ทน', 'น้อย', 'กิน', 'ข้าว', 'ครั้ง', 'เดียว', 'ก็', 'หลุด', 'แล้ว']
+case 1 (Feature : สี) - comment_id : 661
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีส้ม', 'สวย', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'เนื้อ', 'นุ่ม', 'ลื่น', 'ให้', 'ความ', 'ชุ่ม', 'ชื้น', 'ดี', ' ', 'แต่', 'ติด', 'ทน', 'น้อย', 'กิน', 'ข้าว', 'ครั้ง', 'เดียว', 'ก็', 'หลุด', 'แล้ว']
+case 1 (Feature : เนื้อ) - comment_id : 661
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีส้ม', 'สวย', ' ', 'กลบ', 'สี', 'ปาก', 'มิด', ' ', 'เนื้อ', 'นุ่ม', 'ลื่น', 'ให้', 'ความ', 'ชุ่ม', 'ชื้น', 'ดี', ' ', 'แต่', 'ติด', 'ทน', 'น้อย', 'กิน', 'ข้าว', 'ครั้ง', 'เดียว', 'ก็', 'หลุด', 'แล้ว']
+case 1 (Feature : ติด) - comment_id : 661
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ส้ม', 'ได้', 'อีก']
+case 1 (Feature : สี) - comment_id : 663
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'นาน', 'ดี', 'คะ']
+case 1 (Feature : สี) - comment_id : 667
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'นาน', 'ดี', 'คะ']
+case 1 (Feature : ติด) - comment_id : 667
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'จี๊ด', 'ถูกใจ', 'มาก']
+case 1 (Feature : สี) - comment_id : 668
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'คะ']
+case 1 (Feature : สี) - comment_id : 670
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มากมาย']
+case 1 (Feature : สี) - comment_id : 671
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีส้ม', 'แจ่ม', 'มาก', ' ', 'สี', 'ติด', 'ดี']
+case 1 (Feature : สี) - comment_id : 672
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สีส้ม', 'แจ่ม', 'มาก', ' ', 'สี', 'ติด', 'ดี']
+case 1 (Feature : ติด) - comment_id : 672
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก']
+case 1 (Feature : สี) - comment_id : 673
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ถูกใจ', 'ค่ะ', ' ', 'ปาก', 'ไม่', 'แห้', 'งลอ', 'กเป็', 'นขุ่ย', 'เลย', ' ', 'สี', 'สวย', 'ด้วย', 'ได้', 'ใจ', 'ไป', 'เลย']
+case 1 (Feature : สี) - comment_id : 674
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ซื้', 'อแมค', 'ที', 'ไร', 'ไม่เคย', 'ผิดหวัง', 'เลย', 'ค่ะ', ' ', 'ชอบ', 'สี', 'นี้', 'มาก']
+case 2 (Feature : สี) - comment_id : 675
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'เว่อ', 'ร์', ' ', 'ติด', 'ทน', 'นาน', ' ', 'สี', 'สวย', ' ', 'ออก', 'ส้ม', 'อม', 'แดง', 'นิด', 'หนึ่ง', ' ', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 677
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'เว่อ', 'ร์', ' ', 'ติด', 'ทน', 'นาน', ' ', 'สี', 'สวย', ' ', 'ออก', 'ส้ม', 'อม', 'แดง', 'นิด', 'หนึ่ง', ' ', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 677
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 678
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'ชัด', 'มาก', ' ', 'ติด', 'ทน', 'ตลอด', 'ทั้งวัน', 'เลย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 679
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'ชัด', 'มาก', ' ', 'ติด', 'ทน', 'ตลอด', 'ทั้งวัน', 'เลย', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 679
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก']
+case 1 (Feature : สี) - comment_id : 681
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 682
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 683
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน', 'นาน', 'อีก', 'ด้วย']
+case 1 (Feature : สี) - comment_id : 685
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติด', 'ทน', 'นาน', 'อีก', 'ด้วย']
+case 1 (Feature : ติด) - comment_id : 685
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' เนื้', 'อแมท']
+case 1 (Feature : สี) - comment_id : 686
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['MAC', ' ', 'สี', 'ใน', 'ตำนาน', ' สั่', 'งเ', 'พื่', 'อก', 'งานปาร์ตี้', 'ที่', 'บริษัท', ' ', 'สีแดง', 'อม', 'ฟ้า', ' ', 'ติด', 'ทน', 'นาน', ' ', 'สวย', 'สะ', 'พรึง', ' ', 'เร', 'ิ่ด']
+case 1 (Feature : ติด) - comment_id : 687
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 688
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 690
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แจ่ม', ' ', 'เนื้อ', 'ละเอียด', ' ', 'กลิ่น', 'หอม', ' ', 'เร', 'ิ่ด', 'มาก']
+case 1 (Feature : สี) - comment_id : 691
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แจ่ม', ' ', 'เนื้อ', 'ละเอียด', ' ', 'กลิ่น', 'หอม', ' ', 'เร', 'ิ่ด', 'มาก']
+case 1 (Feature : เนื้อ) - comment_id : 691
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แจ่ม', ' ', 'เนื้อ', 'ละเอียด', ' ', 'กลิ่น', 'หอม', ' ', 'เร', 'ิ่ด', 'มาก']
+case 1 (Feature : กลิ่น) - comment_id : 691
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['เนื้อ', 'สี', 'ชัด', ' ', 'สี', 'ติด', 'ทน', 'นาน', ' ', 'แด', 'งตั้', 'งแต', '่เช้', 'าย้น', 'ค่ำ', ' ', 'รัก', 'เลย', 'คะ']
+case 1 (Feature : เนื้อ) - comment_id : 693
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ชัด', ' ', 'สี', 'ติด', 'ทน', 'นาน', ' ', 'แด', 'งตั้', 'งแต', '่เช้', 'าย้น', 'ค่ำ', ' ', 'รัก', 'เลย', 'คะ']
+case 1 (Feature : สี) - comment_id : 693
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ชัด', ' ', 'สี', 'ติด', 'ทน', 'นาน', ' ', 'แด', 'งตั้', 'งแต', '่เช้', 'าย้น', 'ค่ำ', ' ', 'รัก', 'เลย', 'คะ']
+case 1 (Feature : สี) - comment_id : 693
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ชัด', ' ', 'สี', 'ติด', 'ทน', 'นาน', ' ', 'แด', 'งตั้', 'งแต', '่เช้', 'าย้น', 'ค่ำ', ' ', 'รัก', 'เลย', 'คะ']
+case 1 (Feature : ติด) - comment_id : 693
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก', 'ค่ะ', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 695
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ']
+case 1 (Feature : สี) - comment_id : 697
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ค่ะ', ' ', 'สี', 'สวย', 'มาก', ' :', 'D']
+case 1 (Feature : สี) - comment_id : 699
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'สด', 'มาก', ' ', 'แดง', 'ได้', 'ใจ', 'จริง']
+case 1 (Feature : สี) - comment_id : 700
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'ติด', 'ทน', ' ', 'สี', 'ชัดเจน', 'มาก', ' ', 'แหล่', 'มเบย']
+case 2 (Feature : ติด) - comment_id : 703
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'ติด', 'ทน', ' ', 'สี', 'ชัดเจน', 'มาก', ' ', 'แหล่', 'มเบย']
+case 1 (Feature : สี) - comment_id : 703
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน', 'สู้', ' ', 'LM', ' ', 'ไม่ได้', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 707
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สอย', 'มา', 'ตอน', 'โปร', ' ', 'สี', 'สวย', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 709
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', ' ', 'แต่', 'ผิว', 'คล้ำ', ' ', 'ทา', 'แล้ว', 'รู้สึก', 'ลอย']
+case 1 (Feature : เนื้อ) - comment_id : 710
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'match', ' ', 'กะ', 'คน', 'ผิว', 'สอ', 'งส', 'ีอย่ง', 'เรา', ' อิอิ']
+case 1 (Feature : สี) - comment_id : 711
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'ออก', 'นู๊ด']
+case 1 (Feature : สี) - comment_id : 713
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดู', 'เนียน', 'ดี', ' ', 'แต่', 'ต้อง', 'รอ', 'ใช้', 'ก่อน', ' ', 'จะ', 'ดู', 'ว่า', 'ติด', 'ทน', 'นาน', 'แค่', 'ไหน', ' อิ', ' อิ', ' ', 'ปกติ', 'เรา', 'กิน', 'อะไร', 'ไม่ค่อย', 'ระวัง', 'อยู่แล้ว', ' ', 'เลย', 'ต้อง', 'ซื้อ', 'ใช้', 'ดู']
+case 1 (Feature : เนื้อ) - comment_id : 715
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดู', 'เนียน', 'ดี', ' ', 'แต่', 'ต้อง', 'รอ', 'ใช้', 'ก่อน', ' ', 'จะ', 'ดู', 'ว่า', 'ติด', 'ทน', 'นาน', 'แค่', 'ไหน', ' อิ', ' อิ', ' ', 'ปกติ', 'เรา', 'กิน', 'อะไร', 'ไม่ค่อย', 'ระวัง', 'อยู่แล้ว', ' ', 'เลย', 'ต้อง', 'ซื้อ', 'ใช้', 'ดู']
+case 1 (Feature : สี) - comment_id : 715
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ดู', 'เนียน', 'ดี', ' ', 'แต่', 'ต้อง', 'รอ', 'ใช้', 'ก่อน', ' ', 'จะ', 'ดู', 'ว่า', 'ติด', 'ทน', 'นาน', 'แค่', 'ไหน', ' อิ', ' อิ', ' ', 'ปกติ', 'เรา', 'กิน', 'อะไร', 'ไม่ค่อย', 'ระวัง', 'อยู่แล้ว', ' ', 'เลย', 'ต้อง', 'ซื้อ', 'ใช้', 'ดู']
+case 1 (Feature : ติด) - comment_id : 715
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 716
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'ติด', 'ทน', 'ระดับ', 'นึง', 'เลย']
+case 1 (Feature : สี) - comment_id : 717
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'ติด', 'ทน', 'ระดับ', 'นึง', 'เลย']
+case 1 (Feature : ติด) - comment_id : 717
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ต้อง', 'ผสม', 'กับ', 'สี', 'อื่น', ' ', 'จะ', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 718
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'สี', 'ดี', ' ', 'ออก', 'แนว', 'สุภาพ']
+case 1 (Feature : สี) - comment_id : 719
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'สี', 'ดี', ' ', 'ออก', 'แนว', 'สุภาพ']
+case 1 (Feature : เนื้อ) - comment_id : 719
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'สี', 'ดี', ' ', 'ออก', 'แนว', 'สุภาพ']
+case 1 (Feature : สี) - comment_id : 719
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 720
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 721
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 723
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 723
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น', 'มาก', ' ', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 724
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ชอบ', 'มากที่สุด', 'เลย', ' ', 'มี', 'แต่', 'คน', 'ถา', 'มหา', ' ', 'แต่', 'หมด', 'แล้ว', ' ', 'อยาก', 'ให้', 'มา', 'อีก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 725
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ชัด', ' ', 'เกลี่ย', 'ง่าย', ' ', 'ตอ', 'นเปิ', 'ด-', 'ปิด', 'ฝา', ' ', 'ต้อง', 'ระวัง', 'เลอะ', ' ', 'แต่', 'ราคา', 'น่า', 'คบ', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 726
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'ชัด', ' ', 'เกลี่ย', 'ง่าย', ' ', 'ตอ', 'นเปิ', 'ด-', 'ปิด', 'ฝา', ' ', 'ต้อง', 'ระวัง', 'เลอะ', ' ', 'แต่', 'ราคา', 'น่า', 'คบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 726
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'มาก', ' ', 'เอา', 'มา', 'ผสม', 'กับ', 'สี', 'อื่น']
+case 1 (Feature : สี) - comment_id : 727
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 729
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', '  ', 'แอบ', 'ตก', 'ร่อง', ' ', 'สี', 'เหลือ', 'บ้าง', 'หลัง', 'ทาน', 'ข้าว', 'แล้ว']
+case 1 (Feature : สี) - comment_id : 730
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', 'ชอบ', 'สุด', 'ซื้อ', 'เป็น', 'แท่ง', 'ที', '่2', 'ละ', ' ', 'ได้รับ', 'ของ', 'เร็ว', 'มา', 'กค้ะ']
+case 1 (Feature : สี) - comment_id : 731
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก', ' ', 'เม็ด', 'สี', 'ชัด']
+case 1 (Feature : สี) - comment_id : 735
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กก', ' ', 'เม็ด', 'สี', 'ชัด']
+case 1 (Feature : สี) - comment_id : 735
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กค่', 'า.', ' ', 'ส้ม', 'แบบ', 'ไม่', 'แจ๊ด', ' ', 'ไม่', 'อ่อน', 'ไป']
+case 1 (Feature : สี) - comment_id : 736
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ออก', 'ส้ม', 'นม']
+case 1 (Feature : สี) - comment_id : 737
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 738
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'ไม่', 'ตก', 'ร่อง', 'เท่าไร', ' ', 'สี', 'ติด', 'ทน', ' ', 'ไม่', 'ต้อง', 'ทา', 'ซ้ำ', 'บ่อย']
+case 1 (Feature : สี) - comment_id : 740
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'ไม่', 'ตก', 'ร่อง', 'เท่าไร', ' ', 'สี', 'ติด', 'ทน', ' ', 'ไม่', 'ต้อง', 'ทา', 'ซ้ำ', 'บ่อย']
+case 1 (Feature : ติด) - comment_id : 740
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน', 'ดี', ' ', 'ทา', 'เรียบ', ' ', 'สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 741
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'เนียน', 'ดี', ' ', 'ทา', 'เรียบ', ' ', 'สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 741
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โดน', 'ใจ']
+case 1 (Feature : สี) - comment_id : 743
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 744
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'กค', 'ะ.', 'ได้รับ', 'สินค้า', 'รวด', 'เร็ว', ' แ', 'พคเ', 'กจ', ' ก่', 'ดี', 'มาก', '   ', 'ชอบ', 'คะ']
+case 1 (Feature : สี) - comment_id : 746
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 747
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'คะ']
+case 1 (Feature : สี) - comment_id : 749
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ส', 'ิป', 'สี', 'สวย', 'มาก', 'เลย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 751
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'เลย', 'ค่ะ', ' ', 'ชอบ', 'มาก']
+case 1 (Feature : สี) - comment_id : 752
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 753
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ตัว', 'นี้', 'สี', 'เป็น', 'พี', 'ชอม', 'ชมพู', ' ', 'ไป', 'ทาง', 'ติ่ง', 'ส้ม', 'อม', 'ชมพู', ' ', 'สี', 'สวย', 'มว๊าก']
+case 1 (Feature : สี) - comment_id : 754
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'แต่', 'ปิด', 'สี', 'ปาก', 'ไม่', 'มิด', ' ', 'เรา', 'สี', 'ปาก', 'คล้ำ', ' ', 'ชุ่ม', 'ชื่น', 'ดี']
+case 1 (Feature : สี) - comment_id : 756
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['บอก', 'ดั้ยค', 'ำเ', 'ดว', 'ว่า', ' ', 'เร', 'ิ่ดดดด', ' ', 'มาก', ' ', 'สี', 'ปาก', 'สวย', 'และ', 'ทน', 'ดี', 'ค่ะ', ' ', 'รู้สึก', 'คุ้ม', 'มาก', 'กับ', 'ราคา', 'ที่', 'ซื้อ', 'มา']
+case 1 (Feature : สี) - comment_id : 758
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 759
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['กลิ่น', 'หอม', ' ', 'แต่', 'ติด', 'ไม่', 'ทน', 'ค่ะ']
+case 1 (Feature : กลิ่น) - comment_id : 762
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['กลิ่น', 'หอม', ' ', 'แต่', 'ติด', 'ไม่', 'ทน', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 762
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'สี', 'ไม่', 'จัด', 'เกินไป', ' ', 'ออก', 'ส้ม', 'ชมพู']
+case 1 (Feature : สี) - comment_id : 764
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'สี', 'สวย', ' ', 'สม', 'ชื่อ', ' ', 'MAC', ' ', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 766
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ติด', 'ทน', ' ', 'สี', 'สวย', ' ', 'สม', 'ชื่อ', ' ', 'MAC', ' ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 766
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'ติด', 'ทน', 'นาน', 'ค่ะ']
+case 1 (Feature : เนื้อ) - comment_id : 767
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ดี', 'ติด', 'ทน', 'นาน', 'ค่ะ']
+case 2 (Feature : ติด) - comment_id : 767
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 768
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ได้', 'ของ', 'เร็ว', 'กว่า', 'ที่', 'คิด', 'ไว', '้.', 'ลิป', 'สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 769
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', 'ติด', 'ทน', 'ทั้งวัน', ' ', 'สี', 'ลิป', 'ออก', 'แดง', 'ชมพู', 'เข้ม', 'น้า']
+case 1 (Feature : สี) - comment_id : 771
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', 'ติด', 'ทน', 'ทั้งวัน', ' ', 'สี', 'ลิป', 'ออก', 'แดง', 'ชมพู', 'เข้ม', 'น้า']
+case 1 (Feature : ติด) - comment_id : 771
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 774
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ถูกใจ', 'สุด']
+case 1 (Feature : สี) - comment_id : 776
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 778
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ค่ะ', ' ', 'สี', 'แรง', 'ดี', ' ', 'แต่', 'ติด', 'ไม่', 'ทน', 'เท่าไร']
+case 1 (Feature : สี) - comment_id : 780
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ค่ะ', ' ', 'สี', 'แรง', 'ดี', ' ', 'แต่', 'ติด', 'ไม่', 'ทน', 'เท่าไร']
+case 1 (Feature : ติด) - comment_id : 780
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'หวาน', ' ', 'สาว', ' ', 'พา', 'สเ', 'ทล', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 781
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี) - comment_id : 782
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'งาม']
+case 1 (Feature : สี) - comment_id : 783
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'สี', 'ออก', 'โทน', 'นู้ด', 'อม', 'ส้ม', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 784
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ชอบ', 'มาก']
+case 1 (Feature : สี) - comment_id : 785
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ถูกใจ', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 787
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ถูกใจ', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 787
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ทา', 'แล้ว', 'ไม่ค่อย', 'ติด', 'เท่าไหร่']
+case 1 (Feature : สี) - comment_id : 788
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'แต่', 'ไม่', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี) - comment_id : 789
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'แต่', 'ไม่', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : ติด) - comment_id : 789
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'สม', 'กับ', 'คุณภาพ', ' ', 'ถ้า', 'ใคร', 'ชอบ', 'สี', 'ลิป', 'แบบ', 'สุภาพ', ' แมค', 'สี', 'นี้', 'ถือ', 'ว่า', 'โอเค', 'เลย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 790
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'สม', 'กับ', 'คุณภาพ', ' ', 'ถ้า', 'ใคร', 'ชอบ', 'สี', 'ลิป', 'แบบ', 'สุภาพ', ' แมค', 'สี', 'นี้', 'ถือ', 'ว่า', 'โอเค', 'เลย', 'ค่ะ']
+case 2 (Feature : สี) - comment_id : 790
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'สม', 'กับ', 'คุณภาพ', ' ', 'ถ้า', 'ใคร', 'ชอบ', 'สี', 'ลิป', 'แบบ', 'สุภาพ', ' แมค', 'สี', 'นี้', 'ถือ', 'ว่า', 'โอเค', 'เลย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 790
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'โดน', 'ใจ', ' ', 'ทา', 'ได้', 'ทุก', 'โอกาส']
+case 1 (Feature : สี) - comment_id : 791
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 792
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 793
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'มาก', 'ค่ะ', ' ', 'แตะ', 'นิด', 'เดียว', 'แต่', 'สี', 'ชัด', ' ', 'ปิด', 'สี', 'ปาก', 'เดิม', 'ได้', 'ค่อนข้าง', 'ดี', ' ', 'ลง', 'แก้ม', 'ก็', 'เกลี่ย', 'ง่าย', ' ', 'ใช้', 'น้อย', ' ', 'ดู', 'แก้ม', 'แดง', 'เป็นธรรมชาติ', ' ', 'ระหว่าง', 'วัน', 'ก็', 'มี', 'เติม', 'บ้าง', ' ', 'ครั้ง', 'หรือ', 'วัน', 'ไหน', 'ลุย', 'หน่อย', 'ก็', 'สอ', 'งครั้', 'งอ', 'ยู', '่!']
+case 1 (Feature : สี) - comment_id : 796
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'ดี', 'มาก', 'ค่ะ', ' ', 'แตะ', 'นิด', 'เดียว', 'แต่', 'สี', 'ชัด', ' ', 'ปิด', 'สี', 'ปาก', 'เดิม', 'ได้', 'ค่อนข้าง', 'ดี', ' ', 'ลง', 'แก้ม', 'ก็', 'เกลี่ย', 'ง่าย', ' ', 'ใช้', 'น้อย', ' ', 'ดู', 'แก้ม', 'แดง', 'เป็นธรรมชาติ', ' ', 'ระหว่าง', 'วัน', 'ก็', 'มี', 'เติม', 'บ้าง', ' ', 'ครั้ง', 'หรือ', 'วัน', 'ไหน', 'ลุย', 'หน่อย', 'ก็', 'สอ', 'งครั้', 'งอ', 'ยู', '่!']
+case 1 (Feature : สี) - comment_id : 796
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 799
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 800
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ชัดเจน']
+case 1 (Feature : สี) - comment_id : 801
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ชุ่ม', 'ชื่น', 'ดี']
+case 1 (Feature : สี) - comment_id : 803
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', ' ', 'ทา', 'แล้ว', 'ปาก', 'ชุ่ม', 'ชื่น', 'ดี']
+case 1 (Feature : ติด) - comment_id : 803
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 804
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'จัง']
+case 1 (Feature : สี) - comment_id : 806
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 807
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ไม่', 'สวย', 'แบบ', 'ใน', 'รูป', ' ', 'นึก', 'ว่าจะ', 'ดู', 'เป็น', 'ชมพู', 'นม', 'เย็น', 'มากกว่า', 'นี้', ' ', 'อัน', 'นี้', 'สีชมพู', 'เข้', 'มอม', 'ม่วง', 'เบา', ' ', 'เนื้อ', 'เนียน', 'นุ่ม', 'ดี', ' ', 'แต่', 'ทา', 'แล้ว', 'ปาก', 'แห้ง', ' ', 'สรุป', 'ว่า', 'ไม่ชอบ']
+case 1 (Feature : สี) - comment_id : 808
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['สี', 'ไม่', 'สวย', 'แบบ', 'ใน', 'รูป', ' ', 'นึก', 'ว่าจะ', 'ดู', 'เป็น', 'ชมพู', 'นม', 'เย็น', 'มากกว่า', 'นี้', ' ', 'อัน', 'นี้', 'สีชมพู', 'เข้', 'มอม', 'ม่วง', 'เบา', ' ', 'เนื้อ', 'เนียน', 'นุ่ม', 'ดี', ' ', 'แต่', 'ทา', 'แล้ว', 'ปาก', 'แห้ง', ' ', 'สรุป', 'ว่า', 'ไม่ชอบ']
+case 1 (Feature : เนื้อ) - comment_id : 808
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ', 'คะ']
+case 1 (Feature : สี) - comment_id : 810
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ได้รับ', 'ของ', 'แล้', 'วค', 'ะ.', 'สี', 'สวย', 'มาก', '  ', 'สี', 'อ่อน', 'กว่า', 'ที่', 'คิด', '..', 'แต่', 'ก้อ', 'ชอบ', 'คะ', '  ', 'เดี๋ยว', 'จะ', 'รอ', 'สี', 'อื่น', 'อีก', 'ถ้า', 'มี', 'จะ', 'สั่ง', 'เพิ่ม', 'นะ', 'คะ']
+case 1 (Feature : สี) - comment_id : 811
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 812
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ชอบ', 'มาก', ' ', 'ติด', 'ทน', 'นาน', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 813
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ชอบ', 'มาก', ' ', 'ติด', 'ทน', 'นาน', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 813
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 814
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', ' ', 'ติด', 'ทน', 'นาน', 'มาก']
+case 1 (Feature : สี) - comment_id : 815
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิป', 'สี', 'สวย', ' ', 'ติด', 'ทน', 'นาน', 'มาก']
+case 1 (Feature : ติด) - comment_id : 815
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'เบา', ' ', 'สีแดง', 'ออกแบบ', 'อม', 'ชมพู', ' ', 'ทา', 'แล้ว', 'สวย', 'มาก', ' ', 'ใช้ได้', 'กับ', 'ทุก', 'สีผิว', ' ', 'คน', 'ผิว', 'เข้ม', 'ก็', 'ทา', 'ได้', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'แห้ง', 'นิด', 'นึง', ' ', 'ต้อง', 'ทา', 'ลิบ', 'บาล์ม', 'ไว้', 'ก่อน', ' ', 'แล้ว', 'ค่อย', 'ทา', 'ลิปสติก', 'ทับ', ' ', 'ถ้า', 'ทา', 'บาง', ' ', 'เวลา', 'กิน', 'อาหาร', 'แล้ว', ' ', 'สี', 'จะ', 'จาง', 'ไปนิด', 'เดียว', ' ', 'ยัง', 'สวย', 'อยู่', 'ทั้งวัน', 'ไม่', 'ต้อง', 'ซ้ำ', 'เลย', ' ', 'แต่', 'อาจ', 'ต้อง', 'ทา', 'ลิปบาล์ม', 'ทับ', 'ระหว่าง', 'วัน', 'ด้วย', ' ', 'เพราะ', 'มัน', 'แห้ง']
+case 1 (Feature : เนื้อ) - comment_id : 816
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'เบา', ' ', 'สีแดง', 'ออกแบบ', 'อม', 'ชมพู', ' ', 'ทา', 'แล้ว', 'สวย', 'มาก', ' ', 'ใช้ได้', 'กับ', 'ทุก', 'สีผิว', ' ', 'คน', 'ผิว', 'เข้ม', 'ก็', 'ทา', 'ได้', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'แห้ง', 'นิด', 'นึง', ' ', 'ต้อง', 'ทา', 'ลิบ', 'บาล์ม', 'ไว้', 'ก่อน', ' ', 'แล้ว', 'ค่อย', 'ทา', 'ลิปสติก', 'ทับ', ' ', 'ถ้า', 'ทา', 'บาง', ' ', 'เวลา', 'กิน', 'อาหาร', 'แล้ว', ' ', 'สี', 'จะ', 'จาง', 'ไปนิด', 'เดียว', ' ', 'ยัง', 'สวย', 'อยู่', 'ทั้งวัน', 'ไม่', 'ต้อง', 'ซ้ำ', 'เลย', ' ', 'แต่', 'อาจ', 'ต้อง', 'ทา', 'ลิปบาล์ม', 'ทับ', 'ระหว่าง', 'วัน', 'ด้วย', ' ', 'เพราะ', 'มัน', 'แห้ง']
+case 1 (Feature : ติด) - comment_id : 816
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ลิปสติก', 'เนื้อ', 'นุ่ม', 'เบา', ' ', 'สีแดง', 'ออกแบบ', 'อม', 'ชมพู', ' ', 'ทา', 'แล้ว', 'สวย', 'มาก', ' ', 'ใช้ได้', 'กับ', 'ทุก', 'สีผิว', ' ', 'คน', 'ผิว', 'เข้ม', 'ก็', 'ทา', 'ได้', ' ', 'ติด', 'ทน', 'นาน', ' ', 'แต่', 'แห้ง', 'นิด', 'นึง', ' ', 'ต้อง', 'ทา', 'ลิบ', 'บาล์ม', 'ไว้', 'ก่อน', ' ', 'แล้ว', 'ค่อย', 'ทา', 'ลิปสติก', 'ทับ', ' ', 'ถ้า', 'ทา', 'บาง', ' ', 'เวลา', 'กิน', 'อาหาร', 'แล้ว', ' ', 'สี', 'จะ', 'จาง', 'ไปนิด', 'เดียว', ' ', 'ยัง', 'สวย', 'อยู่', 'ทั้งวัน', 'ไม่', 'ต้อง', 'ซ้ำ', 'เลย', ' ', 'แต่', 'อาจ', 'ต้อง', 'ทา', 'ลิปบาล์ม', 'ทับ', 'ระหว่าง', 'วัน', 'ด้วย', ' ', 'เพราะ', 'มัน', 'แห้ง']
+case 1 (Feature : สี) - comment_id : 816
+pos : False
+neg : True
+inv = False
+ANS : NEGATIVE
+
+
+['สี', 'สวย', 'มา', 'กก']
+case 1 (Feature : สี) - comment_id : 817
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ติ', 'ดท', 'นด', 'ีต่ะ']
+case 1 (Feature : สี) - comment_id : 818
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'ดี', ' ', 'เม็ด', 'สี', 'แน่น', ' (', 'ส่ง', 'ช้า', 'มา', 'ก.', ' ', 'จ่า', 'ยเงิ', 'นวั', 'นจั', 'นทร', '์เช้', 'า.', ' ', 'ได้', 'ของ', 'อีก', 'จันทร์', 'นึง', ' ', 'อาทิ', 'ตย', '์นึ', 'งเต็', 'ม)']
+case 1 (Feature : สี) - comment_id : 820
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สด', 'ดี', ' ', 'เม็ด', 'สี', 'แน่น', ' (', 'ส่ง', 'ช้า', 'มา', 'ก.', ' ', 'จ่า', 'ยเงิ', 'นวั', 'นจั', 'นทร', '์เช้', 'า.', ' ', 'ได้', 'ของ', 'อีก', 'จันทร์', 'นึง', ' ', 'อาทิ', 'ตย', '์นึ', 'งเต็', 'ม)']
+case 1 (Feature : สี) - comment_id : 820
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ได้รับ', 'ของ', 'แล้ว', '..', 'ส่ง', 'รวด', 'เร็ว', 'ดี', 'มาก', ' แ', 'พค', 'ของดี', 'เยี่ยม', ' ', 'สินค้า', 'เรียบร้อย', ' ', 'คุณภาพ', 'สินค้า', 'ดี', 'เยี่ยม', ' ', 'สี', 'สวย', 'มาก', ' ', 'ชอบ', 'จน', 'ต้อง', 'ซื้อ', 'เพิ่ม']
+case 1 (Feature : สี) - comment_id : 821
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 825
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ค่ะ', ' ', 'สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 826
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'สม', 'คำ', 'ร่ำ', 'ลือ']
+case 1 (Feature : สี) - comment_id : 827
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 828
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 829
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ออก', 'ส้ม', 'อ่อน', '  ', 'มี', 'ประกาย', 'นิด', '   ', 'แต่', 'เรา', 'ว่า', 'สี', 'นี้', 'ไม่', 'เหมาะกับ', 'เรา', 'ค่ะ', ' ', 'เพราะ', 'เรา', 'ใต้', 'ตา', 'คล้ำ', ' ', 'พอ', 'ทาสี', 'นี้', 'ก็', 'เลย', 'อาจจะ', 'ดู', 'ป่วย', '  ', 'แต่', 'ถ้า', 'ทา', 'ทับ', 'สี', 'แรง', '  ', 'สี', 'นี้', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 831
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ออก', 'ส้ม', 'อ่อน', '  ', 'มี', 'ประกาย', 'นิด', '   ', 'แต่', 'เรา', 'ว่า', 'สี', 'นี้', 'ไม่', 'เหมาะกับ', 'เรา', 'ค่ะ', ' ', 'เพราะ', 'เรา', 'ใต้', 'ตา', 'คล้ำ', ' ', 'พอ', 'ทาสี', 'นี้', 'ก็', 'เลย', 'อาจจะ', 'ดู', 'ป่วย', '  ', 'แต่', 'ถ้า', 'ทา', 'ทับ', 'สี', 'แรง', '  ', 'สี', 'นี้', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 831
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ออก', 'ส้ม', 'อ่อน', '  ', 'มี', 'ประกาย', 'นิด', '   ', 'แต่', 'เรา', 'ว่า', 'สี', 'นี้', 'ไม่', 'เหมาะกับ', 'เรา', 'ค่ะ', ' ', 'เพราะ', 'เรา', 'ใต้', 'ตา', 'คล้ำ', ' ', 'พอ', 'ทาสี', 'นี้', 'ก็', 'เลย', 'อาจจะ', 'ดู', 'ป่วย', '  ', 'แต่', 'ถ้า', 'ทา', 'ทับ', 'สี', 'แรง', '  ', 'สี', 'นี้', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 831
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['หนืด', 'สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 832
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 833
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 834
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มี', 'ประ', 'กา', 'ยว', 'ิบ', 'วับ', ' ', 'ข้น', 'หนืด', 'ค่ะ', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 835
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เป็', 'นก', 'ลอส', 'ที่', 'สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ทา', 'ทับ', 'ลิปสติก', 'งาม', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 836
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ', ' ', 'ได', '้ล', 'ุค', 'ฉ่ำ', 'วาว']
+case 1 (Feature : สี) - comment_id : 839
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 841
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ทา', 'แล้ว', 'ปาก', 'ไม่', 'แห้ง', 'เป็น', 'ขุย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 842
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 843
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'มาก', ' ', 'สี', 'สวย', ' ', 'ปาก', 'ชุ่ม', 'ชื้น', ' ', 'พก', 'พา', 'สะดวก', ' ถ้', 'าม', 'ีเ', 'ซล', 'อีก', 'จะ', 'ซื้อ', 'ตุน', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 845
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'นะ', 'ค่ะ', ' ', 'ออก', 'ส้ม', ' ', 'แวว']
+case 1 (Feature : สี) - comment_id : 848
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ธรรมชาติ', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 849
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['คือ', 'งาม', 'มาก', ' ', 'สี', 'สวย', 'มาก']
+case 1 (Feature : สี) - comment_id : 853
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 855
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ม', 'ีก', 'ลิ', 'ตเ', 'ตอ', 'ร์', 'สี', 'ทอ', 'งแ', 'วา', 'วว', ' ', 'แต่', 'แอบ', 'เหนียว', 'ไป', 'หน่อย']
+case 1 (Feature : สี) - comment_id : 856
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'ราคาถูก']
+case 1 (Feature : สี) - comment_id : 857
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'เลย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 860
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'แล้ว', 'อยาก', 'ซื้อ', 'ต่อ', 'เลย', 'ค่ะ', ' ', 'เนื้อ', 'สี', 'ดี', 'มาก']
+case 1 (Feature : เนื้อ) - comment_id : 863
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ใช้', 'แล้ว', 'อยาก', 'ซื้อ', 'ต่อ', 'เลย', 'ค่ะ', ' ', 'เนื้อ', 'สี', 'ดี', 'มาก']
+case 1 (Feature : สี) - comment_id : 863
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'เลย', ' ', 'ชอบ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 864
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'เนื้อ', 'ลิป', 'เนียน', 'นุ่ม', 'ไม่', 'เป็น', 'ขุย']
+case 1 (Feature : สี) - comment_id : 865
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ถูกใจ', 'มาก', 'ค่ะ', ' ', 'เนื้อ', 'ลิป', 'เนียน', 'นุ่ม', 'ไม่', 'เป็น', 'ขุย']
+case 1 (Feature : เนื้อ) - comment_id : 865
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สุภาพ', 'ดี']
+case 1 (Feature : สี) - comment_id : 866
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'สี', 'นี้', 'มาก', 'ค่ะ', ' ', 'เป็น', 'ไซส์', 'ทดลอง', ' ', 'แต่', 'คิดว่า', 'ต้อง', 'ไป', 'ซื้อ', 'ไซส์', 'จริง', 'มา', 'ใช้', 'แล้ว']
+case 2 (Feature : สี) - comment_id : 868
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'พก', 'ติด', 'ตัว', 'ตลอด']
+case 1 (Feature : สี) - comment_id : 869
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', ' ', 'ปาก', 'ไม่', 'แห้ง', ' อ', 'ยาด', 'ให้', 'มี', 'ลด', 'อีก', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 870
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', ' ', 'ปาก', 'ไม่', 'แห้ง', ' อ', 'ยาด', 'ให้', 'มี', 'ลด', 'อีก', ' ', 'ชอบ']
+case 1 (Feature : ติด) - comment_id : 870
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'ดี', 'ค่ะ', ' ', 'อัน', 'เล็ก', 'น่ารัก']
+case 1 (Feature : สี) - comment_id : 871
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'ติด', 'ทน', 'ดี', 'ค่ะ', ' ', 'อัน', 'เล็ก', 'น่ารัก']
+case 1 (Feature : ติด) - comment_id : 871
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 872
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ม้', 'วก', ' ', 'แต่', 'เรา', 'แพ้', 'เอง', 'เสีย', 'ดาย', ' ', 'อย่า', 'ตกใจ', 'เรา', 'แพ้', 'เกือบ', 'ทุก', 'แบรนด์']
+case 1 (Feature : สี) - comment_id : 873
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'หอม', 'มาก']
+case 1 (Feature : สี) - comment_id : 874
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'ดี', 'ค่ะ', ' ', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 875
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ไม่', 'เข้ม', 'มาก', ' ', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี) - comment_id : 876
+pos : True
+neg : False
+inv = True
+ANS : NEGATIVE
+
+
+['ของ', 'ส่ง', 'ไว', 'มาก', 'ค่ะ', ' ', 'จ่าย', 'เงิน', 'เมื่อวาน', 'ตอนเย็น', 'เช้า', 'นี้', 'ได้', 'ของ', ' ', 'มี', 'ของ', 'แถม', 'ให้', 'ด้วย', 'ค่ะ', ' ', 'ลิป', 'สี', 'สวย', 'มาก', ' ', 'แดง', 'อิฐ', ' ', 'สำหรับ', 'คน', 'แต่ง', 'หน้า', 'เบา', ' ', 'แบบ', 'เรา', ' ', 'คือ', 'มั', 'นใ', 'สล', 'ุค', 'ธรรมชาติ', 'ค่ะ', ' เป็', 'นเนื้', 'อแมท', 'ที่มี', 'ความ', 'ชุ่ม', 'ชื่น', 'ไม่', 'แห้ง', 'ผาก', 'ค่ะ', '  ', 'ชอบ', 'มาก', ' ', 'สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 877
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ของ', 'ส่ง', 'ไว', 'มาก', 'ค่ะ', ' ', 'จ่าย', 'เงิน', 'เมื่อวาน', 'ตอนเย็น', 'เช้า', 'นี้', 'ได้', 'ของ', ' ', 'มี', 'ของ', 'แถม', 'ให้', 'ด้วย', 'ค่ะ', ' ', 'ลิป', 'สี', 'สวย', 'มาก', ' ', 'แดง', 'อิฐ', ' ', 'สำหรับ', 'คน', 'แต่ง', 'หน้า', 'เบา', ' ', 'แบบ', 'เรา', ' ', 'คือ', 'มั', 'นใ', 'สล', 'ุค', 'ธรรมชาติ', 'ค่ะ', ' เป็', 'นเนื้', 'อแมท', 'ที่มี', 'ความ', 'ชุ่ม', 'ชื่น', 'ไม่', 'แห้ง', 'ผาก', 'ค่ะ', '  ', 'ชอบ', 'มาก', ' ', 'สี', 'สวย', 'มาก', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 877
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สุภาพ', 'กลิ่น', 'หอม', ' ', 'ถูก', 'ด้วย']
+case 1 (Feature : สี) - comment_id : 878
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สุภาพ', 'กลิ่น', 'หอม', ' ', 'ถูก', 'ด้วย']
+case 1 (Feature : กลิ่น) - comment_id : 878
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+case 3
+['สี', 'สวย', 'ค่า']
+case 1 (Feature : สี) - comment_id : 882
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'พก', 'พา', 'สะดวก']
+case 1 (Feature : สี) - comment_id : 883
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 884
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'คะ']
+case 1 (Feature : สี) - comment_id : 885
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['พก', 'พา', 'สะดวก', ' ', 'ใช้', 'ง่าย', ' ', 'เนื้อ', 'นิ่ม']
+case 1 (Feature : เนื้อ) - comment_id : 886
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 887
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'แท่ง', 'เล็ก', 'ไปนิด', 'ค่ะ', ' ', 'ไม่', 'ผิดหวัง', 'กับ', 'สี', 'จริง', ' ', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 888
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ใช้ได้', 'กับ', 'ทุกวัน']
+case 1 (Feature : สี) - comment_id : 890
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'นะ', ' ', 'สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 892
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 893
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', 'ค่ะ', ' ', 'แต่', 'แท่ง', 'เล็ก', 'ไปนิด']
+case 1 (Feature : สี) - comment_id : 894
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชอบ', 'ค่ะ', ' ', 'หมด', 'เร็ว', 'ไป', 'หน่อย', ' ', 'แต่', 'สี', 'สวย', 'ดี']
+case 1 (Feature : สี) - comment_id : 895
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มาก', ' ', 'แต่', 'นิ', 'ดดดดดดด', 'เดียว', ' ', 'ต้อง', 'เก็บไว้', 'ทา', 'เฉพาะ', 'วัน', 'สำคัญ', ' ', 'เท่านั้น', 'เลย', 'นะ', 'เรา']
+case 1 (Feature : สี) - comment_id : 896
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'ก(', ' ', 'ก.', 'ไก่', ' ', 'ล้า', 'นตั', 'ว)', ' ', 'สี', 'ชัด', 'มาก', ' ', 'ปาด', 'เบา', ' ', 'เข้ม', 'สุด', 'ใจ', ' ', 'ดี', 'งาม', ' ', 'บอก', 'ต่อ', ' ', 'วน', 'ไป', 'ค่ะ', '  ', 'นี่', 'เพื่อน', 'ก็', 'จะ', 'ฝาก', 'ซื้อ', 'อีก', 'แท่ง', 'ด้วย']
+case 1 (Feature : สี) - comment_id : 898
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'มา', 'ก(', ' ', 'ก.', 'ไก่', ' ', 'ล้า', 'นตั', 'ว)', ' ', 'สี', 'ชัด', 'มาก', ' ', 'ปาด', 'เบา', ' ', 'เข้ม', 'สุด', 'ใจ', ' ', 'ดี', 'งาม', ' ', 'บอก', 'ต่อ', ' ', 'วน', 'ไป', 'ค่ะ', '  ', 'นี่', 'เพื่อน', 'ก็', 'จะ', 'ฝาก', 'ซื้อ', 'อีก', 'แท่ง', 'ด้วย']
+case 1 (Feature : สี) - comment_id : 898
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'นี่', 'สวย', ' ', 'หน้า', 'สว่าง', ' ', 'สด', 'ใส']
+case 1 (Feature : สี) - comment_id : 899
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เม็ด', 'สี', 'แน่น', 'มาก']
+case 1 (Feature : สี) - comment_id : 900
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เม็ด', 'สี', 'แน่น', 'มาก']
+case 1 (Feature : สี) - comment_id : 900
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'สี', 'แน่น', 'มาก', 'ค่ะ', ' ^^']
+case 1 (Feature : สี) - comment_id : 901
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'สี', 'แน่น', 'มาก', 'ค่ะ', ' ^^']
+case 1 (Feature : เนื้อ) - comment_id : 901
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', ' ', 'เนื้อ', 'สี', 'แน่น', 'มาก', 'ค่ะ', ' ^^']
+case 1 (Feature : สี) - comment_id : 901
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 902
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ชอบ']
+case 1 (Feature : สี) - comment_id : 904
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'ชอบ']
+case 2 (Feature : ติด) - comment_id : 904
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 905
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'ติด', 'ทน', 'ดี', 'ค่ะ']
+case 1 (Feature : ติด) - comment_id : 905
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น', ' ', 'ให้', 'สี', 'ที่', 'ชัดเจน', ' ', 'โดยรวม', 'แล้ว', 'ชอบ', 'มาก', ' ', 'ต้อ', 'งซื้', 'อส', 'ีอื่ื', 'นม', 'าลอ', 'งเ', 'พิ่', 'มซะ', 'แล้ว']
+case 1 (Feature : สี) - comment_id : 908
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เม็ด', 'สี', 'แน่น', ' ', 'ให้', 'สี', 'ที่', 'ชัดเจน', ' ', 'โดยรวม', 'แล้ว', 'ชอบ', 'มาก', ' ', 'ต้อ', 'งซื้', 'อส', 'ีอื่ื', 'นม', 'าลอ', 'งเ', 'พิ่', 'มซะ', 'แล้ว']
+case 1 (Feature : สี) - comment_id : 908
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', 'มาก', 'สี', 'สวย', 'มาก', '  ', 'ชอบ', 'ค่ะ', 'สั่ง', 'อีก', 'แน่นอน']
+case 1 (Feature : สี) - comment_id : 909
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'แน่น', 'มาก', 'สี', 'สวย', 'มาก', '  ', 'ชอบ', 'ค่ะ', 'สั่ง', 'อีก', 'แน่นอน']
+case 1 (Feature : สี) - comment_id : 909
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวน', ' ', 'เนียน', ' ', 'ติด', 'ทน']
+case 1 (Feature : สี) - comment_id : 910
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวน', ' ', 'เนียน', ' ', 'ติด', 'ทน']
+case 1 (Feature : ติด) - comment_id : 910
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'เข้มข้น', ' ', 'ปกปิด', 'สี', 'ปาก', 'ที่', 'ไม่', 'เท่ากัน', 'ได้', 'ดี']
+case 1 (Feature : เนื้อ) - comment_id : 911
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'สี', 'เข้มข้น', ' ', 'ปกปิด', 'สี', 'ปาก', 'ที่', 'ไม่', 'เท่ากัน', 'ได้', 'ดี']
+case 1 (Feature : สี) - comment_id : 911
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ของ', 'ได้รับ', 'เร็ว', 'นะ', 'คะ', ' ', 'ตัว', 'นี้', 'ใช้', 'ดี', 'มาก', ' ', 'ทา', 'ติด', 'ทน', 'นาน', ' ', 'ไม่', 'ปาก', 'แห้ง', 'ระหว่าง', 'วัน', 'ด้วย', ' ', 'รัก', 'เลย']
+case 1 (Feature : ติด) - comment_id : 912
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ละเอียด', 'ดี', 'ค่ะ', ' ', 'สี', 'สวย']
+case 1 (Feature : เนื้อ) - comment_id : 913
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['เนื้อ', 'ละเอียด', 'ดี', 'ค่ะ', ' ', 'สี', 'สวย']
+case 1 (Feature : สี) - comment_id : 913
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'นาน']
+case 1 (Feature : สี) - comment_id : 914
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ติด', 'ทน', 'นาน']
+case 2 (Feature : ติด) - comment_id : 914
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ดี', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 915
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['สี', 'สวย', 'ค่ะ']
+case 1 (Feature : สี) - comment_id : 917
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
+['ชุ่ม', 'ชื้น', 'ดี', ' ', 'สี', 'สวย', 'มา', 'กก', ' ', 'แถม', 'ราคา', 'ไม่แพง', 'ด้ว', 'ยย']
+case 1 (Feature : สี) - comment_id : 918
+pos : True
+neg : False
+inv = False
+ANS : POSITIVE
+
+
