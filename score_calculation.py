@@ -34,7 +34,10 @@ def scoreCalculation(scoreList,newScoreFile):
 				pos = int(i[1])+int(i[2])+int(i[3])+int(i[4])+int(i[5])+int(i[6])+int(i[7])+int(i[8])
 				neg = int(i[9])+int(i[10])+int(i[11])+int(i[12])+int(i[13])+int(i[14])+int(i[15])+int(i[16])
 				reviews = int(i[17])
-			score = ((pos-neg)/(pos+neg+1))*5
+			if pos+neg == 0:
+				score = 0
+			else :
+				score = ((pos-neg)/(pos+neg))*5
 			print (i[0],dict_type[i[0]],score)
 			newScoreFile.write("%s,%s,%.2f,%s\n"%(i[0],dict_type[i[0]],score,reviews))
 	newScoreFile.close()

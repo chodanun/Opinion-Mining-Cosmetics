@@ -139,12 +139,12 @@ def opinionScore(csvfile,scorefile,item_type):
 	# add others type here
 
 def main():
-	opinion_lip = readFile('./data/opinion_lip.csv')
-	opinion_score_lip = writeFile('./data/opinion_score_lip.csv')
-	opinionScore(opinion_lip,opinion_score_lip,"lipstick")
-	# opinion_skin = readFile('./data/opinion_skin.csv')
-	# opinion_score_skin = writeFile('./data/opinion_score_skin.csv')
-	# opinionScore(opinion_skin,opinion_score_skin,"skin_protection")
+	# opinion_lip = readFile('./data/opinion_lip.csv')
+	# opinion_score_lip = writeFile('./data/opinion_score_lip.csv')
+	# opinionScore(opinion_lip,opinion_score_lip,"lipstick")
+	opinion_skin = readFile('./data/opinion_skin.csv')
+	opinion_score_skin = writeFile('./data/opinion_score_skin.csv')
+	opinionScore(opinion_skin,opinion_score_skin,"skin_protection")
 
 
 if __name__ == '__main__' :

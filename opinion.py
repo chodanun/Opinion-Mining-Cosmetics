@@ -5,7 +5,7 @@ import operator
 
 # lipstick
 features_lip = {'สี':0,'ติด':0,'เนื้อ':0,'กลิ่น':0}
-positive_sentiments_lip = {'แนะนำ':0,'สวย':0,'แน่น':0,'ทน':0,'คม':0,'ดี':0,'ชัด':0,'หอม':0,'หอมหวาน':0,'ปัง':0,'ถูกใจ':0,'ชอบ':0,'เจิด':0,'สด':0,'นุ่ม':0,'ลื่น':0,'ชัดเจน':0,'นาน':0,'เนียน':0,'โอเค':0,'หวาน':0,'แจ่ม':0,'นิ่ม':0,'ทาง่าย':0,'ละเอียด':0,'ติด':0,'นิ่ม':0,'เข้มข้น':0}
+positive_sentiments_lip = {'แนะนำ':0,'สวย':0,'แน่น':0,'ทน':0,'คม':0,'ดี':0,'ชัด':0,'หอม':0,'หอมหวาน':0,'ปัง':0,'ถูกใจ':0,'ชอบ':0,'เจิด':0,'สด':0,'นุ่ม':0,'ลื่น':0,'ชัดเจน':0,'นาน':0,'เนียน':0,'โอเค':0,'หวาน':0,'แจ่ม':0,'นิ่ม':0,'ทาง่าย':0,'ละเอียด':0,'ติด':0,'นิ่ม':0,'เข้มข้น':0,'ชอบ':0}
 negative_sentiments_lip = {'แห้ง':0,'เป็นก้อน':0,'เป็นคราบ':0,'เหลว':0,'จาง':0,'ผิดหวัง':0,'ไม่ชอบ':0}
 inverse_sentiments_lip = {'ไม่':0,'ไม่ค่อย':0,'ไปนิด':0}
 alone_positive_sentiment_lip = {'หอม':0}
@@ -26,6 +26,8 @@ def writeFile(path):
 def matchItemIdToType():
 	type_item = csv.reader(readFile('./data/items.csv'), delimiter=',')
 	typeOfItem = {}
+
+
 	for row_item in type_item:
 		typeOfItem[row_item[0]] = row_item[5]
 	return typeOfItem
@@ -33,7 +35,7 @@ def matchItemIdToType():
 def report(token,comment_id,feature,case,pos_sentiment,neg_sentiment,inv_sentiment,debugMode=False):
 	if debugMode:
 		if pos_sentiment == False and neg_sentiment == False :
-			print ("Can't detect feature : %s (case:%s, comment_id:%s) from token : %s"%(feature,comment_id,case,token))
+			print ("Can't detect feature : %s (case:%s, comment_id:%s) from token : %s"%(feature,case,comment_id,token))
 	else:		
 		if pos_sentiment == False and neg_sentiment == False :
 			pass
@@ -262,15 +264,15 @@ def opinion(csvfile,function):
 	f_all = openMultipleFile(function)
 	for row in spamreader:
 		if ( 'lipstick' in function and typeOfItem[row[1]] == "lipstick" ):
-			pattern_lipstick(row,f_all['lipstick'],debugMode=True)
+			pattern_lipstick(row,f_all['lipstick'],debugMode=False)
 		if ( 'skin_protection' in function and typeOfItem[row[1]] == "skin protection" ):
-			pattern_skinProtection(row,f_all['skin_protection'],debugMode=False)
+			pattern_skinProtection(row,f_all['skin_protection'],debugMode=True)
 
 	closeMultipleFile(function,f_all)
 
 def main():
 	comments = readFile('./data/comments-removing-redundant.csv')
-	opinion(comments,{'lipstick'}) #skin_protection, lipstick
+	opinion(comments,{'skin_protection'}) #skin_protection, lipstick
 	# test()
 
 def  test():
